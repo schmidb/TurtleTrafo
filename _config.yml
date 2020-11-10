@@ -1,0 +1,42 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://turtletrafo.de
+title: Turtle Transformation
+email: trafo@posteo.net
+author: Miriam & Markus Schmidberger
+description: > # "Write an awesome description for your new site here.
+  You can edit this line in _config.yml. It will appear in your document
+  head meta (for Google search results) and in your feed.xml site
+  description.
+copyright: 'Copyright &copy; 2020 Miriam & Markus Schmidberger. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+remote_theme: swcool/landing-page-theme
+permalink: pretty # layout of URL for blog posts
+plugins:
+  - jekyll-feed
+  - jekyll-minifier
+  - jekyll-sitemap
+  - jekyll-github-metadata #Jekyll plugin to propagate the site.github namespace and set default values for use with GitHub Pages.
+
+github: [metadata]
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+#social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: linkedin
+#    url:
