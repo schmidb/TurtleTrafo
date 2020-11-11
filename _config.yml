@@ -12,6 +12,10 @@ description: > # "Write an awesome description for your new site here.
   description.
 copyright: 'Copyright &copy; 2020 Miriam & Markus Schmidberger. All Rights Reserved.'
 credits: ''
+keep_files: [CNAME]
+
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+google_analytics_tracking_id: G-21YC88FWVZ
 
 # ----------------------- #
 #    Jekyll & Plugins     #
