@@ -6,6 +6,6 @@ title: Advents - Coaching
 description: |
 ---
 
-Wir verschenken 24 kleine Anregungen um dich im Advent zu verändern und dein "Sein" zu spüren.
+Wir teilen 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 
 [https://turtletrafo.de/adventskalender](/adventskalender)
