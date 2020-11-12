@@ -1,9 +1,13 @@
 ---
 layout: subdefault
 title: Adventskalender
-subTitle: 24 kleine Anregungen um dich im Advent zu verändern und dein "Sein" zu spüre
+subTitle: 24 kleine Anregungen um dich im Advent zu verändern und dein "Sein" zu spüren
 ---
 
-# sdffsdafsda
+# Idee
 vkvk
 bjkb
+
+# Registrierung
+
+# Spenden
