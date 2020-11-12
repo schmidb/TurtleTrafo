@@ -21,6 +21,11 @@ h6 {
     font-weight: 700;
 }
 
+body {
+    font-size: 18px;
+    font-weight: 400;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
