@@ -21,11 +21,6 @@ h6 {
     font-weight: 700;
 }
 
-body {
-    font-size: 18px;
-    font-weight: 400;
-}
-
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -102,6 +97,12 @@ body {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+}
+
+.content-pages {
+  padding: 50px 0;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .section-heading {
