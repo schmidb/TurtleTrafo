@@ -26,12 +26,18 @@ h6 {
     font-weight: 400;
 }
 
+.intro-logo{
+  width: 60%;
+  height: auto;
+}
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #000000;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
+    background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
