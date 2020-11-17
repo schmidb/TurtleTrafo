@@ -2,7 +2,7 @@
 layout: default
 img: advent.jpg
 category: Services
-title: Advents - Coaching
+title: "Impulse - Coaching: Bewusster Advent"
 description: |
 ---
 

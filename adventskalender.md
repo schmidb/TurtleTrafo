@@ -1,11 +1,11 @@
 ---
 layout: subdefault
-title: Advents-Coaching
-img: advent2.jpg
+title: "Impulse-Coaching: Bewusster Advent"
 subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 ---
 
 # Idee
+![Adventskalender](/img/services/advent2.jpg){:class="materialboxed"}{:width="250"}{:style="float: right;margin-left:10px;"}
 Für Freunde und Verwandte basteln wir einen realen Adventskalender mit 24 Süßigkeiten und täglichen Anregungen sich in der Adventszeit auf eine Mini-Transformation zum eigenen "Sein" einzulassen. In jedem Adventskalenderfenster findest du eine Karte mit einer Anregung das "Bewusstsein für dein Sein" neu zu finden.
 
 Online teilen wir diese 24 kleinen und täglichen Anregungen auch. Unser Advents-Coaching lädt dich ein, täglich dein "Sein" zu finden und zu fühlen. Du kannst dir die Anregungen täglich per Email zusenden lassen oder einmalig alle 24 Anregungen als PDF zum Ausdrucken und Ausschneiden erhalten. Natürlich kannst du daraus auch deinen eigenen Adventskalender basteln oder diesen dann verschenken.
