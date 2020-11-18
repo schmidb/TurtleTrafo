@@ -8,10 +8,11 @@ subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 ![Adventskalender](/img/services/advent2.jpg){:class="materialboxed"}{:width="250"}{:style="float: right;margin-left:10px;"}
 Für Freunde und Verwandte basteln wir einen realen Adventskalender mit 24 Süßigkeiten und täglichen Anregungen sich in der Adventszeit auf eine Mini-Transformation zum eigenen "Sein" einzulassen. In jedem Adventskalenderfenster findest du eine Karte mit einer Anregung das "Bewusstsein für dein Sein" neu zu finden.
 
-Online teilen wir diese 24 kleinen und täglichen Anregungen auch. Unser Impulse-Coaching lädt dich ein, täglich dein "Sein" zu finden und zu fühlen. Du kannst dir die Anregungen täglich per Email zusenden lassen oder einmalig alle 24 Anregungen als PDF zum Ausdrucken und Ausschneiden erhalten. Natürlich kannst du daraus auch deinen eigenen Adventskalender basteln oder diesen dann verschenken.
+Online teilen wir diese 24 kleinen und täglichen Anregungen und freuen uns über eine Spende. Unser Impulse-Coaching lädt dich ein, täglich dein "Sein" zu finden und zu fühlen. Du kannst dir die Anregungen täglich per Email zusenden lassen oder einmalig alle 24 Anregungen als PDF zum Ausdrucken und Ausschneiden erhalten. Natürlich kannst du daraus auch deinen eigenen Adventskalender basteln oder diesen dann verschenken.
 <br><br>
 
 # Registrierung
+![Bewusster Advent](/img/services/advent_karten.jpg){:class="materialboxed"}{:width="250"}{:style="float: right;margin-left:10px;"}
 Wenn dir die Idee gefällt und du auch an einer Mini-Transformation zum eigenen "Sein" Interesse hast, dann schreib uns bitte eine Email an <a href="mailto:{{ site.email }}?subject=Impulse-Coaching Bewusster Advent&body=Hallo Miriam und Markus, bitte sendet mir einmalig / täglich das Turtle Transformation Impulse-Coaching Bewusster Advent zu. Vielen Dank">{{ site.email }}</a>. Deine Email sollte bitte folgende Inhalte haben:
 * An: {{site.email}}
 * Betreff: Impulse-Coaching Bewusster Advent
@@ -20,7 +21,7 @@ Wenn dir die Idee gefällt und du auch an einer Mini-Transformation zum eigenen 
 <br><br>
 
 # Unterstütze uns
-Wir freuen uns über jede finanzielle Unterstützung. Gefällt dir unsere Idee und Arbeit? Dann hast du hier die Möglichkeit unsere Arbeit durch eine Spende zu unterstützen.
+Gefällt dir unsere Idee und Arbeit? Dann hast du hier die Möglichkeit unsere Arbeit durch eine Spende zu unterstützen.
 
 Name: Miriam & Markus Schmidberger<br>
 IBAN: DE 84 43060967 82012557 01<br>
