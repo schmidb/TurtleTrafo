@@ -3,7 +3,7 @@ layout: default
 img: shantibosshart.jpg
 category: Referenzen
 title: Shanti Bosshart
-description: Mother of Live Visionärin für Zukunftsprojekte und Yogalehrerin <a href="http://shanti-yoga.ch//" target="_blank">Shanti-Yoga</a>
+description: Mother of Live Zukunftsprojekte und Yogalehrerin <a href="http://shanti-yoga.ch//" target="_blank">Shanti-Yoga</a>
 ---
 
 Ich durfte Miriam und ihre Kinder auf Lanzarote kennen lernen. Vom ersten Moment an hat mich
