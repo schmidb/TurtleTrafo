@@ -1,6 +1,6 @@
 ---
 layout: default
-img: advent.jpg
+img: advent.webp
 category: Services
 title: "Impulse - Coaching: Bewusster Advent"
 description: |

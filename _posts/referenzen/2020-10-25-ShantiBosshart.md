@@ -1,6 +1,6 @@
 ---
 layout: default
-img: shantibosshart.jpg
+img: shantibosshart.webp
 category: Referenzen
 title: Shanti Bosshart
 description: Mother of Live Zukunftsprojekte und Yogalehrerin <a href="http://shanti-yoga.ch//" target="_blank">Shanti-Yoga</a>

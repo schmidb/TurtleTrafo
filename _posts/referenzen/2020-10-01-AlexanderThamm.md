@@ -1,6 +1,6 @@
 ---
 layout: default
-img: alexanderthamm.jpg
+img: alexanderthamm.webp
 category: Referenzen
 title: Alexander Thamm
 description: Vater und CEO & Gründer von <a href="https://www.alexanderthamm.com/" target="_blank">Alexander Thamm GmbH</a>
