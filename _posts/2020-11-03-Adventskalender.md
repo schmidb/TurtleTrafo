@@ -6,6 +6,6 @@ title: "Impulse - Coaching: Bewusster Advent"
 description: |
 ---
 
-Wir teilen 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
+Online teilen wir 24 kleinen und täglichen Anregungen. Unser Impulse-Coaching lädt dich ein in der Adventszeit dein "Sein" zu spüren.
 
 [https://turtletrafo.de/adventskalender](/adventskalender)

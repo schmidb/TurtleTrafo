@@ -8,7 +8,7 @@ subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
     <h1>Idee</h1>
     <p>Für Freunde und Verwandte gestalten wir einen realen Adventskalender mit 24 Kleinigkeiten und täglichen Anregungen sich in der Adventszeit auf eine Mini-Transformation zum eigenen "Sein" einzulassen. In jedem Adventskalenderfenster befindet sich eine Karte mit einem Anstoß zum Bewusstsein des eigenen Seins. Die Anregungen sind klein und einfach gestaltet, um leicht in deinen normalen Alltag zu passen.</p>
 
-    <p>Online teilen wir diese 24 kleinen und täglichen Anregungen und freuen uns über eine Unterstützung. Unser Impulse-Coaching lädt dich ein, dein "Sein" zu spüren. Du kannst dir die Anregungen täglich per Email zusenden lassen oder einmalig alle 24 Anregungen als PDF zum Ausdrucken und Ausschneiden erhalten.</p>
+    <p>Online teilen wir diese 24 kleinen und täglichen Anregungen und freuen uns über eine Unterstützung. Unser Impulse-Coaching lädt dich ein, in der Adventszeit dein "Sein" zu spüren. Du kannst dir die Anregungen täglich per Email zusenden lassen oder einmalig alle 24 Anregungen als PDF zum Ausdrucken und Ausschneiden erhalten.</p>
   </div>
 
   <div class="col-lg-6">
