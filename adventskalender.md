@@ -14,7 +14,7 @@ subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 
   <div class="col-lg-6">
   <center>
-    <img class="thumbnail" src="/img/services/adventskalender/advent2.webp" width="50%">
+    <img class="thumbnail" src="/img/services/adventskalender/advent2.webp" width="50%" onerror="this.src='/img/services/adventskalender/advent2.jpg'">
     </center>
   </div>
 </div>
@@ -25,27 +25,13 @@ subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 <div class="row">
   <div class="col-lg-6">
   <center>
-    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_halter_gross.webp">
+    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_halter_gross.webp" onerror="this.src='/img/services/adventskalender/advent_karten_halter_gross.jpg'">
     </center>
   </div>
 
   <div class="col-lg-6">
   <center>
-    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_halter.webp">
-    </center>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-  <center>
-    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_halter_klein.webp">
-    </center>
-  </div>
-
-  <div class="col-lg-6">
-  <center>
-    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_bild.webp">
+    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_halter.webp" onerror="this.src='/img/services/adventskalender/advent_karten_halter.jpg'">
     </center>
   </div>
 </div>
@@ -53,7 +39,21 @@ subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 <div class="row">
   <div class="col-lg-6">
   <center>
-    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_bild_drei.webp">
+    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_halter_klein.webp" onerror="this.src='/img/services/adventskalender/advent_karten_halter_klein.jpg'">
+    </center>
+  </div>
+
+  <div class="col-lg-6">
+  <center>
+    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_bild.webp" onerror="this.src='/img/services/adventskalender/advent_karten_bild.jpg'">
+    </center>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+  <center>
+    <img width="50%" class="thumbnail" src="/img/services/adventskalender/advent_karten_bild_drei.webp" onerror="this.src='/img/services/adventskalender/advent_karten_bild_drei.jpg'">
     </center>
   </div>
 </div>
