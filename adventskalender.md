@@ -74,7 +74,7 @@ subTitle: 24 kleine Anregungen um Dein "Sein" zu finden und fühlen.
 
 <div class="col-lg-6">
 <center>
-  <img class="thumbnail" src="/img/services/adventskalender/advent_karten.webp" width="50%">
+  <img class="thumbnail" src="/img/services/adventskalender/advent_karten.webp" width="50%" onerror="this.src='/img/services/adventskalender/advent_karten.jpg'">
   </center>
 </div>
 </div>
