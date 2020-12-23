@@ -1,12 +1,12 @@
 ---
 layout: subdefault
-title: "Impulse-Coaching: Angst-Faste"
+title: "Impulse-Coaching: Angst-Fasten"
 subTitle: 40 kleine Anregungen um Deine "Ängste" zu finden und fühlen.
 ---
 
 <h1>Idee</h1>
 <div class="row">
-  <div class="col-lg-12">
+  <div class="col-lg-6">
     <p>
     Nach dem vielen positiven Feedback zu unserem <a href="/adventskalender2020">"Bewusster Advent" Impulse-Coaching in 2020</a> planen wir nun ein weiteres Impulse-Coaching zum Thema "Angst".
     </p>
@@ -17,6 +17,11 @@ subTitle: 40 kleine Anregungen um Deine "Ängste" zu finden und fühlen.
     <p>Online teilen wir diese 40 kleinen und täglichen Anregungen und freuen uns über eine Unterstützung. Unser Impulse-Coaching lädt dich ein, in der Fastenzeit deine "Ängste" zu spüren und zu erkennen. Du kannst dir die Anregungen täglich per Email zusenden lassen oder einmalig alle 40 Anregungen als PDF zum Ausdrucken und Ausschneiden erhalten.</p>
   </div>
 
+  <div class="col-lg-6">
+  <center>
+    <img class="thumbnail" src="/img/services/fasten.webp" width="50%" onerror="this.src='/img/services/fasten.jpg'">
+    </center>
+  </div>
 
 </div>
 
