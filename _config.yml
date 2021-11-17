@@ -31,8 +31,18 @@ plugins:
   - jekyll-minifier
   - jekyll-sitemap
   - jekyll-github-metadata #Jekyll plugin to propagate the site.github namespace and set default values for use with GitHub Pages.
+  - jekyll-multiple-languages-plugin
 
 github: [metadata]
+
+# languages
+languages: ["de", "en"]
+exclude_from_localizations: ["assets", "css", "fonts", "img", "js", "CNAME"]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+defaultLang: de
+languageNames:
+  de: Deutsch
+  en: English
 
 # ----------------------- #
 #   3rd Party Settings    #
