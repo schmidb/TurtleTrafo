@@ -22,6 +22,8 @@ Miriam &amp; Markus Schmidberger
 #### Copyright Photos
 Familie @ Miriam & Markus Schmidberger
 
+The country flag images are provided by https://www.ip2location.com
+
 Andere / Rest @ https://pixabay.com
 
 
