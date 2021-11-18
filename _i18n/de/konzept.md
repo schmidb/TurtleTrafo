@@ -25,7 +25,8 @@
           Familienmitglied, einem Arbeitskollegen oder einem anderem Individuum. Dabei
           kommst du Schritt für Schritt in den Frieden mit dir, deinem Umfeld und der Welt.</p>
 
-        <p><a href="/img/turtle_trafo_konzept.jpg"><img src="/img/turtle_trafo_konzept_klein.webp" width=75% class="thumbnail" onerror="this.src='/img/turtle_trafo_konzept_klein.jpg'"></a></p>
+        <p><a href="/img/turtle_trafo_konzept.jpg">
+         <img src="/img/turtle_trafo_konzept_klein.webp"></a></p>
 
         <p>In all unsere Prozessen integrieren wir die Grundemotionen Freude, Angst,
           Wut und Traurigkeit. Wir haben die Möglichkeiten unsere Traumata anzuschauen und eigene
