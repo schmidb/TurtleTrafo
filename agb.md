@@ -1,7 +1,7 @@
 ---
 layout: subdefault
-title: AGB
-subTitle:
+title: footer.agb
+subTitle: 
 ---
 
 {% tf agb.md %}
