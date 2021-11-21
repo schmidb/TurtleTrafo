@@ -5,19 +5,19 @@
             <div class="col-md-8">
                 <ul class="list-inline">
                     <li>
-                        <a href="/">Home</a>
+                        <a href="{{ site.baseurl}}">Home</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
-                        <a href="/sitemap.xml">Sitemap</a>
+                        <a href="{{ site.baseurl}}/sitemap.xml">{% t footer.sitemap %}</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
-                        <a href="/impressum">Impressum</a>
+                        <a href="{{ site.baseurl}}/impressum">{% t footer.impressum %}</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
-                        <a href="/agb">AGB</a>
+                        <a href="{{ site.baseurl}}/agb">{% t footer.agb %}</a>
                     </li>
                 </ul>
                 <p class="copyright text-muted small">{{ site.copyright }}</p>
