@@ -1,6 +1,12 @@
 nav:
   konzept: Concept
-  angebote: Offerings
+  angebot: Offerings
+  angebote:
+      einzel: Individuals
+      zwei: Couples
+      familie: Families
+      firma: Companies
+      binde: for
   ueberuns: About Us
   unsername: Our Name
   referenzen: References

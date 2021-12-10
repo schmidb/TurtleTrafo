@@ -1,6 +1,12 @@
 nav:
   konzept: Konzept
-  angebote: Angebote
+  angebot: Angebote
+  angebote:
+    einzel: Einzelpersonen
+    zwei: Pärchen
+    familie: Familien
+    firma: Firmen
+    binde: für
   ueberuns: Über unser
   unsername: Unser Name
   referenzen: Referenzen

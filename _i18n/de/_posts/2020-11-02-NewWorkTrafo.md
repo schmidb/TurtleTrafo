@@ -1,7 +1,7 @@
 ---
 layout: default
 img: grandmother-mini.webp
-category: Services
+category: Services-Firma
 title: NewWork Transformation
 description: |
 ---

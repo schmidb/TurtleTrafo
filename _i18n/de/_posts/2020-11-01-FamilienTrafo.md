@@ -1,7 +1,7 @@
 ---
 layout: default
 img: schmidberger2020.webp
-category: Services
+category: Services-Familie
 title: Familien Transformation
 description: |
 ---
