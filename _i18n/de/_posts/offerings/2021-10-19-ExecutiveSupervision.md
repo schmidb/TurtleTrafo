@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: subdefault
 img: fasten.webp
-category: Services
+category: Services-Firma, Services-Einzel
 title: "Executive Supervision"
-showfront: false
-description: |
+description: blab la
 ---
 
 Executives are leaders within an organization and usually have to handle a
@@ -18,7 +17,7 @@ Our executive supervision includes topics as personal live, personal development
 C-level relationship, key employees, organizational structures, organizational
 strategy & dynamics & decisions, transformation processes and culture changes.
 
-As 
+As
 We will first work towards your feelings grounded and whole, to then make more sense of what is going on in your situation so you can be more effecitve with your clients
 
 

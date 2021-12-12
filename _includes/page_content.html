@@ -29,29 +29,18 @@
         <hr class="section-heading-spacer">
         <div class="clearfix"></div>
 
-        {% for post in site.categories.Services-Familie reversed %}
+        {% for post in site.categories.Services-Einzel reversed %}
                     <div class="row">
                         <div class="col-lg-5 col-sm-6">
-                            <h2 class="section-heading">{{ post.title }}</h2>
-                            <div class="lead">{{ post.content }}</div>
+                            <h3 class="section-heading">{{ post.title }}</h3>
+                            <div class="lead">{{ post.description }}</div>
+                            <div class="lead"><a href="{{ post.url }}">{% t mehrlink %}</a></div>
                         </div>
                         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                             <img class="img-responsive thumbnail" src="/img/services/{{ post.img }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                         </div>
                     </div>
           {% endfor %}
-          <div class="row">
-              <div class="col-lg-5 col-sm-6">
-                  <h2 class="section-heading">Test</h2>
-                  <div class="lead">blala</div>
-              </div>
-          </div>
-          <div class="row">
-              <div class="col-lg-5 col-sm-6">
-                  <h2 class="section-heading">Test2</h2>
-                  <div class="lead">blala2</div>
-              </div>
-          </div>
 
       </div>
       <!-- /.container -->
@@ -71,27 +60,16 @@
 
           {% for post in site.categories.Services-Familie reversed %}
                       <div class="row">
-                          <div class="col-lg-5 col-sm-6">
-                              <h2 class="section-heading">{{ post.title }}</h2>
-                              <div class="lead">{{ post.content }}</div>
-                          </div>
+                        <div class="col-lg-5 col-sm-6">
+                            <h3 class="section-heading">{{ post.title }}</h3>
+                            <div class="lead">{{ post.description }}</div>
+                            <div class="lead"><a href="{{ post.url }}">{% t mehrlink %}</a></div>
+                        </div>
                           <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                               <img class="img-responsive thumbnail" src="/img/services/{{ post.img }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                           </div>
                       </div>
             {% endfor %}
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <h2 class="section-heading">Test</h2>
-                    <div class="lead">blala</div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <h2 class="section-heading">Test2</h2>
-                    <div class="lead">blala2</div>
-                </div>
-            </div>
 
         </div>
         <!-- /.container -->
@@ -111,27 +89,16 @@
 
         {% for post in site.categories.Services-Familie reversed %}
                     <div class="row">
-                        <div class="col-lg-5 col-sm-6">
-                            <h2 class="section-heading">{{ post.title }}</h2>
-                            <div class="lead">{{ post.content }}</div>
-                        </div>
+                      <div class="col-lg-5 col-sm-6">
+                          <h3 class="section-heading">{{ post.title }}</h3>
+                          <div class="lead">{{ post.description }}</div>
+                          <div class="lead"><a href="{{ post.url }}">{% t mehrlink %}</a></div>
+                      </div>
                         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                             <img class="img-responsive thumbnail" src="/img/services/{{ post.img }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                         </div>
                     </div>
           {% endfor %}
-          <div class="row">
-              <div class="col-lg-5 col-sm-6">
-                  <h2 class="section-heading">Test</h2>
-                  <div class="lead">blala</div>
-              </div>
-          </div>
-          <div class="row">
-              <div class="col-lg-5 col-sm-6">
-                  <h2 class="section-heading">Test2</h2>
-                  <div class="lead">blala2</div>
-              </div>
-          </div>
 
       </div>
       <!-- /.container -->
@@ -152,28 +119,17 @@
 
           {% for post in site.categories.Services-Firma reversed %}
                       <div class="row">
-                          <div class="col-lg-5 col-sm-6">
-                              <h2 class="section-heading">{{ post.title }}</h2>
-                              <div class="lead">{{ post.content }}</div>
-                          </div>
+                        <div class="col-lg-5 col-sm-6">
+                            <h3 class="section-heading">{{ post.title }}</h3>
+                            <div class="lead">{{ post.description }}</div>
+                            <div class="lead"><a href="{{ post.url }}">{% t mehrlink %}</a></div>
+                        </div>
                           <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                               <img class="img-responsive thumbnail" src="/img/services/{{ post.img }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                           </div>
                       </div>
             {% endfor %}
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <h2 class="section-heading">Test</h2>
-                    <div class="lead">blala</div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <h2 class="section-heading">Test2</h2>
-                    <div class="lead">blala2</div>
-                </div>
-            </div>
-
+            
         </div>
         <!-- /.container -->
     </div>
