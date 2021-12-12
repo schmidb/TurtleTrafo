@@ -2,8 +2,10 @@
 layout: subdefault
 img: fasten.webp
 category: Services-Firma
-title: Data Strategy Supervision
-description: blab la
+title: Daten Strategie Supervision
+description: "Eine Datenstrategie ist wesentlicher Teil der Digitalen Transformation.
+Wir bieten Dir eine ganzheitliche Supervision an und unterstützen Dich bei der erfolgreichen
+Umsetzung der Strategie innerhalb der Organisation. Die Supervision hilft dir den Fokus zu halten, Herausforderungen frühzeitig zu identifizieren und zu lösen und alle Mitarbeiter abzuholen."
 ---
 
 Data Strategy Supervision

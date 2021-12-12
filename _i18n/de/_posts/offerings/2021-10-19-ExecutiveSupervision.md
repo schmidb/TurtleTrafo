@@ -1,10 +1,19 @@
 ---
 layout: subdefault
 img: fasten.webp
-category: Services-Firma, Services-Einzel
-title: "Executive Supervision"
-description: blab la
+category: [Services-Firma, Services-Einzel]
+title: Supervision für Geschäftsführer und Manager
+description: "Als Manager musst du täglich viele Entscheidungen treffen. Wir bieten
+Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all deiner
+Themen. Die Supervision ermöglicht Dir mehr Klarheit in allen Lebensbereichen und
+die effiziente Erfüllung deiner beruflichen und privaten Ziele."
 ---
+
+
+
+
+
+Executive Supervision
 
 Executives are leaders within an organization and usually have to handle a
 complex role. Every day an executive leader has to make difficult and a lot

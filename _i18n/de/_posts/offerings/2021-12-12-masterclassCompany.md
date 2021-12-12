@@ -3,7 +3,10 @@ layout: subdefault
 img: fasten.webp
 category: Services-Firma
 title: Work Excellence Masterclass Facilitator
-description: blab la
+description: "Dir gefällt das Konzept der TurtleTrafo Work Excellence Masterclass und
+du möchtest das Konzept in deiner Firma etablieren? Dann bieten wir dir ein an deine
+Firma angepasstes Programm, um all deine Manager auszubilden und die Prozesse in deiner
+Firma effizienter, familienfreundlicher und empatischer zu machen."
 ---
 
 

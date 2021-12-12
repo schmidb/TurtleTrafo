@@ -1,9 +1,13 @@
 ---
-layout: default
-img: schmidberger2020.webp
+layout: subdefault
+img: fasten.webp
 category: Services-Familie
 title: Familien Transformation
-description: |
+description: "Für uns sind die Menschen unserer Familie das Wichtigste was wir haben.
+Wir teilen unsere Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und
+genussreich miteinander zu sein. Wir begleiten dich zu deinen
+Familienträumen und zeigen dir mögliche Wege, wie Entspannung bei dir und in
+deiner Familie ankommen kann."
 ---
 
 Wage dich auf den Weg von 'Innen nach Aussen'.

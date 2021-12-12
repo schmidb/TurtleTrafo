@@ -1,3 +1,16 @@
+---
+layout: subdefault
+img: fasten.webp
+category: [Services-Einzel, Services-Firma]
+title: Work Excellence Masterclass - Public
+description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
+Von modernen Managern wird erwartet, dass sie sich um alles kümmern diese Themen
+ohne Einfluss auf die Leistung und um ihre Teams bei Laune zu halten
+und produktiv. Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet
+um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
+Masterclass beginnt bei dir selbst, um deinen inneren Fokus zu finden und zu
+Ihnen Klarheit über Ihre Lebens- und Arbeitsbedürfnisse zu verschaffen. ..."
+---
 
 Work Freedom Business Masterclass
 Work Excellence Masterclass
