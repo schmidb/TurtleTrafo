@@ -1,6 +1,6 @@
 ---
 layout: subdefault
-img: fasten.webp
+img: financial.jpg
 category: Services-Firma
 title: Daten Strategie Supervision
 description: "Eine Datenstrategie ist wesentlicher Teil der Digitalen Transformation.

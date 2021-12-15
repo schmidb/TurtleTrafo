@@ -1,6 +1,6 @@
 ---
 layout: subdefault
-img: fasten.webp
+img: accountant.jpg
 category: Services-Firma
 title: Work Excellence Masterclass Facilitator
 description: "Dir gefällt das Konzept der TurtleTrafo Work Excellence Masterclass und

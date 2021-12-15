@@ -1,6 +1,6 @@
 ---
 layout: subdefault
-img: fasten.webp
+img: schmidberger2020.webp
 category: Services-Familie
 title: Familien Transformation
 description: "Für uns sind die Menschen unserer Familie das Wichtigste was wir haben.
