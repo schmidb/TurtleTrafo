@@ -1,12 +1,12 @@
 ---
-layout: subdefault
-img: fasten.webp
+layout: offerings
+img: businessman.jpg
 category: [Services-Firma, Services-Einzel]
 title: Supervision für Geschäftsführer und Manager
-description: "Als Manager musst du täglich viele Entscheidungen treffen. Wir bieten
-Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all deiner
-Themen. Die Supervision ermöglicht Dir mehr Klarheit in allen Lebensbereichen und
-die effiziente Erfüllung deiner beruflichen und privaten Ziele."
+description: "Als Manager musst Du täglich viele Entscheidungen treffen. Wir bieten
+Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all Deiner
+Themen. Die Supervision gibt Dir mehr Klarheit in allen Lebensbereichen und
+ermöglicht die effiziente Erfüllung Deiner beruflichen und privaten Ziele."
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: subdefault
-img: fasten.webp
+img: building.jpg
 category: [Services-Einzel, Services-Firma]
 title: Work Excellence Masterclass - Public
 description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
