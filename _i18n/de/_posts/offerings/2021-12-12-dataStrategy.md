@@ -1,5 +1,5 @@
 ---
-layout: subdefault
+layout: offerings
 img: financial.jpg
 category: Services-Firma
 title: Daten ganzheitliche & menschlich integrieren - Daten Strategie Supervision

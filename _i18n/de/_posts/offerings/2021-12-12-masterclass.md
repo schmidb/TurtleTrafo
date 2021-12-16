@@ -34,7 +34,14 @@ Das Training umfasst die Aspekte „New Work“, „Work 2.0“, „Achtsamkeit�
 
 <br>
 ## Inhalte
-Die Masterclass läuft über 12 Monate. Es gibt 3 Wochen Off-Site-Training,
+Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
+* 12 x Einzelcoaching (jeweils einmal im Monat)
+* 3 x Wochen-Seminar
+** Onlinevariante
+* dfas
+
+
+Es gibt 3 Wochen Off-Site-Training,
 eine zweiwöchentliche Peer-Group-Sharing-Sitzung, eine monatliche Coaching-Sitzung und ein "Make the
 next step" Monat mit intensiver Begleitung.
 

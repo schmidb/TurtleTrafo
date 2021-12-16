@@ -1,5 +1,5 @@
 ---
-layout: subdefault
+layout: offerings
 img: accountant.jpg
 category: Services-Firma
 title: Work Excellence Masterclass Facilitator

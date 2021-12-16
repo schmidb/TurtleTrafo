@@ -1,5 +1,5 @@
 ---
-layout: subdefault
+layout: offerings
 img: schmidberger2020.webp
 category: Services-Familie
 title: Neue Wege als Familie gehen - Familien Transformation
