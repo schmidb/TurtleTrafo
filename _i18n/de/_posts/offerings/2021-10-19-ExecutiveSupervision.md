@@ -2,7 +2,7 @@
 layout: offerings
 img: businessman.jpg
 category: [Services-Firma, Services-Einzel]
-title: Supervision für Geschäftsführer und Manager
+title: Klarheit und Freude für Manager - Führungskräfte Supervision
 description: "Als Manager musst Du täglich viele Entscheidungen treffen. Wir bieten
 Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all Deiner
 Themen. Die Supervision gibt Dir mehr Klarheit in allen Lebensbereichen und
@@ -30,7 +30,7 @@ zu unterstützen.
 Wir empfehlen eine zweiwöchentliche oder monatliche Einzelsupervision. Unsere Startrate
 für "Supervision für Geschäftsführer und Manger" beträgt 300 Euro pro 60 Minuten Sitzung.
 
-<a href="mailto:{{ site.email }}" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
+<a href="mailto:{{ site.email }}?subject=Anfrage Führungskräfte Supervision" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
 Für spezielle Angebote für Ihr komplettes Führungsteam melden Sie sich bitte per Email
 an {{ site.email }}.
