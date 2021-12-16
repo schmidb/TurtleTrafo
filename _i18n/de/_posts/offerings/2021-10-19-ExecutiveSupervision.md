@@ -9,8 +9,60 @@ Themen. Die Supervision gibt Dir mehr Klarheit in allen Lebensbereichen und
 ermöglicht die effiziente Erfüllung Deiner beruflichen und privaten Ziele."
 ---
 
+Führungskräfte haben in der Regel eine komplexe Rolle und müssen jeden Tag viele
+und komplizierte Entscheidungen treffen. Kollegen, direkt unterstellte Mitarbeiter,
+interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese
+aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder
+Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu
+fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu gewährleisten
+ohne sich überfordert zu fühlen.
+
+Unsere Führungskräftesupervision umfasst Themen wie das persönliches Leben, persönliche Entwicklung,
+C-Level-Beziehungen, Schlüsselmitarbeiter, Organisationsstrukturen, organisatorische
+Strategien & Dynamiken & Entscheidungen, Transformationsprozesse und Kulturveränderungen.
+Wir betrachten immer das Zusammenspiel aller Themen und verfolgen eine ganzheitliche
+Betrachtung der Situation. Unser Ziel ist der Führungskraft Klarheit in allen Lebensbereichen
+zu ermöglichen und die effiziente Erfüllung der beruflichen und privaten Ziele
+zu unterstützen.
+
+<br>
+## Preise & Buchung
+Wir empfehlen eine zweiwöchentliche oder monatliche Einzelsupervision. Unsere Startrate
+für "Supervision für Geschäftsführer und Manger" beträgt 300 Euro pro 60 Minuten Sitzung.
+
+<a href="mailto:{{ site.email }}" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
+
+Für spezielle Angebote für Ihr komplettes Führungsteam melden Sie sich bitte per Email
+an {{ site.email }}.
 
 
+<br>
+## FAQ
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+  <div class="panel panel-default">
+
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Treffen wir uns persönlich oder findet die Supervision online statt?
+        </a>
+      </h4>
+    </div>
+
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+        Aktuell bieten wir coaching nur online an.
+      </div>
+    </div>
+
+  </div>
+
+  </div>
+
+
+
+<!--
 
 
 Executive Supervision
@@ -36,4 +88,4 @@ We recommend a bi-weekly or monthly one-to-one supervision. Our starting rate
 for executive supervision is 300 Euros per 60 min session.
 
 For special offerings for your complete executive leadership team please get in
-contact.
+contact. -->
