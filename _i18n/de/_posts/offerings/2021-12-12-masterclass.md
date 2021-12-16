@@ -6,8 +6,8 @@ title: Work Excellence Masterclass - Public
 description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
 Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet
 um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
-Masterclass beginnt bei dir selbst, um deinen inneren Fokus zu finden und
-dir Klarheit über deine Lebens- und Arbeitsbedürfnisse zu verschaffen. ..."
+Masterclass beginnt bei Dir selbst, um deinen inneren Fokus zu finden und
+Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen. ..."
 ---
 
 <!--
@@ -42,9 +42,9 @@ next step" Monat mit intensiver Begleitung.
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
-Die öffentliche Masterclass mit maximal 10 Teilnehmern startet am 15. Februar 2022.
+Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern startet am 15. Februar 2022.
 
-<a href="mailto:{{ site.email }}" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
+<a href="mailto:{{ site.email }}?subject=Anfrage Masterclass" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
 
 
