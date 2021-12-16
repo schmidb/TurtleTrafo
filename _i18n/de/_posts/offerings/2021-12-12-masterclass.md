@@ -36,18 +36,18 @@ Das Training umfasst die Aspekte „New Work“, „Work 2.0“, „Achtsamkeit�
 ## Inhalte
 Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 * 12 x Einzelcoaching (jeweils einmal im Monat)
-* 3 x Wochen-Seminar
-** Onlinevariante
-* dfas
-
-
-Es gibt 3 Wochen Off-Site-Training,
-eine zweiwöchentliche Peer-Group-Sharing-Sitzung, eine monatliche Coaching-Sitzung und ein "Make the
-next step" Monat mit intensiver Begleitung.
+* 3 x Wochen-Seminar - online und ca. 2 Stunden pro Wochentag (Montag - Donnerstag)
+* 1 x Make-the-Change - 14 Tage Veränderung Deiner Prozesse durch tägliches (Montag - Donnerstag) Einzelcoaching
+* Freitag ist immer Reflektionstag
+* optional: 3 Tage Offline Masterclass in Bayern. Kosten für Angebote, Übernachtung und Verpflegung belaufen sich auf ca. 1500 Euro. 
+* Peergroup - zweiwöchentliche online Peergroup Treffen
+* 5 Webinare zu ausgewählten Themen
+* Selbststudium im Umfang von ca. 10 Stunden pro Monat
+* Abschlussgespräch
 
 <br>
 ## Preise & Termine & Buchung
-Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
+Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
 Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern startet am 15. Februar 2022.
 
