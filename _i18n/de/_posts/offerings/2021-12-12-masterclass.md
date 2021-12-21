@@ -2,7 +2,7 @@
 layout: offerings
 img: building.jpg
 category: [Services-Einzel, Services-Firma]
-title: Work Excellence Masterclass - Public
+title: TurtleTrafo Work Excellence Masterclass - Public
 description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
 Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet
 um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
@@ -39,7 +39,7 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 * 3 x Wochen-Seminar - online und ca. 2 Stunden pro Wochentag (Montag - Donnerstag)
 * 1 x Make-the-Change - 14 Tage Veränderung Deiner Prozesse durch tägliches (Montag - Donnerstag) Einzelcoaching
 * Freitag ist immer Reflektionstag
-* optional: 3 Tage Offline Masterclass in Bayern. Kosten für Angebote, Übernachtung und Verpflegung belaufen sich auf ca. 1500 Euro. 
+* optional: 3 Tage Offline Masterclass in Bayern. Kosten für Angebote, Übernachtung und Verpflegung belaufen sich auf ca. 1500 Euro.
 * Peergroup - zweiwöchentliche online Peergroup Treffen
 * 5 Webinare zu ausgewählten Themen
 * Selbststudium im Umfang von ca. 10 Stunden pro Monat

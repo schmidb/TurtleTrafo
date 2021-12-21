@@ -16,9 +16,9 @@ are good sparing partners but often bounded to the same business, strategy or
 vision. Supervision with an external coach gives the opportunity to assure
 the quality of your role and being aware about your focus topics.
 
-Our executive supervision includes topics as personal live, personal development,
-C-level relationship, key employees, organizational structures, organizational
-strategy & dynamics & decisions, transformation processes and culture changes.
+We always consider the interplay of all topics and pursue a holistic view of the
+situation. Our goal is to provide managers with clarity in all areas of life and
+to support the efficient fulfillment of professional and private goals.
 
 <br>
 ## Prices & Booking
