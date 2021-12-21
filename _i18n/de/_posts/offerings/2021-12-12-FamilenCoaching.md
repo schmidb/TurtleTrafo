@@ -27,6 +27,7 @@ Es gibt viele Punkte in Deinem Familienleben an dem Veränderungen anstehen. Mö
 * Umzug oder neuer Beruf
 * Geburt eines weiteren Kindes
 * Auswanderung
+
 In unserer Beratung betrachten wir immer deine persönlichen Themen (z.B. *ich habe Angst vor der Abmeldung und weiß nicht ob ich das alles schaffe.*). Wir bieten keine Beratung zu technischen oder rechtlichen Prozessen (z.B. *wie melde ich mich in Deutschland ab?*, *wie umgehe ich die Schulpflicht? in Deutschland*).
 
 Bei Interesse teilen wir Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und
@@ -37,7 +38,7 @@ deiner Familie ankommen kann.
 
 <br>
 ## Preise & Buchung
-Wir empfehlen eine wöchentliche oder zweiwöchentliches Treffen. Ob diese Treffen nur für ein Elternteil, beide Eltern oder Eltern & Kinder ist entscheiden wir vor jeder Sitzung. Unsere Startrate
+Wir empfehlen ein wöchentliches oder zweiwöchentliches Treffen. Ob diese Treffen nur für ein Elternteil, beide Eltern oder Eltern & Kinder ist entscheiden wir vor jeder Sitzung. Unsere Startrate
 für "Begleitung bei Neue Wege als Familie" beträgt 150 Euro pro 60 Minuten Sitzung.
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Neue Wege als Familie" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>

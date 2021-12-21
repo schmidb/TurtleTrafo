@@ -10,13 +10,13 @@ Umsetzung der Strategie innerhalb der Organisation. Die Supervision hilft Dir de
 
 
 Eine gut formulierte, umgesetzte und unternehmensweit akzeptierte Datenstrategie ist ein
-zentraler Baustein jeder digitalen Transformation. Die beste Datenstrategien wird
+zentraler Baustein jeder digitalen Transformation. Die beste Datenstrategie wird
 unternehmens-intern durch die Daten Experten und (business) Produktverantwortlichen entwickelt
 und verantwortet.
 
-Wir bieten "Data Strategie Supervision" an, um Ihre Datenstrategie qualitativ hochwertig, unternehmensstrategie- und business-orientiert zu gestalten und wir helfen den Umsetzungsprozess der
+Wir bieten "Daten Strategie Supervision" an, um Ihre Datenstrategie qualitativ hochwertig, unternehmensstrategie- und business-orientiert zu gestalten und wir helfen den Umsetzungsprozess der
 Datenstrategie auf Kurs zu halten. Die Supervision ist geeignet für C-Level-Manager und
-Führungskräfte im Data Bereich. Regelmässige Supervisionstreffen umfassen Aspekte wie:
+Führungskräfte im Daten Bereich. Regelmässige Supervisionstreffen umfassen Aspekte wie:
 * Datenstrategie-Design und -Review
 * C-Level Data Enablement und Daten Strategie Einführung
 * Best Practices und Weiterentwicklung für Data-Enablement-Strategien
