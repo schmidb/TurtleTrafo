@@ -21,11 +21,11 @@ C-level relationship, key employees, organizational structures, organizational
 strategy & dynamics & decisions, transformation processes and culture changes.
 
 <br>
-## Prices & booking
+## Prices & Booking
 We recommend a bi-weekly or monthly individual supervision. Our starting rate
-for "Supervision for managing directors and managers" is 300 euros per 60 minute session.
+for "Executive Supervision" is 300 Euros per 60 minute session.
 
-<a href="mailto:{{site.email}}?subject= Inquiry manager supervision" target="_blank" class="btn btn-primary"> Inquire now via email </a>
+<a href="mailto:{{site.email}}?subject= Inquiry executive supervision" target="_blank" class="btn btn-primary"> Inquire now via email </a>
 
 For special offers for your entire management team, please contact us by email
 to {{site.email}}.
