@@ -27,3 +27,6 @@ footer:
   home: Home
   impressum: Imprint
   sitemap: Sitemap
+
+404:
+  title: Site not found
