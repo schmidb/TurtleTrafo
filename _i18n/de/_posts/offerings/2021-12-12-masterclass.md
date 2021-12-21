@@ -23,7 +23,7 @@ Challenge Resiliency
 
 Wir alle streben nach Freude bei der Arbeit und in unserem alltäglichen Leben. Änderungen wie ein neuer Liefertermin, eine neue strategische Ausrichtung, eine neue Führungskraft, eine neue Rolle oder ein neugeborenes Kind können große Herausforderungen erzeugen und begrenzen die Freude. Von modernen Managern wird erwartet, dass sie sich um alles kümmern und oben genannte Ereignisse keinen Einfluss auf ihre eigene Leistung haben und dass ihre Teams glücklich und produktiv bleiben.
 
-Wir bieten eine "Work Excellence Masterclass" an, die Dir als Führungskraft die Möglichkeit eröffnet, jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne dabei Deine Freude zu verlieren. Die
+Wir bieten eine "TurtleTrafo Work Excellence Masterclass" an, die Dir als Führungskraft die Möglichkeit eröffnet, jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne dabei Deine Freude zu verlieren. Die
 Masterclass beginnt bei Dir selbst, um Deinen inneren Fokus zu finden und Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen. Die Masterclass wird Dich trainieren deine Mitarbeiter zu unterstützen ihre eigene Balance zwischen Arbeit und Leben zu finden. Du lernst eine Organisation zu gestalten, die flexibel auf alle Veränderungen von außen und innen reagiert.
 
 After finishing our program you are able to guide teams to become more self-sufficient, flexible and efficient. By doing this you will inherently create an atmosphere of well being and security.
@@ -49,10 +49,19 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
-Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern startet am 15. Februar 2022.
+Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern **startet am 15. Juli 2022**.
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Masterclass" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
+<br>
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Eröffnungs-Masterclass</h3>
+  </div>
+  <div class="panel-body">
+    Die <b>Eröffnungs-Masterclass</b> startet am <b>15. Februar 2022</b> im familiären Rahmen von maximal 5 Teilnehmern. Teilnahme nur auf persönliche Einladung, persönliche Empfehlung oder einer individuellen Bewerbungsemail.
+  </div>
+</div>
 
 
 <br>
