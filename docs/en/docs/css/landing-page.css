@@ -177,3 +177,13 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+@media print {
+  img {
+    display: none !important;
+  }
+
+  * {
+    background-image: none !important;
+  }
+}
