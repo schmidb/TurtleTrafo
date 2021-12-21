@@ -9,12 +9,11 @@ Themen. Die Supervision gibt Dir mehr Klarheit in allen Lebensbereichen und
 ermöglicht die effiziente Erfüllung Deiner beruflichen und privaten Ziele."
 ---
 
-Führungskräfte haben in der Regel eine komplexe Rolle und müssen jeden Tag viele
-und komplizierte Entscheidungen treffen. Kollegen, direkt unterstellte Mitarbeiter,
+Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich vile Entscheidungen zu treffen. Kollegen, Teammitglieder,
 interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese
 aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder
 Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu
-fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu gewährleisten
+fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu erreichen
 ohne sich überfordert zu fühlen.
 
 Unsere Führungskräftesupervision umfasst Themen wie das persönliches Leben, persönliche Entwicklung,

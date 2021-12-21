@@ -2,7 +2,7 @@
 layout: offerings
 img: financial.jpg
 category: Services-Firma
-title: Daten ganzheitliche & menschlich integrieren - Daten Strategie Supervision
+title: Daten ganzheitlich & menschlich integrieren - Daten Strategie Supervision
 description: "Eine Datenstrategie ist wesentlicher Teil der Digitalen Transformation.
 Wir bieten Dir eine ganzheitliche Supervision an und unterstützen Dich bei der erfolgreichen
 Umsetzung der Strategie innerhalb der Organisation. Die Supervision hilft Dir den Fokus zu halten, Herausforderungen frühzeitig zu identifizieren und zu lösen und alle Mitarbeiter abzuholen."
