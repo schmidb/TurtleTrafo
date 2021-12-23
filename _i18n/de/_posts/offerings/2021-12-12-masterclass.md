@@ -3,6 +3,7 @@ layout: offerings
 img: building.jpg
 category: [Services-Einzel, Services-Firma]
 title: TurtleTrafo Work Excellence Masterclass - Public
+permalink: masterclass
 description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
 Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet
 um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
