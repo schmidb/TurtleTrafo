@@ -2,7 +2,7 @@
 layout: offerings
 img: building.jpg
 category: [Services-Einzel, Services-Firma]
-title: TurtleTrafo Work Excellence Masterclass - Public
+title: TurtleTrafo Work Excellence Masterclass
 permalink: masterclass
 description: "We all strive for joy in our work and our life. We offer a masterclass that trains you as a manager to deliver high-quality results at all times without losing your joy. The masterclass begins with yourself in order to gain inner focus and to provide you with clarity about your life and work needs. ... "
 ---
