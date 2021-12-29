@@ -24,11 +24,9 @@ Challenge Resiliency
 
 Wir alle streben nach Freude bei der Arbeit und in unserem alltäglichen Leben. Änderungen wie ein neuer Liefertermin, eine neue strategische Ausrichtung, eine neue Führungskraft, eine neue Rolle oder ein neugeborenes Kind können große Herausforderungen erzeugen und begrenzen die Freude. Von modernen Managern wird erwartet, dass sie sich um alles kümmern und oben genannte Ereignisse keinen Einfluss auf ihre eigene Leistung haben und dass ihre Teams glücklich und produktiv bleiben.
 
-Wir bieten eine "TurtleTrafo Work Excellence Masterclass" an, die Dir als Führungskraft die Möglichkeit eröffnet, jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne dabei Deine Freude zu verlieren. Die
-Masterclass beginnt bei Dir selbst, um Deinen inneren Fokus zu finden und Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen. Die Masterclass wird Dich trainieren deine Mitarbeiter zu unterstützen ihre eigene Balance zwischen Arbeit und Leben zu finden. Du lernst eine Organisation zu gestalten, die flexibel auf alle Veränderungen von außen und innen reagiert.
+Wir bieten eine "TurtleTrafo Work Excellence Masterclass" an, die Dir als Führungskraft die Möglichkeit eröffnet, jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne dabei Deine Freude zu verlieren. Nach Abschluss unseres Programms bist Du in der Lage, Teams zu mehr Selbstständigkeit, Flexibilität und Effizienz zu führen. Auf natürliche Art und Weise erschaffst Du eine Atmosphäre des Wohlbefindens und der Sicherheit.
 
-After finishing our program you are able to guide teams to become more self-sufficient, flexible and efficient. By doing this you will inherently create an atmosphere of well being and security.
-Our program is like a journey. Our central principle is living and leading from the inside to the outside. You will start close to home with yourself. Getting to know the workings of your inside world. With these basics in your backpack the journey leads you through the jungle of human coworking and existing. This phase is giving you hands-on knowledge and experience in forming human groups that are (over time) able to naturally adapt to different settings. The building blocks are seemingly contradictory elements: structure and flexibility, security and freedom, individuals and community.
+Unser Programm ist wie eine Reise. Unser zentrales Prinzip ist das Leben und Führen von innen nach außen. Es beginnt bei Dir selber in deinem Innersten, Du lernst die Funktionsweise Deiner Innenwelt kennen. Mit diesen Basics im Rucksack führt Dich die Reise durch den Dschungel des menschlichen Coworkings und Daseins. Diese Phase vermittelt Dir praktisches Wissen und Erfahrung in der Bildung menschlicher Gruppen, die sich (im Laufe der Zeit) auf natürliche Weise an unterschiedliche Umgebungen anpassen können. Die Bausteine sind scheinbar widersprüchliche Elemente: Struktur und Flexibilität, Sicherheit und Freiheit, Individuum und Gemeinschaft.
 
 Das Training umfasst die Aspekte „New Work“, „Work 2.0“, „Achtsamkeit“, „Empathie“, "Resilienz" und "Mut zu scheitern". Es folgt der Vision, dass zufriedene Menschen die engagiertesten und zuverlässigsten Teammitglieder sind.
 
@@ -50,7 +48,7 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
-Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern **startet am 15. Juli 2022**.
+Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern **startet am October 1, 2022**.
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Masterclass" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
@@ -60,7 +58,7 @@ Die **öffentliche und online** Masterclass mit maximal 10 Teilnehmern **startet
     <h3 class="panel-title">Eröffnungs-Masterclass</h3>
   </div>
   <div class="panel-body">
-    Die <b>Eröffnungs-Masterclass</b> startet am <b>15. Februar 2022</b> im familiären Rahmen von maximal 5 Teilnehmern. Teilnahme nur auf persönliche Einladung, persönliche Empfehlung oder einer individuellen Bewerbungsemail.
+    Die <b>Eröffnungs-Masterclass</b> startet am <b>15. Februar 2022</b> im familiären Rahmen von maximal 5 Teilnehmern. Teilnahme nur auf persönliche Einladung, persönliche Empfehlung oder einer individuellen Bewerbungsemail. Für Privatpersonen geben wir eine 50% Ermäßigung auf den Preis der Eröffnungs-Masterclass.
   </div>
 </div>
 
