@@ -3,7 +3,7 @@ layout: offerings
 img: building.jpg
 category: [Services-Einzel, Services-Firma]
 title: TurtleTrafo Work Excellence Masterclass
-permalink: en/masterclass
+permalink: masterclass
 description: "We all strive for joy in our work and our life. We offer a masterclass that trains you as a manager to deliver high-quality results at all times without losing your joy. The masterclass begins with yourself in order to gain inner focus and to provide you with clarity about your life and work needs. ... "
 ---
 
@@ -17,13 +17,12 @@ Our program is like a journey. Our central principle is living and leading from 
 <br>
 ## Content
 The masterclass runs for 12 months and includes the following offers:
-* 12 x individual coaching (once a month)
+* 6 x individual coaching (once a month)
 * 3 x weekly seminars - online and approximately two hours per weekday (Monday - Thursday)
 * 1 x Make-the-Change - 14 days of changing your processes through daily (Monday - Thursday) individual coaching
-* Friday is always reflection day
 * optional: three days offline masterclass in Bavaria. Costs for offers, accommodation and meals amount to approximately 1500 euros.
 * Peer-group - bi-weekly online peer-group meetings
-* 5 webinars on selected topics
+* 3 webinars on selected topics
 * Self-study of approximately 10 hours per month
 * Final interview
 
@@ -42,6 +41,6 @@ The **public and online** Masterclass with a maximum of 10 participants **starts
      <h3 class = "panel-title"> Opening Masterclass </h3>
    </div>
    <div class = "panel-body">
-     The <b>Opening Masterclass </b> starts on <b> 15. February 2022 </b> in a family setting with a maximum of 5 participants. Participation only by personal invitation, personal recommendation or an individual application email. For private bookings we offer a 50% discount.
+     The <b>Opening Masterclass </b> starts on <b> 15. February 2022 </b> in a familial setting with a maximum of 5 participants. Participation only by personal invitation, personal recommendation or an individual application email. For private bookings we offer a 50% discount.
    </div>
 </div>
