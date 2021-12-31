@@ -31,7 +31,7 @@ The masterclass runs for 12 months and includes the following offers:
 ## Prices & Dates & Booking
 The annual price for the Masterclass is € 7,500 in the online version and € 10,000 in the offline version plus accommodation costs. You can book the masterclass as a private person. However, we recommend receiving the Masterclass as personal training from your employer.
 
-The **public and online** Masterclass with a maximum of 10 participants **starts on October 1, 2022**.
+The **online** Masterclass with a maximum of 10 participants **starts on January 1, 2023**.
 
 <a href="mailto: towards Genealogie site.email} Genealogie?subject=Inquiry Masterclass" target="_blank" class="btn btn-primary"> Inquire now via email </a>
 
