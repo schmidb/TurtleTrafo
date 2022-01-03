@@ -28,7 +28,7 @@ Es gibt viele Punkte in Deinem Familienleben an dem Veränderungen anstehen. Mö
 * Geburt eines weiteren Kindes
 * Auswanderung
 
-In unserer Beratung betrachten wir immer deine persönlichen Themen (z.B. *ich habe Angst vor der Abmeldung und weiß nicht ob ich das alles schaffe.*). Wir bieten keine Beratung zu technischen oder rechtlichen Prozessen (z.B. *wie melde ich mich in Deutschland ab?*, *wie umgehe ich die Schulpflicht? in Deutschland*).
+In unserer Beratung betrachten wir immer deine persönlichen Themen (z.B. *ich habe Angst vor der Abmeldung und weiß nicht ob ich das alles schaffe.*). Wir bieten auch Beratung zu technischen oder rechtlichen Prozessen (z.B. *wie melde ich mich in Deutschland ab?*, *wie umgehe ich die Schulpflicht? in Deutschland*).
 
 Bei Interesse teilen wir Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und
 genussreich miteinander zu sein. Wir begleiten dich wenn du magst zu deinen
