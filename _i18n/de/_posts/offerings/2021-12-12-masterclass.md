@@ -7,7 +7,7 @@ permalink: masterclass
 description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
 Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
 Masterclass beginnt bei Dir selbst, um deinen inneren Fokus zu finden und
-Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen. ..."
+Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen.<br><b>Startet online am 15. Februar 2022</b>"
 ---
 
 <!--
@@ -44,7 +44,7 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
-Die **online** Masterclass mit maximal 10 Teilnehmern **startet am Januar 10, 2023**.
+Die **online** Masterclass mit maximal 10 Teilnehmern **startet am 10. Januar 2023**.
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Masterclass" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
