@@ -1,6 +1,6 @@
 ---
 layout: offerings
-img: meditate.jpg
+img: archetypen2022/retreat.png
 category: Services-Einzel
 title: Archetypinnen Retreat 2022 - Erwecke und lebe die weibliche Kraft in Dir
 permalink: archetypinnenretreat2022
@@ -23,10 +23,13 @@ Mehr Informationen findest du auf [https://trivitys.com/pages/retreats](https://
 
 <br>
 ## Referenten
+![Simone Frese](img/services/archetypen2022/simone.jpg){:class="img-circle"}{:width="200"}
 mit Simone Frese, Die Archetypinnen, [https://simone-frese.de](https://simone-frese.de)
 
+![Tsvetana Dinkova](img/services/archetypen2022/tana.jpg){:class="img-circle"}{:width="200"}
 mit Tsvetana Dinkova, Archetypinnen Ernährung & Yoga, [https://trivitys.com](https://trivitys.com)
 
+![Miriam Schmidberger](img/services/archetypen2022/miriam.jpg){:class="img-circle"}{:width="200"}
 mit Miriam Schmidberger, Archetypinnen Yoga & Innen nach Aussen Coaching, [https://turtletrafo.de](https://turtletrafo.de)
 
 <br>
