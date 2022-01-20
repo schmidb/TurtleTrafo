@@ -3,14 +3,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta property=“og:title“ content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property=“og:description“ content="{{ site.description }}" />
-    <meta property=“og:url“ content="https://turtletrafo.de" />
-    <meta property=“og:image“ content="https://turtletrafo.de/img/logo/trafo_logo_text_color_big.jpg" />
+    <meta property=“og:description“ content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property=“og:url“ content="{{site.baseurl}}{{page.url}}" />
+    <meta property=“og:image“ content="{% if page.img %}{{site.baseurl}}/img/{{page.img}}{% else %}https://turtletrafo.de/img/logo/trafo_logo_text_color_big.jpg{% endif %}" />
 
     <!-- Bootstrap Core CSS via CDN-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
