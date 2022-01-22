@@ -38,7 +38,19 @@ deiner Familie ankommen kann.
 
 <br>
 ## Preise & Buchung
-Wir empfehlen ein wöchentliches oder zweiwöchentliches Treffen. Ob diese Treffen nur für ein Elternteil, beide Eltern oder Eltern & Kinder ist entscheiden wir vor jeder Sitzung. Unser Preis für "Begleitung bei Neue Wege als Familie" ist abhängig von Deinem Einkommen und wird im Erstgespräch vereinbart.
+Wir empfehlen ein wöchentliches oder zweiwöchentliches Treffen. Ob diese Treffen nur für ein Elternteil, beide Eltern oder Eltern & Kinder ist entscheiden wir vor jeder Sitzung. Neben dem individuellen Coaching bieten wir drei verschiedene Pakete an:
+
+### Familien-Veränderungs-Coaching
+Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben. Basierend darauf erarbeiten wir erste Schritte hin zu eurer Vision. Meist benötigen wir hierfür zwei bis drei 90 Minuten Gespräche mit beiden Eltern.
+
+### Familien-Transformations-Coaching Light
+Wir begleiten euch auf eurem Weg zu eurem neuen Lebensmodell. Abhängig von der Komplexität der Themen treffen wir uns ca. alle 4 Wochen und schauen, spüren und fühlen was die Veränderungen mit euch gemacht haben und erarbeiten die nächsten Schritte.
+
+### Familien-Transformations-Coaching Intensiv
+Zusätzlich zu Familien-Transformations-Coaching Light arbeiten wir bedürfnisorientiert mit jedem Einzelnen von euch. Neben den gemeinsamen Treffen alle 4 Wochen, empfehlen wir wöchentliche Einzeltreffen. Zusätzlich gibt es eine gemeinsame Telegram-Gruppe in der wir zeitnah eure aktuellen Fragen beantworten bzw. euch Inspirationen schicken.
+
+
+Unser Preis für "Begleitung bei Neue Wege als Familie" ist abhängig von Deinem Einkommen und wird im Erstgespräch vereinbart.
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Neue Wege als Familie" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
