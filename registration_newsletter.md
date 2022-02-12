@@ -1,17 +1,14 @@
 ---
 layout: offerings
 title: Management Newsletter
-subTitle:
-permalink: registration_newsletter
 ---
 
-
-Vielen Dank für die Registrierung am TurtleTrafo Newsletter. In unregelmäßigen Abständen versenden wir Neuigkeiten rund um TurtleTrafo.
+{% t newsletter.danke %}
 
 <hr class="section-heading-spacer">
 <br><br>
 
-Hier kannst Du dich jederzeit wieder vom TurtleTrafo Newsletter abmelden. Klicke bitte auf "Abmelden", um keine weiteren E-Mails von TurtleTrafo an diese E-Mail-Adresse zu erhalten:
+{% t newsletter.abmelden %}
 
 <!-- START - We recommend to place the below code where you want the form in your website html  -->
 <div class="sib-form" style="text-align: center;
