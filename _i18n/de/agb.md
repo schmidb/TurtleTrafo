@@ -9,3 +9,5 @@ Coachings, Einzelgespräche, Seminare oder Workshops von uns sind keine medizini
 
 # Datenschutz
 Die im Zusammenhang mit dem Vertragsabschluss genannten Kundendaten werden zu internen Abwicklungs- und Abrechnungszwecken gespeichert. Die Speicherung und Verarbeitung der Kundendaten erfolgt unter strikter Beachtung des Bundesdatenschutzgesetzes.
+
+Wir verwenden Sendinblue als unsere Marketing-Plattform. Wenn Sie Formulare ausfüllen und absenden, bestätigen Sie, dass die von Ihnen angegebenen Informationen an Sendinblue zur Bearbeitung gemäß den <a target="_blank" class="clickable_link" href="https://de.sendinblue.com/legal/termsofuse/">Nutzungsbedingungen</a> übertragen werden.
