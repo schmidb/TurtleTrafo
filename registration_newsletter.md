@@ -11,7 +11,7 @@ Vielen Dank für die Registrierung am TurtleTrafo Newsletter. In unregelmäßige
 <hr class="section-heading-spacer">
 <br><br>
 
-Hier kannst Du dich jederzeit wieder vom TurtleTrafo abmelden.
+Hier kannst Du dich jederzeit wieder vom TurtleTrafo Newsletter abmelden. Klicke bitte auf "Abmelden", um keine weiteren E-Mails von TurtleTrafo an diese E-Mail-Adresse zu erhalten:
 
 <!-- START - We recommend to place the below code where you want the form in your website html  -->
 <div class="sib-form" style="text-align: center;
@@ -40,26 +40,11 @@ Hier kannst Du dich jederzeit wieder vom TurtleTrafo abmelden.
     </div>
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;">
-      <form id="sib-form" method="POST" action="https://7e3feee7.sibforms.com/serve/MUIEAO9RVqkyvriBRUdcsszN2_IRBi9r49__JgiUWFgc2Ha39FTWrcXqroOefR2i16EE1k74MbMbBAVC9YHgNxBB0vKoQMDeWcD-avt46xW99lM2Ir6fY1aBvRJiLWnngKlXhswJoup7-y23R6gTYSasn8yT7_Zq18Sn9S5JDP8vnLzq4VZ-PeNYeFjcOPcLBvGjcvYhBSHSa1Mv" data-type="unsubscription">
-        <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
-            <p>Abmeldung</p>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
-            <div class="sib-text-form-block">
-              <p>Klicken Sie auf "Abmelden", um keine weiteren E-Mails von diesem Absender an diese E-Mail-Adresse zu erhalten:</p>
-            </div>
-          </div>
-        </div>
+      <form id="sib-form" method="POST" action="https://7e3feee7.sibforms.com/serve/MUIEAN9FDu9AGxPQ-0W-gQb6uGmeNeYuR45-RYvDHOWykcEAUDkP-bEzOHW4zC7DsPJ3Whkvcm_dre0Ek4nKcFyzfkM7JzBOhaJkknFRUA0v9MH9WTmauoYlfIjt8ElRThWS4cAkOw1j-OpdMOJF8Hlw7MvKob2igz0wh6sYX-PfFdjr4sI09kQG_3BxC52WWOx0vz8W1lhzhdVF" data-type="unsubscription">
         <div style="padding: 8px 0;">
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3c4858;" for="EMAIL" data-required="*">
-                  Geben Sie Ihre E-Mail-Adresse ein, um sich abzumelden
-                </label>
 
                 <div class="entry__field">
                   <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required />
@@ -67,9 +52,6 @@ Hier kannst Du dich jederzeit wieder vom TurtleTrafo abmelden.
               </div>
 
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4;">
-                Geben Sie bitte Ihre E-Mail-Adresse für die Anmeldung an, z. B. abc@xyz.com.
               </label>
             </div>
           </div>
@@ -92,3 +74,27 @@ Hier kannst Du dich jederzeit wieder vom TurtleTrafo abmelden.
   </div>
 </div>
 <!-- END - We recommend to place the below code where you want the form in your website html  -->
+
+<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Wählen Sie bitte einen Ländervorwahl aus.';
+  window.LOCALE = 'de';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Die eingegebenen Informationen sind nicht gültig. Bitte überprüfen Sie das Feldformat und versuchen Sie es erneut.";
+
+  window.REQUIRED_ERROR_MESSAGE = "Dieses Feld darf nicht leer sein. ";
+
+  window.GENERIC_INVALID_MESSAGE = "Die eingegebenen Informationen sind nicht gültig. Bitte überprüfen Sie das Feldformat und versuchen Sie es erneut.";
+
+
+
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} Liste ausgewählt',
+      selectedLists: '{quantity} Listen ausgewählt'
+    }
+  };
+
+  var AUTOHIDE = Boolean(0);
+</script>
+<script src="https://sibforms.com/forms/end-form/build/main.js"></script>
