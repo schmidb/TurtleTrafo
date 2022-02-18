@@ -35,4 +35,16 @@ newsletter:
   abmeldung: Unsubscribe
   introtext: We will send you information and offers about TurtelTrafo at irregular intervals. You can unsubscribe from the newsletter at any time via the link in the footer.
   danke: Thank you for subscribing to the TurtleTrafo newsletter. At irregular intervals we send news about TurtleTrafo.
-  abmelden: Here you can unsubscribe from the TurtleTrafo newsletter at any time. Please click Unsubscribe to stop receiving emails from TurtleTrafo at this email address.
+  abmeldenText: Here you can unsubscribe from the TurtleTrafo newsletter at any time. Please click Unsubscribe to stop receiving emails from TurtleTrafo at this email address.
+  warning1: Your registration could not be saved. Please try again.
+  anmeldungOk: Your registration was successful.
+  sprache: Preferred language
+  sprache1: German
+  sprache2: English
+  button: REGISTER
+  placeholder:
+    nachname: Last name
+    vorname: First name
+  warning2: Your deregistration could not be validated. Please try again later.
+  abmeldenOk: Your unsubscription was successful.
+  abmelden: UNSUBSCRIBE

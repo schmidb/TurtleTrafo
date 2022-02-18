@@ -35,4 +35,16 @@ newsletter:
   abmeldung: Newsletter Abmeldung
   introtext: In unregelmässigen Abständen senden wir Dir Informationen und Angebote rund um TurtelTrafo. Du kannst den Newsletter jederzeit über den Link im Footer abbestellen.
   danke: Vielen Dank für die Registrierung am TurtleTrafo Newsletter. In unregelmäßigen Abständen versenden wir Neuigkeiten rund um TurtleTrafo.
-  abmelden: Hier kannst Du dich jederzeit wieder vom TurtleTrafo Newsletter abmelden. Klicke bitte auf Abmelden, um keine weiteren E-Mails von TurtleTrafo an diese E-Mail-Adresse zu erhalten.
+  abmeldenText: Hier kannst Du dich jederzeit wieder vom TurtleTrafo Newsletter abmelden. Klicke bitte auf Abmelden, um keine weiteren E-Mails von TurtleTrafo an diese E-Mail-Adresse zu erhalten.
+  warning1: Ihre Anmeldung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.
+  anmeldungOk: Ihre Anmeldung war erfolgreich.
+  sprache: Bevorzugte Sprache
+  sprache1: Deutsch
+  sprache2: Englisch
+  button: ANMELDEN
+  placeholder:
+    nachname: NACHNAME
+    vorname: VORNAME
+  warning2: Ihre Abmeldung konnte nicht validiert werden. Bitte versuchen Sie es später noch einmal.
+  abmeldenOk: Ihre Abmeldung war erfolgreich.
+  abmelden: ABMELDEN
