@@ -22,6 +22,28 @@ In den 5 Retreat-Tagen laden wir Dich ein, diese Urkräfte in Dir zu entdecken u
 Mehr Informationen findest du auf [https://trivitys.com/pages/retreats](https://trivitys.com/pages/retreats)
 
 <br>
+## Einstimmung - Archetypinnen Meditation
+Zur Einstimmung auf das Retreat bieten wir Dir eine 23 minütige Archetypinnen Meditation gesprochen von
+Miriam Schmidberger an.
+
+Schau Dir zur Vorbereitung die Bilder der verschiedenen Asanas an und probiere sie aus. Finde eine Position für Dich, die Du länger bequem halten kannst. Du kannst Dir zum Beispiel gerne Kissen unter den Kopf bauen, mit gerollten Decken die Knie polstern oder weniger intensiv in die Haltung gehen.
+
+
+<img class="img-rounded" width=150 src="/img/services/archetypen2022/meditation/fersensitz.jpg">
+<img class="img-rounded" width=150 src="/img/services/archetypen2022/meditation/kind.jpg">
+<img class="img-rounded" width=150 src="/img/services/archetypen2022/meditation/stand.jpg">
+<img class="img-rounded" width=150 src="/img/services/archetypen2022/meditation/krieger.jpg">
+<img class="img-rounded" width=150 src="/img/services/archetypen2022/meditation/bogen.jpg">
+<img class="img-rounded" width=150 src="/img/services/archetypen2022/meditation/koenigin.jpg">
+
+Bitte beachte, dass jeder von seine ganz individuelle Verbindung zu den Archetypinnen hat. Wie sie sich aktuell bei Dir anfühlen, kannst nur Du wissen und wahrnehmen. Alles was Du spürst und fühlst bei der Meditation ist genau so richtig für Dich.
+
+<audio controls autoplay muted>
+  <source src="assets/archetypinnenmeditation_v2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<br>
 ## Referenten
 ![Simone Frese](img/services/archetypen2022/simone.jpg){:class="img-circle"}{:width="200"}
 mit Simone Frese, Die Archetypinnen, [https://simone-frese.de](https://simone-frese.de)
