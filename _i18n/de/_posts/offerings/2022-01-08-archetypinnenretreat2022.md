@@ -38,8 +38,8 @@ Schau Dir zur Vorbereitung die Bilder der verschiedenen Asanas an und probiere s
 
 Bitte beachte, dass jeder von seine ganz individuelle Verbindung zu den Archetypinnen hat. Wie sie sich aktuell bei Dir anfühlen, kannst nur Du wissen und wahrnehmen. Alles was Du spürst und fühlst bei der Meditation ist genau so richtig für Dich.
 
-<audio controls autoplay muted>
-  <source src="assets/archetypinnenmeditation_v2.mp3" type="audio/mpeg">
+<audio controls>
+  <source src="assets/archetypinnenmeditation_v2.mp3" type="audio/mpeg" onclick="_gaq.push(['_trackEvent','Play','mp3',this.href]);">
 Your browser does not support the audio element.
 </audio>
 
