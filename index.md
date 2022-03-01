@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Turtle Transformation
+title: index.title
 ---
