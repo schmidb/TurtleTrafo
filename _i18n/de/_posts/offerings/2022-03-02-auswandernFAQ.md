@@ -9,7 +9,7 @@ Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und 
 
 Alle Antworten basieren auf unserem aktuellen Wissensstand bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung.
 
-Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den Wissensstand von diesem Tag. Hinter jeder Frage findet ihr das Wort LINK. Darüber könnt ihr einen Link kopieren und die Frage teilen oder in euren Bookmarks speichern.
+Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den Wissensstand von diesem Tag. Hinter jeder Frage findet ihr das Wort Teilen. Darüber könnt ihr einen Link kopieren und die Frage teilen oder in euren Bookmarks speichern.
 
 # Auswandern aus Deutschland
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -22,7 +22,7 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
         <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
           {{post.title}}
         </a>
-        <span style="float:right;"><a href="#{{post.anker}}">LINK</a></span>
+        <span style="float:right;"><a href="#{{post.anker}}">Teilen</a></span>
       </h4>
     </div>
     <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
@@ -42,14 +42,16 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
   <div class="panel panel-default">
 
   {% for post in site.categories.FAQschule reversed %}
-    <div class="panel-heading" role="tab" id="{{post.anker}}">
+    <a id="{{post.anker}}"></a>
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}" aria-expanded="false" aria-controls="{{post.anker}}">
-          {{post.title}} <a id="{{post.anker}}" href="#{{post.anker}}">LINK</a>
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
         </a>
+        <span style="float:right;"><a href="#{{post.anker}}">Teilen</a></span>
       </h4>
     </div>
-    <div id="{{post.anker}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
         {{post.content}}
         <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
@@ -66,14 +68,16 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
   <div class="panel panel-default">
 
   {% for post in site.categories.FAQleben reversed %}
-    <div class="panel-heading" role="tab" id="{{post.anker}}">
+    <a id="{{post.anker}}"></a>
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}" aria-expanded="false" aria-controls="{{post.anker}}">
-          {{post.title}} <a id="{{post.anker}}" href="#{{post.anker}}">LINK</a>
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
         </a>
+        <span style="float:right;"><a href="#{{post.anker}}">Teilen</a></span>
       </h4>
     </div>
-    <div id="{{post.anker}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
         {{post.content}}
         <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
