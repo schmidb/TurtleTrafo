@@ -100,6 +100,19 @@ Unser Preis für "Begleitung bei Neue Wege als Familie" ist abhängig von Deinem
       </div>
     </div>
 
+    <div class="panel-heading" role="tab" id="heading3">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+          Ich möchte mit meiner Familie nach Irland auswandern. Wie mache ich das?
+        </a>
+      </h4>
+    </div>
+    <div id="collapse3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading3">
+      <div class="panel-body">
+      Gerne teilen wir unseren Weg und unsere Erfahrungen mit Dir. Wir haben eine <a href="/auswandernFAQ">Auswandern FAQ</a> Seite angelegt. Diese beantwortet Dir viele erste Fragen. Danach können wir Dich gerne im Rahmen unseren Familien Transformations Coachings auf eurem Weg begleiten.
+      </div>
+    </div>
+
   </div>
 
   </div>
