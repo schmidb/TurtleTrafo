@@ -7,7 +7,7 @@ description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus De
 
 Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Leben in Irland. Wir sind Miriam & Markus Schmidberger mit Kids und Katharina Walter mit Kids. Nach intensiver Reisezeit sind wir beide Familien 2017 und 2021 in Irland angekommen.
 
-Alle Antworten basieren auf unserem aktuellen Wissensstand bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung.
+Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:trafo@posteo.net) und wir ergänzen die Antwort.
 
 Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den Wissensstand von diesem Tag. Hinter jeder Frage findet ihr das Wort Teilen. Darüber könnt ihr einen Link kopieren und die Frage teilen oder in euren Bookmarks speichern.
 
