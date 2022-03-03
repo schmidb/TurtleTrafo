@@ -1,11 +1,11 @@
 ---
 layout: offerings
-title: Auswandern & frei Leben FAQ
+title: Auswandern & freies Familienleben FAQ
 permalink: auswandernFAQ
-description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Leben in Irland."
+description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland."
 ---
 
-Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Leben in Irland. Wir sind Miriam & Markus Schmidberger mit Kids und Katharina Walter mit Kids. Nach intensiver Reisezeit sind wir beide Familien 2017 und 2021 in Irland angekommen.
+Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland. Wir sind Miriam & Markus Schmidberger mit Kids und Katharina Walter mit Kids. Nach intensiver Reisezeit sind wir beide Familien 2017 und 2021 in Irland angekommen.
 
 Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:trafo@posteo.net) und wir ergänzen die Antwort.
 
@@ -92,15 +92,24 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
 <br>
 ---
 <br>
-# Und so geht es weiter
+# Und so geht es weiter ...
 Wir empfehlen euch sehr zuerst einmal in Irland Urlaub zu machen und das Land und die Menschen kennen zu lernen.
 
+## Webinar: 'Auswandern und freies Familienleben in Irland'
+Katharina und Markus bieten in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern und freies Familienleben in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 25 Euro.
+
+<b>Nächster Termin: Monday, March 28, 2022 - 8 pm<b><br>
+<a href="" target=_blank>Anmeldung - Coming Soon</a>
+
+
+<br>
 ## Turtle Trafo - Familien Transformations Coaching
 Dein Weg ins Ausland und hin zu einem neuen Lebensmodell ist eine große Entscheidung und ist - basierend auf unserer Erfarung - nicht immer einfach. Bei Interesse teilen wir Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und genussreich miteinander zu sein. Wir begleiten Dich, wenn Du magst, zu Deinen Familienträumen und zeigen Dir mögliche Wege, wie Entspannung bei Dir und in Deiner Familie ankommen kann.
 
 [Turtle Trafo Familien Coaching](services-familie/2021/12/12/FamilenCoaching/)
 
 
+<br>
 ## Celebrate Being - Human Design
 Dein Weg ins Ausland wird dich vor Herausforderungen stellen. Je besser Du dich selber kennst, umso bewusster kannst du deine Entscheidungen treffen. Human Design ist ein Ansatz dich tiefer und besser kennen zu lernen. Basierend auf Deinem Human Design Chart und dem Reading dazu, erfährst Du wie einzigartig Du bist. Wir alle haben ein individuelles Design, in dem wir in diesem Körper auf der Erde unsere Erfahrungen machen. Jede Entscheidung, die wir treffen, wird leichter, freudvoller und stimmiger für uns, wenn wir unser Design kennen und erfahren, wie wir „ticken“. Leben wir in Anerkennung unseres einzigartigen Designs, können wir in Liebe vollends in unserem Menschen ankommen.
 
