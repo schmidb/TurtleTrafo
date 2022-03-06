@@ -98,7 +98,7 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
 Wir empfehlen euch sehr zuerst einmal in Irland Urlaub zu machen und das Land und die Menschen kennen zu lernen.
 
 ## Webinar: 'Auswandern - Frei leben und lernen in Irland'
-Katharina und Markus bieten in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern - Frei leben und lernen in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 20 Euro.
+Katharina und Markus bieten in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern - Frei leben und lernen in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 25 Euro.
 
 <b>Nächster Termin: Monday, March 28, 2022 - 8 pm (7 pm UTC)<b><br>
 <a href="https://celebrate-being.de/irland" target=_blank>Anmeldung</a>
