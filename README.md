@@ -28,3 +28,6 @@ imprint: https://www.e-recht24.de
 * to install everything
   * "bundle install"
   * "bundle update" for updates
+
+## share buttons
+https://sharethis.com/

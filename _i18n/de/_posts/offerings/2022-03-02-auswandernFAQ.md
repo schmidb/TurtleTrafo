@@ -5,7 +5,7 @@ permalink: auswandernFAQ
 description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland."
 ---
 
-Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland. Wir sind Miriam & Markus Schmidberger mit Kids und Katharina Walter mit Kids. Nach intensiver Reisezeit sind wir beide Familien 2017 und 2021 in Irland angekommen.
+Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland. Wir sind Miriam & Markus Schmidberger mit Kids und Katharina Walter mit Kids. Nach intensiver Reisezeit sind wir 2017 bzw. 2021 in Irland angekommen.
 
 Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:trafo@posteo.net) und wir ergänzen die Antwort.
 
@@ -22,7 +22,9 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
         <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
           {{post.title}}
         </a>
-        <span style="float:right;"><a href="#{{post.anker}}">Teilen</a></span>
+        <span style="float:right;">
+        <a href="#{{post.anker}}">Teilen</a>
+        </span>
       </h4>
     </div>
     <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
@@ -95,11 +97,11 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
 # Und so geht es weiter ...
 Wir empfehlen euch sehr zuerst einmal in Irland Urlaub zu machen und das Land und die Menschen kennen zu lernen.
 
-## Webinar: 'Auswandern und freies Familienleben in Irland'
-Katharina und Markus bieten in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern und freies Familienleben in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 25 Euro.
+## Webinar: 'Auswandern - Frei leben und lernen in Irland'
+Katharina und Markus bieten in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern - Frei leben und lernen in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 20 Euro.
 
-<b>Nächster Termin: Monday, March 28, 2022 - 8 pm<b><br>
-<a href="" target=_blank>Anmeldung - Coming Soon</a>
+<b>Nächster Termin: Monday, March 28, 2022 - 8 pm (7 pm UTC)<b><br>
+<a href="https://celebrate-being.de/irland" target=_blank>Anmeldung</a>
 
 
 <br>
