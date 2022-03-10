@@ -10,7 +10,7 @@
     <meta property=“og:title“ content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property=“og:description“ content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property=“og:url“ content="{{site.baseurl}}{{page.url}}" />
-    <meta name="image" property=“og:image“ content="{% if page.img %}{{site.baseurl}}/img/services/{{page.img}}{% else %}https://turtletrafo.de/img/logo/trafo_logo_text_color_big.jpg{% endif %}" />
+    <meta name="image" property=“og:image“ content="{% if page.img %}{{site.url}}/img/services/{{page.img}}{% else %}https://turtletrafo.de/img/logo/trafo_logo_text_color_big.jpg{% endif %}" />
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
