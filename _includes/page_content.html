@@ -37,7 +37,7 @@
                             <div class="lead"><a href="{{ site.baseurl }}{{ post.url }}">{% t mehrlink %}</a></div>
                         </div>
                         <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                            <img class="img-responsive thumbnail" src="/img/services/{{ post.img }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
+                            <img class="img-responsive thumbnail" alt="{{ post.title }}" src="/img/services/{{ post.img }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                         </div>
                     </div>
           {% endfor %}
