@@ -7,7 +7,7 @@ permalink: masterclass
 description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
 Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
 Masterclass beginnt bei Dir selbst, um deinen inneren Fokus zu finden und
-Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen.<br><b>Startet online am 15. Februar 2022</b>"
+Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen.<br><b>Nächster Start online am 10. Januar 2023</b>"
 ---
 
 <!--
@@ -40,6 +40,14 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 * Selbststudium im Umfang von ca. 10 Stunden pro Monat
 * Abschlussgespräch
 
+
+<br>
+## Offline Work Excellence Retreat 2022
+Wir freuen uns alle am Thema "Work Excellence" Interessierten zu unserem "Offline Work Excellence Retreat 2022" nach Oberammbach am Starnberger See in Bayern einzuladen.
+
+[Mehr Informationen zum Retreat und Anmeldung](retreat2022)
+
+
 <br>
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
@@ -48,6 +56,7 @@ Die **online** Masterclass mit maximal 10 Teilnehmern **startet am 10. Januar 20
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Masterclass" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 
+<!--
 <br>
 <div class="panel panel-info">
   <div class="panel-heading">
@@ -57,6 +66,7 @@ Die **online** Masterclass mit maximal 10 Teilnehmern **startet am 10. Januar 20
     Die <b>Eröffnungs-Masterclass</b> startet am <b>15. Februar 2022</b> im familiären Rahmen von maximal 5 Teilnehmern. Teilnahme nur auf persönliche Einladung, persönliche Empfehlung oder einer individuellen Bewerbungsemail. Für Privatpersonen geben wir eine 50% Ermäßigung auf den Preis der Eröffnungs-Masterclass.
   </div>
 </div>
+-->
 
 
 <br>
@@ -84,7 +94,7 @@ Die **online** Masterclass mit maximal 10 Teilnehmern **startet am 10. Januar 20
     <div class="panel-heading" role="tab" id="heading2">
       <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
-          Was ist der Zeitaufwand für die Masterclass?
+          Was ist der Zeitaufwand für die online Masterclass 2022?
         </a>
       </h4>
     </div>

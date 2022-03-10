@@ -7,30 +7,26 @@ description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus De
 
 Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland. Wir sind Miriam & Markus Schmidberger mit Kids und Katharina Walter mit Kids. Nach intensiver Reisezeit sind wir 2017 bzw. 2021 in Irland angekommen.
 
-Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:trafo@posteo.net) und wir ergänzen die Antwort.
-
-Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den Wissensstand von diesem Tag. Hinter jeder Frage findet ihr das Wort Teilen. Darüber könnt ihr einen Link kopieren und die Frage teilen oder in euren Bookmarks speichern.
+Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand (siehe Erstelldatum) bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:trafo@posteo.net) und wir ergänzen die Antwort.
 
 # Auswandern aus Deutschland
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
 
   {% for post in site.categories.FAQauswandern reversed %}
-    <a id="{{post.anker}}"></a>
     <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
         <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
           {{post.title}}
         </a>
         <span style="float:right;">
-        <a href="#{{post.anker}}">Teilen</a>
+        <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
         </span>
       </h4>
     </div>
     <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
         {{post.content}}
-        <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
       </div>
     </div>
   {% endfor %}
@@ -40,55 +36,82 @@ Technischer Hinweis: Jede Antwort hat ein Erstelldatum und beschreibt somit den 
 
 ---
 # Schule in Irland
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel-group" id="accordionSchule" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
 
   {% for post in site.categories.FAQschule reversed %}
-    <a id="{{post.anker}}"></a>
-    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
-      <h4 class="panel-title">
-        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
-          {{post.title}}
-        </a>
-        <span style="float:right;"><a href="#{{post.anker}}">Teilen</a></span>
-      </h4>
+  <div class="panel-heading" role="tab" id="{{post.anker}}Head">
+    <h4 class="panel-title">
+      <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordionSchule" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+        {{post.title}}
+      </a>
+      <span style="float:right;">
+      <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
+      </span>
+    </h4>
+  </div>
+  <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
+    <div class="panel-body">
+      {{post.content}}
     </div>
-    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
-      <div class="panel-body">
-        {{post.content}}
-        <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
-      </div>
-    </div>
-  {% endfor %}
+  </div>
+{% endfor %}
 
   </div>
 </div>
 
 ---
 # Leben in Irland
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel-group" id="accordionLeben" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
 
   {% for post in site.categories.FAQleben reversed %}
-    <a id="{{post.anker}}"></a>
-    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
-      <h4 class="panel-title">
-        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
-          {{post.title}}
-        </a>
-        <span style="float:right;"><a href="#{{post.anker}}">Teilen</a></span>
-      </h4>
+  <div class="panel-heading" role="tab" id="{{post.anker}}Head">
+    <h4 class="panel-title">
+      <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordionLeben" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+        {{post.title}}
+      </a>
+      <span style="float:right;">
+      <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
+      </span>
+    </h4>
+  </div>
+  <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
+    <div class="panel-body">
+      {{post.content}}
     </div>
-    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
-      <div class="panel-body">
-        {{post.content}}
-        <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
-      </div>
-    </div>
-  {% endfor %}
+  </div>
+{% endfor %}
 
   </div>
 </div>
+
+---
+# Bürokratie in Irland
+<div class="panel-group" id="accordionGesetze" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+
+  {% for post in site.categories.FAQgesetze reversed %}
+  <div class="panel-heading" role="tab" id="{{post.anker}}Head">
+    <h4 class="panel-title">
+      <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordionGesetze" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+        {{post.title}}
+      </a>
+      <span style="float:right;">
+      <sub>erstellt am {{post.date | date: "%-d %B %Y"}}</sub>
+      </span>
+    </h4>
+  </div>
+  <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
+    <div class="panel-body">
+      {{post.content}}
+    </div>
+  </div>
+{% endfor %}
+
+  </div>
+</div>
+
 
 
 <br>

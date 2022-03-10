@@ -1,9 +1,9 @@
 ---
 category: FAQschule
-title: Wie genau funktioniert das mit dem homeschooling? Meldet man das irgendwo an?
+title: Wie genau funktioniert das mit dem Homeschooling? Meldet man das Homeschooling in Irland irgendwo an?
 anker: homeschooling
 ---
-Solange du keine PPS Nummer für deine Kinder beantragst sind deine Kinder in Irland nicht registriert und keiner fordert einen Bildngs- / Schul- Nachweis von dir.
+Solange du keine PPS Nummer für deine Kinder beantragst sind deine Kinder in Irland nicht registriert und keiner fordert einen Bildngs- / Schulnachweis von dir.
 
 Homeschooling meldest du - wenn du es offiziell möchtest - bei Tusla an. Meistens wirst du in den ersten 6 Wochen einmal überprüft und dann in Ruhe gelassen.
 [https://www.tusla.ie/services/family-community-support/alternative-education-assessment-and-registration-service/](https://www.tusla.ie/services/family-community-support/alternative-education-assessment-and-registration-service/)
