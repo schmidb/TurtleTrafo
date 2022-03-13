@@ -34,8 +34,11 @@ github: [metadata]
 
 # languages
 languages: ["de", "en"]
-exclude_from_localizations: ["assets", "css", "fonts", "img", "js", "CNAME"]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+exclude_from_localizations: ["assets", "css", "fonts", "img", "js", "CNAME", favicon.ico, docs, apple-touch-icon.png, robots.txt]
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
 defaultLang: de
 languageNames:
   de: Deutsch
