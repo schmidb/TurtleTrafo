@@ -2,6 +2,7 @@
 category: FAQschule
 title: Unterrichtet Ihr eure Kinder?<br> Wie lernen die Kinder beim Freilernen?
 anker: unterrichten
+sitemap: false
 ---
 
 Unsere Kinder unterrichten sich selber mittels Bücher, Freunde & Geschwister, Filme, Kino, YouTube, Computerspiele und reden mit den irischen Kindern auf dem Spielplatz.

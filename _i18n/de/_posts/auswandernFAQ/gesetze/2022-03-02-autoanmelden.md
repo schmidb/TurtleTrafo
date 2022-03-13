@@ -2,6 +2,7 @@
 category: FAQgesetze
 title: Müssen wir das Auto auch in Irland anmelden?
 anker: auto
+sitemap: false
 ---
 
 Wenn Du in Irland lebst musst du das Auto ummelden wenn es deines ist. Es stört hier aber niemanden wenn du einige Jahre mit Deutscher Autonummer herumfährst. Problematisch wird es mit deiner deutschen Versicherung wenn du in kurzer Zeit mehrere Unfälle im Ausland hast. Aber ohne Unfälle hat die Versicherung auch kein Problem.

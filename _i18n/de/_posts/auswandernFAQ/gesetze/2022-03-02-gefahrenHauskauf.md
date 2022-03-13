@@ -2,6 +2,7 @@
 category: FAQgesetze
 title: Muss ich beim Hauskauf in Irland irgendwas besonderes beachten?
 anker: hauskaufProbleme
+sitemap: false
 ---
 
 Prinzipiell läuft der Hauskauf in Irland ähnlich zu Deutschland ab. Über einen Makler das Haus besichtigen, kleinen Betrag anzahlen, über einen Solicitor / Anwalt die Verträge aufsetzen lassen, unterschreiben und dann einziehen.

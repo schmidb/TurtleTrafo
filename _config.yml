@@ -24,7 +24,6 @@ markdown: kramdown
 remote_theme: swcool/landing-page-theme
 permalink: pretty # layout of URL for blog posts
 plugins:
-  - jekyll-feed
   - jekyll-minifier
   - jekyll-sitemap
   - jekyll-github-metadata #Jekyll plugin to propagate the site.github namespace and set default values for use with GitHub Pages.

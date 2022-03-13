@@ -2,6 +2,7 @@
 category: FAQleben
 title: Wie hoch sind die Lebensunterhaltskosten in Irland?
 anker: lebensunterhalt
+sitemap: false
 ---
 
 Gefühlt sind die Lebensunterhaltskosten ähnlich zu Deutschland und in der Stadt höher als auf dem Land.<br><br>

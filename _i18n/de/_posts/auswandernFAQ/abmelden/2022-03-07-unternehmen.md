@@ -2,6 +2,7 @@
 category: FAQauswandern
 title: Was mache ich mit meinem deutschen Unternehmen wenn ich mich in Deutschland abmelde?
 anker: unternehmen
+sitemap: false
 ---
 
 Ersteinmal kannst du dein Unternehmen einfach weiter betreiben. Solange du deine Steuern zahlst hat der Deutsche Staat nur wenig gegen deine Abmeldung. Für viele Unternehmensformen benötigst du eine Betriebsstätte in Deutschland. Hierfür kann z.B. die Adresse bei deinen Eltern ausreichend sein.

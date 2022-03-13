@@ -4,6 +4,7 @@ img: danielatigges.webp
 category: Referenzen
 title: Daniela Tigges
 description: Mutter und Unternehmerin von <a href="https://www.familotel-ebbinghof.de/" target="_blank">Familotel Ebbinghof</a>
+sitemap: false
 ---
 
 Ich finde euch als Familie sehr authentisch und natürlich - es ist alles andere als

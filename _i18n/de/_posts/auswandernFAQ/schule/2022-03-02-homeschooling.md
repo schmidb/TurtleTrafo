@@ -2,6 +2,7 @@
 category: FAQschule
 title: Wie genau funktioniert das mit dem Homeschooling? Meldet man das Homeschooling in Irland irgendwo an?
 anker: homeschooling
+sitemap: false
 ---
 Solange du keine PPS Nummer für deine Kinder beantragst sind deine Kinder in Irland nicht registriert und keiner fordert einen Bildngs- / Schulnachweis von dir.
 

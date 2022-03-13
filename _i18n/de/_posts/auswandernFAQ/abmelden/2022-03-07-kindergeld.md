@@ -2,6 +2,7 @@
 category: FAQauswandern
 title: Bekomme ich Kindergeld wenn ich in Deutschland abgemeldet bin?
 anker: kindergeld
+sitemap: false
 ---
 
 Das deutsche Kindergeld ist an die unbeschränkte Steuerpflicht gebunden. D.h. wenn ein Elternteil weiterhin in Deutschland gemeldet ist und in Deutschland Steuern zahlt, dann habt ihr einen Anspruch auf deutsches Kindergeld. Die Kinder müssen sich dafür nachweislich in Europa aufhalten.
