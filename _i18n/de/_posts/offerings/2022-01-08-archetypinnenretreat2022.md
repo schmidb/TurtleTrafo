@@ -2,9 +2,9 @@
 layout: offerings
 img: archetypen2022/retreat.png
 category: Services-Einzel
-title: Archetypinnen Retreat 2022 - Erwecke und lebe die weibliche Kraft in Dir
+title: Archetypinnen Retreat - Erwecke und lebe die weibliche Kraft in Dir
 permalink: archetypinnenretreat2022
-description: "Begegne Deinen inneren Archetypinnen mithilfe von Yoga, bewusster Ernährung und direkter Arbeit mit den Emotionsenergien.<br><b>8. Mai - 13. Mai 2022 in TamanGa, Österreich</b>"
+description: "Begegne Deinen inneren Archetypinnen mithilfe von Yoga, bewusster Ernährung und direkter Arbeit mit den Emotionsenergien."
 ---
 
 Begegne Deinen inneren Archetypinnen mithilfe von Yoga, bewusster Ernährung und direkter Arbeit mit den Emotionsenergien.
@@ -18,8 +18,6 @@ Archetypen sind Urkräfte, die universell in jedem von uns wirken. Sind wir bewu
 *Und was das Ganze mit Deinem Wohlbefinden und ganzheitlicher Gesundheit zu tun hat?*
 
 In den 5 Retreat-Tagen laden wir Dich ein, diese Urkräfte in Dir zu entdecken und mit ihnen zu arbeiten. Die Archetypinnen dienen Dir, Dich selbst zu erkennen und Frieden in Dir zu finden.
-
-Mehr Informationen findest du auf [https://trivitys.com/pages/retreats](https://trivitys.com/pages/retreats)
 
 <br>
 ## Einstimmung - Archetypinnen Meditation
@@ -52,9 +50,3 @@ mit Tsvetana Dinkova, Archetypinnen Ernährung & Yoga, [https://trivitys.com](ht
 
 ![Miriam Schmidberger](img/services/archetypen2022/miriam.jpg){:class="img-circle"}{:width="200"}
 mit Miriam Schmidberger, Archetypinnen Yoga & Innen nach Aussen Coaching, [https://turtletrafo.de](https://turtletrafo.de)
-
-<br>
-## Preise & Termine & Buchung
-Termin: 8. Mai - 13. Mai 2022<br>
-Ort: TamanGa, Österreich, [https://www.tamanga.at](https://www.tamanga.at)<br>
-Preis und Buchung via [https://trivitys.com/pages/retreats](https://trivitys.com/pages/retreats)
