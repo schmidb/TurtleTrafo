@@ -58,61 +58,22 @@ Unser Preis für "Begleitung bei Neue Wege als Familie" ist abhängig von Deinem
 <br>
 ## FAQ
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
   <div class="panel panel-default">
-
-    <div class="panel-heading" role="tab" id="headingOne">
+  {% for post in site.categories.offeringsFAQ reversed %}
+    {% if post.tags contains "family" %}
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Treffen wir uns persönlich oder findet das Coaching online statt?
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
         </a>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
-        Aktuell bieten wir Coaching nur online und via Zoom oder Telefon an.
+        {{post.content}}
       </div>
     </div>
-
-    <div class="panel-heading" role="tab" id="headingTwo">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Gibt es einen Kennenlernangebot?
-        </a>
-      </h4>
-    </div>
-    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="panel-body">
-        Ein 45 Minuten Kennenlerngespräch und erarbeiten erster Themen bieten wir für 90 Euro an.
-      </div>
-    </div>
-
-    <div class="panel-heading" role="tab" id="heading3">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
-          Welche Methodiken werden im Coaching verwendet?
-        </a>
-      </h4>
-    </div>
-    <div id="collapse3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading3">
-      <div class="panel-body">
-      Wir nutzen verschiedenste Methoden aus dem Coaching Bereich: Wovon träume ich? (Story-Telling), finde Antworten für all deine Fragen zu deinem Traum, mach dir deine Ängste rundum deine Träume bewusst, definiere deinen Weg zu deinem Traum (Action-Cafe).
-      </div>
-    </div>
-
-    <div class="panel-heading" role="tab" id="heading3">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
-          Ich möchte mit meiner Familie nach Irland auswandern. Wie mache ich das?
-        </a>
-      </h4>
-    </div>
-    <div id="collapse3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading3">
-      <div class="panel-body">
-      Gerne teilen wir unseren Weg und unsere Erfahrungen mit Dir. Wir haben eine <a href="/auswandernFAQ">Auswandern FAQ</a> Seite angelegt. Diese beantwortet Dir viele erste Fragen. Danach können wir Dich gerne im Rahmen unseren Familien Transformations Coachings auf eurem Weg begleiten.
-      </div>
-    </div>
-
+    {% endif %}
+  {% endfor %}
   </div>
-
-  </div>
+</div>

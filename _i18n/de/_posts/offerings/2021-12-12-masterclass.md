@@ -42,13 +42,6 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 
 
 <br>
-## Offline Work Excellence Retreat 2022
-Wir freuen uns alle am Thema "Work Excellence" Interessierten zu unserem "Offline Work Excellence Retreat 2022" nach Oberammbach am Starnberger See in Bayern einzuladen.
-
-[Mehr Informationen zum Retreat und Anmeldung](retreat2022)
-
-
-<br>
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
@@ -72,82 +65,22 @@ Die **online** Masterclass mit maximal 10 Teilnehmern **startet am 10. Januar 20
 <br>
 ## FAQ
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
+  {% for post in site.categories.offeringsFAQ reversed %}
+    {% if post.tags contains "WorkExcellence" %}
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-          Treffen wir uns persönlich oder findet die Masterclass online statt?
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
         </a>
       </h4>
     </div>
-
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
-        Aktuell bieten wir die Masterclass nur online an, mit der Option, falls möglich, ein 3-Tages-Präsenzevent dazu zu buchen.
+        {{post.content}}
       </div>
     </div>
+    {% endif %}
+  {% endfor %}
   </div>
-
-
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="heading2">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
-          Was ist der Zeitaufwand für die online Masterclass 2022?
-        </a>
-      </h4>
-    </div>
-
-    <div id="collapse2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading2">
-      <div class="panel-body">
-
-        <p>
-        <b>Einzelcoaching</b><br>
-        jeden zweiten Monat (Februar, April, Juni, August, Oktober, Januar)<br>
-        online via Zoom<br>
-        45 - 75 min
-        </p>
-
-        <p>
-       <b>3 x Wochen-Seminar</b><br>
-        7.- 11. March 2022, 30. Mai - 3. Juli, 5. - 9. September<br>
-        online via Zoom<br>
-        ca. 2 Stunden Inhalts- und Impulsvortrag am Vormittag (Montag - Donnerstag)<br>
-         45 min Reflektionsrunde am Abend (Montag - Donnerstag)<br>
-         Freitag Reflektionstag jeder für sich und Abends 45 min Abschlussrunde
-        </p>
-
-      <p>
-      <b>Webinare</b><br> nach Bedarf zur Vertiefung
-      </p>
-
-      <p><b>Peergroup</b><br>
-        start am Donnerstag, den 17. Februar 2022<br>
-        online via Zoom<br>
-        14 tägig, fällt aus am: 14.4., 26.5., 4.8., 22.12., 5.1.2023
-        </p>
-
-      <p><b>Eröffnungsveranstaltung:</b> 15. Februar 2022, 20:30 Uhr</p>
-      <p><b>Abschlussveranstaltung:</b> 6. Februar 2023, 20:30 Uhr</p>
-      <p><b>Abschlussgespräche:</b> Januar / Februar 2023</p>
-
-      <p><b>Make the Change</b>
-      Oktober und November (KW40 - KW47) - 14 Tage pro Person
-      </p>
-
-      <p><b>Offline Event:</b> Juli 2022 -  4. - 6. Juli 2022
-      </p>
-
-      <p><b>Konzentration auf das was wichtig ist - achtsame Weihnachtspause:</b>
-      12. Dezember - 8 Januar 2023 (KW 50 - KW1)
-      </p>
-
-
-      </div>
-    </div>
-  </div>
-
-
-
-  </div>
+</div>

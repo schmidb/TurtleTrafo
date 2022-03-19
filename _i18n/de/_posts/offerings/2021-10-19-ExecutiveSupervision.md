@@ -38,26 +38,26 @@ an {{ site.email }}.
 <br>
 ## FAQ
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
   <div class="panel panel-default">
-
-    <div class="panel-heading" role="tab" id="headingOne">
+  {% for post in site.categories.offeringsFAQ reversed %}
+    {% if post.tags contains "execSupervision" %}
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-          Treffen wir uns persönlich oder findet die Supervision online statt?
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
         </a>
       </h4>
     </div>
-
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
-        Aktuell bieten wir coaching nur online an.
+        {{post.content}}
       </div>
     </div>
-
+    {% endif %}
+  {% endfor %}
   </div>
+</div>
 
-  </div>
 
 
 
