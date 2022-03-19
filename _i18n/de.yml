@@ -11,9 +11,16 @@ nav:
   unsername: Unser Name
   referenzen: Referenzen
   kontakt: Kontakt
+  blog: Blog
+
+blog:
+  before: zurück
+  next: vor
+  intro: Willkommen zu unserem TurtleTrafo Blog, der in unregelmässigen Abständen Inspirationen aus unserer Arbeit wiedergibt.
 
 index:
   title: Firmen und Familien Transformation
+
 page:
   subTitle: Veränderung von Innen nach Außen
 

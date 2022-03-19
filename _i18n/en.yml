@@ -11,9 +11,16 @@ nav:
   unsername: Our Name
   referenzen: References
   kontakt: Contact
+  blog: Blog
+
+blog:
+  before: back
+  next: next_post
+  intro: At the moment we do not provide blog posts in English.
 
 index:
   title: Business and Family Transformation
+
 page:
   subTitle: Change from Inside to Outside
 

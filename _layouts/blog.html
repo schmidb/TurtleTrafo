@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+	{% include head.html %}
+
+	<body>
+		{% include header_offerings.html %}
+
+		<div class="content-pages">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+
+						<h1>{{post.title}}</h1>
+						<p class="post-meta">
+					    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+					      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+					      {{ page.date | date: date_format }}
+					    </time>
+					    {% if page.author %}
+					      - {% t impression.written %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span> - <a href="mailto:{{ site.email }}?subject=Feedback: {{ page.title }}">{{ site.email }}</a>
+					    {% endif %}
+							{% if page.tag %}
+							- Tags: <span style="text-transform:uppercase">{{page.tag | join: " & " | prepend: "" | append: " - "}}</span>
+							{% endif %}
+						</p>
+
+						{{ content }}
+
+					</div>
+				</div>
+
+			{% for post in site.categories.blog %}
+			    {% if post.url == page.url %}
+			        {% assign post_index0 = forloop.index0 %}
+			        {% assign post_index1 = forloop.index %}
+			    {% endif %}
+			{% endfor %}
+			{% for post in site.categories.blog %}
+			    {% if post_index0 == forloop.index %}
+			        {% assign next_post = post.url %}
+			    {% endif %}
+			    {% if post_index1 == forloop.index0 %}
+			        {% assign prev_post = post.url %}
+			    {% endif %}
+			{% endfor %}
+
+			<br>
+			<div style="text-align:center;">
+			{% if prev_post %}
+			    <a href="{{ prev_post }}">{% t blog.before %}</a>
+			{% endif %}
+			- <a href="/blog">Übersicht</a> -
+			{% if next_post %}
+			    <a href="{{ next_post }}">{% t blog.next %}</a>
+			{% else %}
+			    <br>
+			{% endif %}
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+		<!-- ShareThis BEGIN -->
+		<div class="sharethis-inline-share-buttons"></div>
+		<!-- ShareThis END -->
+		<br>
+
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
