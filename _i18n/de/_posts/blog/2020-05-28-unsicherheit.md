@@ -4,7 +4,7 @@ title: Die Unsicherheit der Muttersöhnchen
 date: 2020-05-28
 author: Markus
 category: blog
-tag: impression
+tag: ["Persönlichkeitsentwicklung", "Inspiration"]
 ---
 
 Als Mann sehne ich mich auch heute mit 39 Jahren noch nach der Liebe der Mutter. In der Ehe suche ich in meiner Ehefrau den Mutterersatz. In der Literatur spricht man hier dann von einem "Muttersöhnchen". Grrr, klingt nicht so toll und möchte ich so schnell wie möglich los werden.

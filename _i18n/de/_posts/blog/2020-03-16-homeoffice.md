@@ -3,7 +3,7 @@ layout: blog
 title: Leben und Arbeiten mit Kindern - Home Office
 date: 2020-03-16
 category: blog
-tag: philosophie
+tag: ["New Work", "Lebensphilosophie"]
 ---
 
 Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten. Das Wichtigste ist die eigene innere Haltung:

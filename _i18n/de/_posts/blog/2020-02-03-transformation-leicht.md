@@ -4,7 +4,7 @@ title: Transformationsprozesse fühlen sich nicht leicht an - oder was ist Trans
 author: Miriam
 date: 2020-02-03
 category: blog
-tag: philosophie
+tag: ["New Work", "Lebensphilosophie"]
 ---
 
 Transformation geschieht über Wandel in mir. Um den Wandlungsprozess zu starten stelle ich meine Überzeugungen in Frage. Ich lasse Neues und damit für mich Unbekanntes an mich heran und hinein.

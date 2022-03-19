@@ -4,7 +4,7 @@ title: Was ist der Unterschied zwischen Change Management und "Inside-Out Transf
 author: Markus
 date: 2020-01-30
 category: blog
-tag: philosophie
+tag: ["New Work", "Lebensphilosophie"]
 ---
 
 Bei einem Changeprozess gibt es eine Änderung von Außen. Diese führt dazu, dass in deinem Leben irgendwelche Prozesse oder Abläufe geändert werden müssen. Wenn z.B. durch einen Umzug dein Arbeitsweg um 30 Minuten länger wird, musst du deinen Wecker um 30 Minuten vorstellen, um pünktlich in der Arbeit zu sein.

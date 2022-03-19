@@ -5,7 +5,7 @@ date:   2019-11-01
 img: /img/blog/north.jpg
 description: Hier findest du Inspirationen und Antworten auf einige deiner Fragen zu unseren Ansätzen, Vorgehensweisen und Lebensphilosophien. Dies ist eine unsortierte Liste von vielen Themen aus unseren letzen Jahren als Familie und Ehepaar.
 category: blog
-tag: mindset
+tag: ["Persönlichkeitsentwicklung", "Lebensphilosophie"]
 ---
 Hier findest du Inspirationen und Antworten auf einige deiner Fragen zu unseren Ansätzen, Vorgehensweisen und Lebensphilosophien. Dies ist eine unsortierte Liste von vielen Themen aus unseren letzen Jahren als Familie und Ehepaar.
 

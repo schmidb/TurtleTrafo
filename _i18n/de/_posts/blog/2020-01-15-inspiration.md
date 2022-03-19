@@ -7,7 +7,7 @@ show: true
 permalink: inspiration
 description: Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrungen anderer gezogen.
 category: blog
-tag: mindset
+tag: ["Persönlichkeitsentwicklung", "Inspiration"]
 ---
 
 Nebst unseren eigenen Erfahrungen haben wir viele Inspirationen aus den Erfahrungen anderer gezogen. Nachfolgend eine wachsende und unsortierte Liste:

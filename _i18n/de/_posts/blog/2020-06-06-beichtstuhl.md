@@ -4,7 +4,7 @@ title: Das Trauma mit dem Beichtstuhl
 date: 2020-06-06
 author: Markus
 category: blog
-tag: impression
+tag: ["Persönlichkeitsentwicklung", "Inspiration"]
 ---
 
 Musstest du als Kind auch zum Beichten in die katholische Kirche gehen? Ich erinnere mich an gruselige Gefühle: kalte und dunkle Kirche, modriger Beichtstuhl in der hintersten Ecke der Kirche, nicht verständliche Regeln, unbekannter Pfarrer und immer X Vaterunser zur Vergebung der Sünden beten.
