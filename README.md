@@ -31,3 +31,9 @@ imprint: https://www.e-recht24.de
 
 ## share buttons
 https://sharethis.com/
+
+
+## git tricks
+git checkout main
+git merge BRANCH
+git branch -d ZULOESCHENDERBranch
