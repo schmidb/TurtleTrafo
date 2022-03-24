@@ -37,3 +37,7 @@ https://sharethis.com/
 git checkout main
 git merge BRANCH
 git branch -d ZULOESCHENDERBranch
+
+
+## bootstrap 3.4.1 documentation
+https://getbootstrap.com/docs/3.4/components/#panels

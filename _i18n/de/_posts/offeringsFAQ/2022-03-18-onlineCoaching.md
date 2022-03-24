@@ -3,7 +3,8 @@ category: offeringsFAQ
 title: Treffen wir uns persönlich oder findet das Coaching online statt?
 anker: onlineCoaching
 sitemap: false
-tags: [dataStrategy, coaching, execSupervision, family]
+tags: [dataStrategy, coaching, execSupervision, family, auswandern]
 ---
 
-Aktuell bieten wir Coaching nur online und via Zoom oder Telefon an.
+Aktuell bieten wir Coaching nur online via Zoom oder Telefon an. Auf Anfrage sind
+persönliche Termine in Berlin oder Irland möglich.
