@@ -1,7 +1,13 @@
 ---
 layout: offerings
+img: travel_box.jpg
+category: [Services-Familie]
 title: Ganzheitliches Auswandern-Coaching
 permalink: auswandernCoaching
+description: "Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben im Ausland."
+angebot: 1 x Family-Zoom Call, 2 x Einzelcoachings und Telegram Gruppe
+preis: 700€ pro Monat oder 3500€ für 6 Monate
+anfrage: Familien-Transformations-Coaching - Auswandern
 ---
 
 Viele Menschen und Familien sehen im Auswandern die Lösung für ihre Konflikte mit Impfpflicht, Schulpflicht, Covid-Regeln, eigener Familie, Kriegsangst, ... . Ein neues Land bringt die Hoffnung eines Neustartes und der Befreiung von allen Problemen. Einfach in ein neues Land

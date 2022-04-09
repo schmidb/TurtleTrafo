@@ -1,13 +1,14 @@
 ---
 layout: offerings
-img: schmidberger2020.webp
-category: Services-Familie
+img: schmidberger2020_box.webp
+category: [Services-Familie]
 title: Neue Wege als Familie gehen - Familien Transformation
-description: "Für uns sind die Menschen unserer Familie das Wichtigste was wir haben.
-Wir teilen unsere Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und
-genussreich miteinander zu sein. Wir begleiten Dich zu Deinen
+description: "Wir begleiten dich zu Deinen
 Familienträumen und zeigen Dir mögliche Wege, wie Entspannung bei Dir und in
 Deiner Familie ankommen kann."
+angebot: 1 x Family-Zoom Call, 2 x Einzelcoachings und Telegram Gruppe
+preis: 700€ pro Monat oder 3500€ für 6 Monate
+anfrage: Familien-Transformations-Coaching - Monats Package
 ---
 
 Wage Dich auf den Weg von 'Innen nach Aussen'.

@@ -1,11 +1,13 @@
 ---
 layout: offerings
-img: financial.jpg
-category: Services-Firma
+img: financial_box.jpg
+category: [Services-Firma]
 title: Daten ganzheitlich & menschlich integrieren - Daten Strategie Supervision
-description: "Eine Datenstrategie ist wesentlicher Teil der Digitalen Transformation.
-Wir bieten Dir eine ganzheitliche Supervision an und unterstützen Dich bei der erfolgreichen
-Umsetzung der Strategie innerhalb der Organisation. Die Supervision hilft Dir den Fokus zu halten, Herausforderungen frühzeitig zu identifizieren und zu lösen und alle Mitarbeiter abzuholen."
+title_kurz: Daten ganzheitlich & menschlich integrieren
+description: "Wir bieten Dir eine ganzheitliche Supervision zu deinen Herausforderungen mit Daten und wir unterstützen Dich bei der erfolgreichen Umsetzung deiner Daten Strategie innerhalb der Organisation."
+angebot: Data Strategie Supervision Calls mit Miriam oder Markus
+preis: 300€ für 1h Call oder 4200€ für 15h
+anfrage: Familien-Transformations-Coaching - Monats Package
 ---
 
 

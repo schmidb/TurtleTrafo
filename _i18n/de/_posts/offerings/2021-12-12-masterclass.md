@@ -1,13 +1,13 @@
 ---
 layout: offerings
-img: building.jpg
-category: [Services-Einzel, Services-Firma]
+img: building_box.jpg
+category: [Services-Firma]
 title: TurtleTrafo Work Excellence Masterclass
 permalink: masterclass
-description: "Wir alle streben nach Freude an unserer Arbeit und unserem Leben.
-Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. Die
-Masterclass beginnt bei Dir selbst, um deinen inneren Fokus zu finden und
-Dir Klarheit über Deine Lebens- und Arbeitsbedürfnisse zu verschaffen.<br><b>Nächster Start online am 10. Januar 2023</b>"
+description: "Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. <br>Nächster Start online im Januar 2023"
+angebot: 12 Monate Begleitung mittels Coachings, Webinare, Make-the-Change Woche und Peergroup
+preis: tbd für 12 Monate
+anfrage: Work-Excellence Masterclass
 ---
 
 <!--

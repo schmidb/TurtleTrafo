@@ -1,12 +1,14 @@
 ---
 layout: offerings
-img: businessman.jpg
-category: [Services-Firma, Services-Einzel]
+img: businessman_box.jpg
+category: [Services-Firma]
 title: Klarheit und Freude für Manager - Führungskräfte Supervision
 description: "Als Manager musst Du täglich viele Entscheidungen treffen. Wir bieten
 Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all Deiner
-Themen. Die Supervision gibt Dir mehr Klarheit in allen Lebensbereichen und
-ermöglicht die effiziente Erfüllung Deiner beruflichen und privaten Ziele."
+Themen."
+angebot: 1 Stunde Einzelcoaching mit Miriam oder Markus
+preis: 300€ für 1h Call
+anfrage: Deine Führungskräfte Supervision
 ---
 
 Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich vile Entscheidungen zu treffen. Kollegen, Teammitglieder,
