@@ -15,7 +15,7 @@
   <div class="content-section-b">
       <div class="container">
         <div class="row">
-          {% for post in site.categories.Services-Firma %}
+          {% for post in site.categories.Services-Familie reversed%}
                       <div class="col-sm-4 col-md-4">
                         <div class="thumbnail">
                           <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
@@ -38,7 +38,7 @@
 
         <div class="container">
           <div class="row">
-            {% for post in site.categories.Services-Familie %}
+            {% for post in site.categories.Services-Firma %}
                         <div class="col-sm-4 col-md-4">
                           <div class="thumbnail">
                             <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">

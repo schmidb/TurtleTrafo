@@ -6,7 +6,7 @@ title: Daten ganzheitlich & menschlich integrieren - Daten Strategie Supervision
 title_kurz: Daten ganzheitlich & menschlich integrieren
 description: "Wir bieten Dir eine ganzheitliche Supervision zu deinen Herausforderungen mit Daten und wir unterstützen Dich bei der erfolgreichen Umsetzung deiner Daten Strategie innerhalb der Organisation."
 angebot: Data Strategie Supervision Calls mit Miriam oder Markus
-preis: 300€ für 1h Call oder 4200€ für 15h
+preis: ab 300€ für 1h Gespräch oder ab 4200€ für 15h
 anfrage: Familien-Transformations-Coaching - Monats Package
 ---
 

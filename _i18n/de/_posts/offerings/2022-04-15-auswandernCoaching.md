@@ -6,7 +6,7 @@ title: Ganzheitliches Auswandern-Coaching
 permalink: auswandernCoaching
 description: "Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben im Ausland."
 angebot: 1 x Family-Zoom Call, 2 x Einzelcoachings und Telegram Gruppe
-preis: 700€ pro Monat oder 3500€ für 6 Monate
+preis: ab 700€ pro Monat oder ab 3500€ für 6 Monate
 anfrage: Familien-Transformations-Coaching - Auswandern
 ---
 
