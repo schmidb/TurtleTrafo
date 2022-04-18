@@ -11,4 +11,4 @@ Abmelden bei Gemeinde oder Bürgerbüro ist der sicherste Weg aus der Schulpflic
 <br><br>
 Wenn du dich tiefer mit dem Thema beschäftigen willst, dann ist z.B. dieser Blogpost sehr lesenswert:
 
-<a href="https://staatenlos.ch/unkategorisiert/wie-du-deine-kinder-vom-schulzwang-befreien-kannst/#aff=TurtleTrafo">https://staatenlos.ch/unkategorisiert/wie-du-deine-kinder-vom-schulzwang-befreien-kannst/</a>
+<a href="https://staatenlos.ch/unkategorisiert/wie-du-deine-kinder-vom-schulzwang-befreien-kannst/#aff=TurtleTrafo&cam=CAMPAIGNKEY">https://staatenlos.ch/unkategorisiert/wie-du-deine-kinder-vom-schulzwang-befreien-kannst/</a>

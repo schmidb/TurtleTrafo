@@ -9,7 +9,7 @@ Fast alle deutschen Versicherungen schreiben in ihren Verträgen, dass die Versi
 <br><br>
 Du kannst aber erstmals immer argumentieren, dass du im fremden Land "nur" im Urlaub bist und die meisten Versicherungen übernehmen dann die Kosten. Schwierig wird es bei hohen Kosten oder kurz hintereinander auftretenden Versicherungsfällen.
 <br><br>
-Es gibt z.B. bereits Haftpflichtversicherungen die keinen Wohnsitz benötigen: <a href="https://staatenlos.ch/firma-gruenden/versicherungen/#aff=TurtleTrafo">https://staatenlos.ch/firma-gruenden/versicherungen/</a><br>
+Es gibt z.B. bereits Haftpflichtversicherungen die keinen Wohnsitz benötigen: <a href="https://staatenlos.ch/firma-gruenden/versicherungen/#aff=TurtleTrafo&cam=CAMPAIGNKEY">https://staatenlos.ch/firma-gruenden/versicherungen/</a><br>
 
 <h2>Banken und Kredite</h2>
 Auch hier gilt, dass ohne deutsche Meldeadresse dein Vertrag sehr wahrscheinlich ungültig wird. Die meisten Banken haben damit aber kein Problem und freuen sich über deine Geldbewegungen bei ihnen. Einige Banken (z.B. N26) ermöglichen neuerdings auch die Eröffnung von Konten für nicht gemeldete Menschen.
