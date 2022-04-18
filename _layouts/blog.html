@@ -24,6 +24,9 @@
 							{% endif %}
 						</p>
 
+						{% if page.img %}
+						<img class="img-responsive thumbnail" src="{{ page.img }}" alt="{{ page.title }}" width="250" align="right">
+						{% endif %}
 						{{ content }}
 
 					</div>
