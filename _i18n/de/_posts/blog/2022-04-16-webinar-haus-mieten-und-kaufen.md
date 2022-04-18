@@ -6,6 +6,7 @@ author: Markus
 date: 2022-04-16
 category: blog
 tag: [Familie, Inspiration]
+permalink: webinar-irland-haus
 ---
 
 Aktuell häufen sich die Fragen, die man uns bezüglich des Lebens und Lernens in Irland stellt. Viele Menschen interessiert welche Möglichkeiten sich hier in Irland für Familien bieten. Wir haben mit unserer Familie den Schritt gewagt und haben uns bewusst für ein neues und freies Leben - ohne Schule - auf der Insel entschieden.
