@@ -35,7 +35,9 @@ subTitle:
                         </div>
                         {% endif %}
                     </div>
+                    <br>
           {% endfor %}
+
 
       </div>
   </div>
