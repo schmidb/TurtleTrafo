@@ -20,10 +20,10 @@
                         <div class="thumbnail">
                           <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                           <div class="caption lead">
-                            <h3>{% if post.title_kurz %}{{ post.title_kurz }}
+                            <h3><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title_kurz %}{{ post.title_kurz }}
                               {% else %}
                               {{ post.title }}
-                              {% endif %}</h3>
+                              {% endif %}</a></h3>
                             <p>{{ post.description }}</p>
                             <p>{{ post.angebot }}</p>
                             <p><b>{{ post.preis }}</b></p>
@@ -43,10 +43,10 @@
                           <div class="thumbnail">
                             <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                             <div class="caption lead">
-                              <h3>{% if post.title_kurz %}{{ post.title_kurz }}
+                              <h3><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title_kurz %}{{ post.title_kurz }}
                                 {% else %}
                                 {{ post.title }}
-                                {% endif %}</h3>
+                                {% endif %}</a></h3>
                               <p>{{ post.description }}</p>
                               <p>{{ post.angebot }}</p>
                               <p><b>{{ post.preis }}</b></p>

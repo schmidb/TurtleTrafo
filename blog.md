@@ -18,7 +18,7 @@ subTitle:
                         <div class="col-lg-12 col-sm-12">
                       {% endif %}
 
-                            <h3 class="section-heading">{{ post.title }}</h3>
+                            <h3 class="section-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
                             Tags: <span style="text-transform:uppercase">{{post.tag | join: " & " | prepend: "" | append: ""}}</span>
                             <div class="lead">
                             {% if post.description %}
