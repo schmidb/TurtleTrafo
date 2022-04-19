@@ -14,7 +14,7 @@ Männlichkeit muss nicht toxisch sein. Aggressionen und Konflikte sind oft eine 
 
 <br>
 ## Das erwartet dich
-* 8-10 Männer mit Interesse an Ihrer Männlichkeit zu arbeiten
+* 8-10 Männer zwischen 25 und 55 Jahre mit Interesse an Ihrer Männlichkeit zu arbeiten
 * Was sind Gefühle & Bedürfnisse und wie finden wir diese?
 * Was blockiert unsere Gefühle & Bedürfnisse?
 * Wie bringe ich all meine Bedürfnisse und Gefühle in den Einklang?
