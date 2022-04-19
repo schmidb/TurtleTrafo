@@ -41,3 +41,9 @@ Anmeldung bitte per Email an Michael Gollmer: [praxis@gollmer.net](mailto:praxis
 <br>
 ## Veranstaltungsort
 Naturheilpraxis am Schlosspark in der Pestalozzistraße 12 in 13187 Berlin-Pankow
+
+<br>
+## Zum Mitbringen:
+* warme Hausschuhe oder Socken
+* Malblock und Buntstifte - Wachsmal- oder Holzstifte
+* Block & Stift für persönliche Notizen
