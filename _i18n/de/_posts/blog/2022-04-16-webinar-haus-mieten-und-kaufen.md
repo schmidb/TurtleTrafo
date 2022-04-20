@@ -33,7 +33,7 @@ Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezü
             Wir machen Fehler, stolpern, zweifeln und gehen doch immer weiter,
             gefühlt und getragen durch eine lebendige Beziehung zu Gott und Jesus.
             <br><br>
-            Nach mehreren kurzen und langen Irland-Reisen (inklusive Haus mieten) sind wir 2021 nach Irland ausgewandert und haben im Country Kerry ein Haus gekauft.</p>
+            Nach mehreren kurzen und langen Irland-Reisen (inklusive Haus mieten) sind wir 2021 nach Irland ausgewandert und haben im County Kerry ein Haus gekauft.</p>
 
           <a href="https://familien-transformation.de/mindset/2019/12/01/DasSindWir/">Mehr zu uns auf https://familien-transformation.de</a>
         </div>
