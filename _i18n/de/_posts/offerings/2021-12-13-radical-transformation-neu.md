@@ -6,11 +6,43 @@ title: Radical Transformation - direkt ran an den Kern der Sache
 title_kurz: Radical Transformation - direkt ran an den Kern
 description: Ein Coaching das Dich ohne Gesäusel und ohne Weichspüler direkt mit dem Kern der Sache konfrontiert.<br>Es gibt niemanden, den Du beschuldigen kannst. Alles liegt in Dir und ermöglicht Dir eine Horizonterweiterung.
 angebot: 1 Stunde Einzelcoaching mit Miriam
-preis: ab 250€ für 1h Gespräch
+preis: ab 250€ für 1h
 anfrage: Dein-Radical-Transformation-Coaching
 ---
 
-Ich finde wenig nerviger als das Getanze um den heißen Brei und Wegschauen von dem worum es wirklich geht. Deswegen biete und begleite ich einen Weg, der ohne Gesäusel und ohne Weichspüler Dich direkt mit dem Kern der Sache konfrontiert.
+## Preise & Buchung
+<div class="panel panel-info">
+<div class="panel-heading">Dein-Radical-Transformation-Coaching</div>
+<div class="panel-body">
+  <ul>
+  <li>1h Einzelcoaching mit Miriam</li>
+  </ul>
+  <b>ab 250€ für 1h</b>
+  <br>Unsere Preise richten sich nach Deinem jährlichen Gesamteinkommen. Hier findest Du bald eine Übersicht wie sich unsere Preise abhängig von Deinem Gehalt verändern.
+  <p><a href="mailto:{{ site.email }}?subject=Dein-Radical-Transformation-Coaching" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+</div>
+</div>
+
+<br><br>
+Aus meiner Erfahrung ist der Tanz um den heißen Brei und das Wegschauen von dem was ist und was es in mir auslöst, der automatische Weg in herausfordernden Situationen. Gleichzeitig ist dies der Weg, der nur im Kreis und nicht in die Weiterentwicklung und Veränderung der scheinbar unerträglichen Situation führt. Deswegen biete und begleite ich einen Weg, so direkt wie es Dir möglich ist, mit dem Du Dich dem Kern Deines Themas stellen kannst.
+
+## Der Radical Transformation Weg:
+Radical Transformation bedeutet in diesem Kontext, dass ich mich mir selbst stelle.
+
+Ich erforsche in mir:
+* warum ich lieber *meine Frau schlage* / *mein Kind anschreie* / *meinen Freund bestrafe* / *meinen Chef betrüge* / *meine Eltern anlüge* / *…*
+* warum ich lieber mir selber schade durch *Alkohol* / *zu viel Arbeit* / *Drogen* / *Medienkonsum* / *Essen* / *Bewegung* / *…*
+
+als das Gefühl zu fühlen, das die Situation in mir auslöst.
+
+Ich erforsche welche unbewussten Ängste unter meinem Verhalten liegen und stelle mich dem Schmerz darin: Angst vor *Verletzung* / *Beschämung* / *Wertlösigkeit* / *Verachtung* / *Verurteilung* / *Gewalt* / *Ablehung* / *Angst* / *Einsamkeit* / *…*
+
+Zu Beginn erscheint Radical Transformation wie ein einsamer Weg, den Du alleine mit Dir gehst. Es fühlt sich an wie eine gigantische Bremse: bei jeder Störung anhalten und nach innen gehen bevor etwas im Außen passiert. Die Flut der Gedanken fließen lassen statt sie zu stauen und ins immer gleiche Gedankenkarussell einzusteigen. Denn erst unter den Gedanken liegen die Gefühle und erst im Fühlen liegt der Schlüssel zur Transformation.
+
+## Wozu die Mühe?
+* Um frei zu werden von immer gleichen Opferkreisläufen, in denen man sich einem System, anderen Menschen, dem Schicksal,… hilflos ausgeliefert fühlt.
+* Um in Frieden mit sich und der Welt zu leben.
+* Um meine Energie in Wachstum zu investieren statt in Kämpfe.
 
 ## Voraussetzung:
 * Du musst die Verantwortung für Dein Leben zu 100% übernehmen wollen.
@@ -30,11 +62,10 @@ Ich finde wenig nerviger als das Getanze um den heißen Brei und Wegschauen von 
 <div class="panel panel-info">
 <div class="panel-heading">Dein-Radical-Transformation-Coaching</div>
 <div class="panel-body">
-
   <ul>
   <li>1h Einzelcoaching mit Miriam</li>
   </ul>
-  <b>ab 250€ für 1h Gespräch</b>
+  <b>ab 250€ für 1h</b>
   <br>Unsere Preise richten sich nach Deinem jährlichen Gesamteinkommen. Hier findest Du bald eine Übersicht wie sich unsere Preise abhängig von Deinem Gehalt verändern.
   <p><a href="mailto:{{ site.email }}?subject=Dein-Radical-Transformation-Coaching" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
