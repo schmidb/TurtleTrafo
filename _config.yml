@@ -21,7 +21,7 @@ google_analytics_tracking_id: G-21YC88FWVZ
 
 # Build settings
 markdown: kramdown
-remote_theme: swcool/landing-page-theme
+#remote_theme: swcool/landing-page-theme
 permalink: pretty # layout of URL for blog posts
 plugins:
   - jekyll-minifier

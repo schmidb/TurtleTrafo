@@ -13,7 +13,7 @@ anfrage: Deine Führungskräfte Supervision
 
 <!-- ToDo MUss Packet werden -->
 
-Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich vile Entscheidungen zu treffen. Kollegen, Teammitglieder,
+Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich viele Entscheidungen zu treffen. Kollegen, Teammitglieder,
 interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese
 aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder
 Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu
