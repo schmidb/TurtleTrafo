@@ -43,7 +43,7 @@ Wir verfolgen einen ganzheitlichen Coaching Ansatz. Wir betrachten die inneren u
   <li>Telegram Gruppe für tägliche Begleitung & Fragen & Inspirationen</li>
   </ul>
   <b>700€ pro Monat</b> oder <b>3500€ für 6 Monate</b><br>
-  (zusätzliche Einzelcoachings können für 150€ pro Stunde dazugebucht werden)
+  (zusätzliche Einzelcoachings können für 150€ pro 45 Minuten dazugebucht werden)
   <p><a href="mailto:{{ site.email }}?subject=Familien-Transformations-Coaching - Auswandern Package" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
