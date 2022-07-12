@@ -7,7 +7,7 @@ description: "An Hand von beispielhaften Themen bekommst du einen Eindruck, was
 es heißt Themen von 'Innen nach Außen' zu bearbeiten."
 angebot: 4 Videos und 4 PDFs mit Impulsübungen und Inspirationen
 preis: für 99€
-digistore24: https://www.digistore24-app.com/product/448914
+digistore24: https://www.digistore24.com/product/448914
 permalink: schnupperkurs
 ---
 
@@ -60,6 +60,6 @@ Hilfreich ist es alle Beobachtungen in einem Notizbuch zu notieren.
 <div class="panel-body">
   <p>4 Videos und 4 PDFs mit Impulsübungen und Inspirationen<br>
   <b>einmalig 99 Euro</b></p>
-  <p><a href="https://www.digistore24-app.com/product/448914" target="_blank" class="btn btn-primary">Jetzt buchen auf Digistore24</a></p>
+  <p><a href="https://www.digistore24.com/product/448914" target="_blank" class="btn btn-primary">Jetzt buchen auf Digistore24</a></p>
 </div>
 </div>

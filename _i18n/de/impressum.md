@@ -1,11 +1,9 @@
 # Angaben gem&auml;&szlig; &sect; 5 TMG
+Turtle Transformation<br>
 Miriam &amp; Markus Schmidberger<br />
-Maximilianstrasse 43<br />
-13187 Berlin
-
-USt-IdNr. Miriam Schmidberger: XYZ<br>
-USt-IdNr. Markus Schmidberger: XYZ<br>
-Finanzamt Berlin / Pankow
+Drom Upper<br>
+Glenbeigh, Co. Kerry, Ireland<br>
+V93F6X0
 
 # Kontakt
 E-Mail: {{site.email}}

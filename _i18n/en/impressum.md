@@ -1,11 +1,9 @@
 # Information according to &sect; 5 TMG
-Miriam &amp; Markus Schmidberger <br />
-Maximilianstrasse 43 <br />
-13187 Berlin
-
-VAT ID no. Miriam Schmidberger: XYZ <br>
-VAT ID no. Markus Schmidberger: XYZ <br>
-Tax office Berlin / Pankow
+Turtle Transformation<br>
+Miriam &amp; Markus Schmidberger<br />
+Drom Upper<br>
+Glenbeigh, Co. Kerry, Ireland<br>
+V93F6X0
 
 # Contact
 Email: {{site.email}}
