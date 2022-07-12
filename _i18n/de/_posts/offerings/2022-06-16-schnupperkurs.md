@@ -6,7 +6,7 @@ title: "Schnupperkurs von 'Innen nach Außen'"
 description: "An Hand von beispielhaften Themen bekommst du einen Eindruck, was
 es heißt Themen von 'Innen nach Außen' zu bearbeiten."
 angebot: 4 Videos und 4 PDFs mit Impulsübungen und Inspirationen
-preis: ab 40€
+preis: für 99€
 anfrage: Schnupperkurs
 permalink: schnupperkurs
 ---
@@ -15,7 +15,7 @@ Ziel des Kurses ist es anhand von vier beispielhaft gewählten Themen einen Eind
 davon zu bekommen, was es heißt Themen von "Innen nach Außen" zu begegnen. Bei
 all unseren Transformationen als Individuum, als Familie oder als Firma folgen
 wir genau diesem Prozess "Von Innen nach Außen". In jedem Moment streben wir
-dabei nach einem Miteinander von Individuen und Familienmitgliedern sowie von
+dabei nach einem Zusammenspiel von Individuen und Familienmitgliedern sowie von
 Arbeit und Privatleben.
 
 Der Kurs ist auf einen Zeitraum von vier Wochen ausgelegt. Pro Woche wird ein
@@ -60,7 +60,10 @@ Hilfreich ist es alle Beobachtungen in einem Notizbuch zu notieren.
 <div class="panel-body">
   <p>4 Videos und 4 PDFs mit Impulsübungen und Inspirationen<br>
   <b>einmalig 99 Euro</b></p>
-  <p>Bei Interesse schicke uns bitte eine Email und überweise 99 Euro per <a href="https://paypal.me/turtletrafo/99">PayPal</a>. Solltest Du über kein Paypal-Konto verfügen, kannst Du den Betrag auch auf folgendes Konto überweisen: DE84 4306 0967 8201 2557 01, BIC: GENODEM1GLS, Miriam & Markus Schmidberger oder via Crypto Coins (BTC, ETH, XRD) bezahlen.</p>
-  <p><a href="mailto:{{ site.email }}?subject=Schnupperkurs" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+  <p><a href="https://www.digistore24-app.com/product/448914" target="_blank" class="btn btn-primary">Jetzt buchen auf Digistore24</a></p>
 </div>
 </div>
+
+<!-- Begin of Digistore24 Trusted Badge Code -->
+<script type="text/javascript" src="https://www.digistore24.com/trusted-badge/20335/5Xngefy41SWnC5X/salespage"></script>
+<!-- End of Digistore24 Trusted Badge Code -->
