@@ -9,6 +9,11 @@ Viele Familien wollen auswandern um die deutsche Schulpflicht zu umgehen. Ihr so
 <br><br>
 Abmelden bei Gemeinde oder Bürgerbüro ist der sicherste Weg aus der Schulpflicht raus zukommen. Eine Abmeldung ist bei der Schule oder Schulamt dann nicht mehr nötig. Die Schule zu informieren ist aber fair und macht den Prozess schneller bzw. einfacher.
 <br><br>
+Nun stellt sich die Frage, ob du eine reisende Familie wirst oder dich in einem anderen Land nieder lässt
+Du solltest genau recherchieren welche Schul- oder Bildungspflicht in einem anderen Land existiert. Im
+schlimmsten Fall muss dein Kind in deinem neuen Land auch eine Schule besuchen.
+
+<br><br>
 Wenn du dich tiefer mit dem Thema beschäftigen willst, dann ist z.B. dieser Blogpost sehr lesenswert:
 
 <a href="https://staatenlos.ch/unkategorisiert/wie-du-deine-kinder-vom-schulzwang-befreien-kannst/#aff=TurtleTrafo&cam=CAMPAIGNKEY">https://staatenlos.ch/unkategorisiert/wie-du-deine-kinder-vom-schulzwang-befreien-kannst/</a>

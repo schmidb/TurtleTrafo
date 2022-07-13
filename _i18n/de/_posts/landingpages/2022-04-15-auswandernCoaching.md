@@ -42,7 +42,7 @@ unserem [Auswandern & freies Familienleben FAQ](/auswandernFAQ).
   <p>Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben und wir arbeiten bedürfnisorientiert mit jedem Einzelnen von euch. Zusätzlich gibt es eine gemeinsame Telegram-Gruppe in der wir zeitnah eure aktuellen Fragen beantworten bzw. euch Inspirationen schicken.</p>
   <ul>
   <li>1 x 1.5h Family Zoom Coaching mit Miriam und Markus pro Monat</li>
-  <li>2 x 1h Einzelcoaching mit Miriam oder Markus pro Monat</li>
+  <li>2 x 45 min Einzelcoaching mit Miriam oder Markus pro Monat</li>
   <li>Telegram Gruppe für tägliche Begleitung & Fragen & Inspirationen</li>
   </ul>
   <b>700€ pro Monat</b> oder <b>3500€ für 6 Monate</b><br>
