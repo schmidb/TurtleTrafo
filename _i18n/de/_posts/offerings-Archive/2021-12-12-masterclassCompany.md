@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: accountant.jpg
-category: [Services]
+category: [Dont-Show-Frontpage]
 title: TurtleTrafo Work Excellence Masterclass Facilitator
 description: "Wir biete das Konzept der TurtleTrafo Work Excellence Masterclass auch als ein
 an Deine Firma angepasstes Programm an. Das Ziel ist eine ausgewählte Gruppe an Mitarbeiter auszubilden, so dass diese als Firmen-eigene Facilitator die Inhalte der Mastercalss selbständig weitergeben können. Die Prozesse in deiner vollständigen Firma werden dadurch effizienter, freundlicher und empathischer."

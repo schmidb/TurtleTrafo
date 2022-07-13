@@ -9,6 +9,7 @@ Deiner Familie ankommen kann."
 angebot: 1 x Family-Zoom Call, 2 x Einzelcoachings und Telegram Gruppe
 preis: ab 700€ pro Monat oder ab 3500€ für 6 Monate
 anfrage: Familien-Transformations-Coaching - Monats Package
+permalink: familienCoaching
 ---
 
 Wage Dich auf den Weg von 'Innen nach Aussen'.
@@ -27,7 +28,7 @@ Es gibt viele Punkte in Deinem Familienleben an dem Veränderungen anstehen. Mö
 * Schulstart
 * Umzug oder neuer Beruf
 * Geburt eines weiteren Kindes
-* Auswanderung
+* [Auswanderung](/auswandernCoaching)
 
 In unserer Beratung betrachten wir immer deine persönlichen Themen (z.B. *ich habe Angst vor der Abmeldung und weiß nicht ob ich das alles schaffe.*). Wir bieten auch Beratung zu technischen oder rechtlichen Prozessen (z.B. *wie melde ich mich in Deutschland ab?*, *wie umgehe ich die Schulpflicht? in Deutschland*).
 
@@ -47,9 +48,9 @@ Wir empfehlen ein wöchentliches oder zweiwöchentliches Treffen. Ob diese Treff
 <div class="panel-body">
   <p>Im Einzelcoaching betrachten wir deine aktuelle Lebenssituation und deine Wunschvorstellung vom Leben. Basierend darauf erarbeiten wir erste Schritte hin zu deiner Vision. Meist benötigen wir hierfür zwei bis drei 60-90 Minuten Gespräche.</p>
   <ul>
-  <li>1h Einzelcoaching mit Miriam oder Markus</li>
+  <li>45 Minuten Einzelcoaching mit Miriam oder Markus</li>
   </ul>
-  <b>150€ pro 1h Zoom Call</b>, Abrechnung erfolgt auf 30 Minuten Einheiten.
+  <b>150€ pro 45 min Zoom Call</b>, Abrechnung erfolgt auf 15 Minuten Einheiten.
   <p><a href="mailto:{{ site.email }}?subject=Familien-Transformations-Coaching - Einzel" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
@@ -59,9 +60,9 @@ Wir empfehlen ein wöchentliches oder zweiwöchentliches Treffen. Ob diese Treff
 <div class="panel-body">
   <p>Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben. Basierend darauf erarbeiten wir erste Schritte hin zu eurer Vision. Meist benötigen wir hierfür zwei bis drei 90 Minuten Gespräche mit beiden Eltern.</p>
   <ul>
-  <li>1.5h Family Zoom Coaching mit Miriam und Markus</li>
+  <li>90 Minuten Family Zoom Coaching mit Miriam und Markus</li>
   </ul>
-  <b>300€ pro 1.5h Zoom Call</b>, Abrechnung erfolgt auf 30 Minuten Einheiten
+  <b>300€ pro 1.5h Zoom Call</b>, Abrechnung erfolgt auf 15 Minuten Einheiten
   <p><a href="mailto:{{ site.email }}?subject=Familien-Transformations-Coaching - Family" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
@@ -72,7 +73,7 @@ Wir empfehlen ein wöchentliches oder zweiwöchentliches Treffen. Ob diese Treff
   <p>Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben und wir arbeiten bedürfnisorientiert mit jedem Einzelnen von euch. Zusätzlich gibt es eine gemeinsame Telegram-Gruppe in der wir zeitnah eure aktuellen Fragen beantworten bzw. euch Inspirationen schicken.</p>
   <ul>
   <li>1 x 1.5h Family Zoom Coaching mit Miriam und Markus pro Monat</li>
-  <li>2 x 1h Einzelcoaching mit Miriam oder Markus pro Monat</li>
+  <li>2 x 45 min Einzelcoaching mit Miriam oder Markus pro Monat</li>
   <li>Telegram Gruppe für tägliche Begleitung & Fragen & Inspirationen</li>
   </ul>
   <b>700€ pro Monat</b> oder <b>3500€ für 6 Monate</b>

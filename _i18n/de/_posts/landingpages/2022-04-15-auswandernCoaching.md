@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: travel_box.jpg
-category: [Services-Familie]
+category: [Dont-Show-Frontpage]
 title: Ganzheitliches Auswandern-Coaching
 permalink: auswandernCoaching
 description: "Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben im Ausland."
@@ -30,6 +30,9 @@ Wir verfolgen einen ganzheitlichen Coaching Ansatz. Wir betrachten die inneren u
 * Ankommen und integrieren im neuen Land
 * Finden des neues Lebensmodelles für deine Familie
 * Betrachten und verarbeiten deiner Ängste, Unsicherheiten und Glaubenssätze rund um Auswandern
+
+Einen Überblick über die häufigsten Fragen zum Auswandern und freien Familienleben findest du in
+unserem [Auswandern & freies Familienleben FAQ](/auswandernFAQ).
 
 <br>
 ## Preise & Buchung

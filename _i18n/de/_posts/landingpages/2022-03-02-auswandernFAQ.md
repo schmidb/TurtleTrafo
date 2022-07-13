@@ -1,5 +1,6 @@
 ---
 layout: offerings
+category: [Dont-Show-Frontpage]
 title: Auswandern & freies Familienleben FAQ
 permalink: auswandernFAQ
 description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland."

@@ -3,7 +3,7 @@ layout: offerings
 img: cat_box.webp
 category: [Services-Familie]
 title: "Schnupperkurs von 'Innen nach Außen'"
-description: "An Hand von beispielhaften Themen bekommst du einen Eindruck, was
+description: "An Hand von Beispielen bekommst du einen Eindruck, was
 es heißt Themen von 'Innen nach Außen' zu bearbeiten."
 angebot: 4 Videos und 4 PDFs mit Impulsübungen und Inspirationen
 preis: für 99€
