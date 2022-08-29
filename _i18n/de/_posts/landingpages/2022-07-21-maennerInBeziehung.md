@@ -25,38 +25,86 @@ Für vielen Frauen ist aus genetischer Sicht der Zugang zu Gefühlen einfacher. 
 Frauen der heutigen Zeit streben nach mehr Gleichberechtigung und Wertschätzung, sie
 bilden ihre Persönlichkeit und Bewusstseinsebenen aktiv durch Kurse und Bücher weiter.
 Aus meiner Sicht stehen wir Männer vor der Herausforderungen, dass wir den Schritt
-in eine neue Ebene der Beziehungsqualität zu unseren Frauen machen düürfen und müssen,
-um authentische Kontakt zu unseren Frauen zu haben.
+in eine neue Ebene der Beziehungsqualität machen dürfen und müssen, um authentische
+Kontakt zu unseren Liebsten zu haben.  
 
 Wenn du die Beziehung zu deiner Frau aktiver und intensiver gestaltest oder gestalten
-möchtest, dann bist du herzlich eingeladen Teil des "Männer in Beziehung - Tribes"
-zu werden.
+möchtest und dich persönlich im Bereich Umgang mit Gefühlen, Emotionen und Werten
+weiterentwickeln möchtest, dann bist du herzlich eingeladen Teil des
+"Männer in Beziehung - Tribes" zu werden.
 
-Kein harter Kerl - kein Weichei
+Im Tribe geht es nicht um "der harte Kerl" sein, es geht nicht um "Weichei und
+Frauenversteher" zu werden, es wird nicht "spirituell getrommelt oder geräuchert".
+Wir finden die Balance aus dem männlichen und weiblichen Teil in dir und lernen
+von den Erfahrungen der anderen Männern auf dem Weg zu mehr Beziehung.
 
 <br>
-# Was erwartet dich im "Männer in Beziehung - Tribe"
+# Was erwartet dich im "Männer in Beziehung - Tribe":
+* jeden Dienstag gibt es einen Impuls, um dich persönlich im Bereich Gefühle, Emotionen
+ und Werten weiter zu entwickeln.
+* jeden Freitag gibt es einen Impuls, um die Beziehung zu deiner Frau zu beleben.
+* Erfahrungsaustausch mit den anderen Männern in der Gruppe.
 
 <br>
 # Was musst du wöchentlich machen?
+Der "Männer in Beziehung - Tribe" ist so ausgelegt, dass dieser angenehm über die
+Woche verteilt ist und insgesamt maximal 45 Minuten pro Woche beansprucht.
+* Jeder Impuls benötigt etwas 5 min Lesezeit.
+* Der Beziehungsimpuls öffnet dir die Möglichkeit für eine Beziehungsaktion, die
+  ca. 10 min Zeit mit deiner Frau benötigt - gerne darf hier mehr entstehen.
+* Jeder Impuls löst bei dir idealerweise 10 min nachdenken und fühlen aus.
+* Wenn du Lust und Interesse hast kannst du deine Erfahrungen mit den Impulsen
+in der Gruppe teilen: 10 min
+
+<br>
+# Was kann und darf sich durch das Tribe bei dir verändern?
+* Mehr Klarheit & Energie über deine Art Beziehungen zu leben.
+* Mehr Zugang und Umgang mit deinen Gefühlen & Emotionen.
+* Eine tiefere Beziehung zu deiner Frau.
+* Eine intensivere Beziehung zu dir selber.
 
 <br>
 ## Preise & Buchung
 <div class="panel panel-info">
 <div class="panel-heading">Männer in Beziehung - Tribe</div>
 <div class="panel-body">
-  <p></p>
+  <p><b>150€</b> für den ersten Jahreszyklus von 1. Oktober 2022 - 1. Oktober 2023.</p>
+  <p>Dafür erhältst du:
   <ul>
-  <li>1 x 1.5h Family Zoom Coaching mit Miriam und Markus pro Monat</li>
-  <li>2 x 45 min Einzelcoaching mit Miriam oder Markus pro Monat</li>
-  <li>Telegram Gruppe für tägliche Begleitung & Fragen & Inspirationen</li>
-  </ul>
-  <b>700€ pro Monat</b> oder <b>3500€ für 6 Monate</b><br>
-  (zusätzliche Einzelcoachings können für 150€ pro 45 Minuten dazugebucht werden)
-  <p><a href="mailto:{{ site.email }}?subject=Familien-Transformations-Coaching - Auswandern Package" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+  <li>1 x kostenloses Einzelcoaching bei Markus (somit ist der Tribe kostenlos!)</li>
+  <li>50 Wochenimpulse zu Beziehung</li>
+  <li>50 Wochenimpulse zu Persönlichkeitsentwicklung</li>
+  <li>3 Fragebogen für dich, um die Qualität deiner Beziehungen zu beschreiben</li>
+  <li>3 Fragebogen für deine Frau, um die Qualität eurer Beziehung zu beschreiben</li>
+  <li>Zugang zur MightyNetwork Gruppe</li>
+  </ul></p>
+  <p>Vom 1. Oktober 2022 bis 1. April 2023 kannst du jederzeit in die Gruppe einsteigen.
+  Danach wird die Gruppe geschlossen sein und neue Teilnehmer müssen bis 1. Oktober 2023 warten.</p>
+  <p><a href="mailto:{{ site.email }}?subject=Männer in Beziehung - Tribe" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
+
 
 
 <br>
 ## FAQ
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+
+  {% for post in site.categories.MiBFAQ reversed %}
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
+      <h4 class="panel-title">
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
+        </a>
+      </h4>
+    </div>
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
+      <div class="panel-body">
+        {{post.content}}
+      </div>
+    </div>
+  {% endfor %}
+
+  </div>
+</div>
