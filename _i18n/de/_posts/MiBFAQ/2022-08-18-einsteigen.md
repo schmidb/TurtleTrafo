@@ -15,9 +15,10 @@ arbeiten.
 <p>
 Ab 1. April 2023 wird die Gruppe geschlossen sein und keine neuen Teilnehmer hinzukommen, da ...
 <ul>
-<li>die Impulse aufeinander aufbauen und wir ab 1. April einige Themen vertiefen und die
-Vorarbeit zwingend nötig ist.</li>
-<li>durch die intensivere Arbeit und teilen der Erfahrungen ich euch durch die geschlossene
-Gruppe mehr Sicherheit und Diskretion geben möchte.</li>
+<li>die Impulse dann stark aufeinander aufbauen. Ab 1. April werden wir einige Themen vertiefen und die
+Vorarbeiten werden für die mögliche Veränderung zwingend nötig sein.</li>
+<li>ich euch durch die geschlossene Gruppe noch mehr Sicherheit und Diskretion bieten möchte.
+Das authentische Teilen von Erfahrungen und Veränderungen ist ein wichtiger Teil der
+Männergruppe. Vertrauen und ein wertschätzender Umgang untereinander ist hierfür sehr wichtig.</li>
 </ul>
 </p>

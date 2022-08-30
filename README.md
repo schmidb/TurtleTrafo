@@ -41,3 +41,6 @@ git branch -d ZULOESCHENDERBranch
 
 ## bootstrap 3.4.1 documentation
 https://getbootstrap.com/docs/3.4/components/#panels
+
+## Icons
+https://fontawesome.com/icons
