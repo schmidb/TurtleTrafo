@@ -1,11 +1,11 @@
 ---
 layout: offerings
-img: travel_box.jpg
+img: MiB.jpg
 category: [Dont-Show-Frontpage]
 title: Männer in Beziehung - Tribe
 permalink: MiB
 description: "Eine Männergruppe mit dem Potential Beziehungen neu zu leben."
-angebot: 2 wöchentliche Impulse zu Beziehung und Persönlichkeitsentwicklung und Online Männer Gruppe
+angebot: zwei wöchentliche Impulse zu Beziehung und Persönlichkeitsentwicklung und online Männer Gruppe
 preis: 150€ für 6 Monate
 anfrage: ???
 ---
