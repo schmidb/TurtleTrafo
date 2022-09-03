@@ -1,13 +1,13 @@
 ---
 layout: offerings
-img: MiB.jpg
-category: [Dont-Show-Frontpage]
+img: MiB_box.jpg
+category: [Services-Jahr]
 title: Männer in Beziehung - Tribe
 permalink: MiB
 description: "Eine Männergruppe mit dem Potential Beziehungen neu zu leben."
-angebot: zwei wöchentliche Impulse zu Beziehung und Persönlichkeitsentwicklung und online Männer Gruppe
-preis: 150€ für 6 Monate
-anfrage: ???
+angebot: Zwei wöchentliche Impulse zu Beziehung und Persönlichkeitsentwicklung, moderierte online Männer Gruppe zum Austausch
+preis: 150€ für 12 Monate
+anfrage: Männer in Beziehung - Tribe
 ---
 
 In den letzten 10 Jahren habe ich erfahren und gelernt, dass die Beziehung zu meiner Frau
@@ -110,12 +110,12 @@ in der Gruppe teilen: 10 min
   <p><b>150€</b> für den ersten Jahreszyklus von 1. Oktober 2022 - 1. Oktober 2023.</p>
   <p>Dafür erhältst du:
   <ul>
-  <li>1 x kostenloses Einzelcoaching bei Markus (somit ist der Tribe kostenlos!)</li>
   <li>50 Wochenimpulse zu Beziehung</li>
   <li>50 Wochenimpulse zu Persönlichkeitsentwicklung</li>
   <li>3 Fragebögen für dich, um die Qualität deiner Beziehungen zu beschreiben</li>
   <li>3 Fragebögen für deine Frau, um die Qualität eurer Beziehung zu beschreiben</li>
   <li>Zugang zur moderierten MightyNetwork Gruppe</li>
+  <li>50% Rabatt auf deine erstes Einzelcoaching bei Markus</li>
   </ul></p>
   <p>Vom 1. Oktober 2022 bis 1. April 2023 kannst du jederzeit in die Gruppe einsteigen.
   Danach wird die Gruppe geschlossen sein und neue Teilnehmer müssen bis 1. Oktober 2023 warten.</p>

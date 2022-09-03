@@ -39,7 +39,9 @@
             {% endfor %}
           </div>
         </div>
+        </div>
 
+        <div class="content-section-a">
         <div class="container">
           <div class="row">
             {% for post in site.categories.Services-Firma %}
@@ -66,5 +68,34 @@
               {% endfor %}
             </div>
           </div>
-  </div>
+          </div>
+
+          <div class="content-section-b">
+          <div class="container">
+            <div class="row">
+              {% for post in site.categories.Services-Jahr %}
+                          <div class="col-sm-4 col-md-4">
+                            <div class="thumbnail">
+                              <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
+                              <div class="caption lead">
+                                <h3><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title_kurz %}{{ post.title_kurz }}
+                                  {% else %}
+                                  {{ post.title }}
+                                  {% endif %}</a></h3>
+                                <p>{{ post.description }}</p>
+                                <p>{{ post.angebot }}</p>
+                                <p><b>{{ post.preis }}</b></p>
+                                <p>{% if post.digistore24 %}
+                                  <a href="{{post.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
+                                    {% else %}
+                                  <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">Jetzt buchen</a>
+                                  {% endif %}
+                                  <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
+                              </div>
+                            </div>
+                          </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
 </section>
