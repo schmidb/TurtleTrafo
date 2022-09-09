@@ -15,7 +15,8 @@ arbeiten.
 <p>
 Ab 1. April 2023 wird die Gruppe geschlossen sein und keine neuen Teilnehmer hinzukommen, da ...
 <ul>
-<li>die Impulse dann stark aufeinander aufbauen. Ab 1. April werden wir einige Themen vertiefen und die
+<li>die Impulse danach aufeinander aufbauen und Vorwissen für eine Vertiefung
+Voraussetzung ist. Ab 1. April werden wir einige Themen vertiefen und die
 Vorarbeiten werden für die mögliche Veränderung zwingend nötig sein.</li>
 <li>ich euch durch die geschlossene Gruppe noch mehr Sicherheit und Diskretion bieten möchte.
 Das authentische Teilen von Erfahrungen und Veränderungen ist ein wichtiger Teil der
