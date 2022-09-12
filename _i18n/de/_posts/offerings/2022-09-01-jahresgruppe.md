@@ -74,16 +74,25 @@ in der Gruppe teilen
 <div class="panel-heading">Radical Transformation and Unbeatable Mind - Jahresprogramm</div>
 <div class="panel-body">
   <p>2100 € für das Jahresprogramm vom 1. November 2022 - 1. November 2023 sowie 1500 € für das gemeinsame Wochenende.
-  <br> Das Gesamtpaket ist zahlbar in monatlichen Raten von 300 Euro oder als Einmalzahlung vorab ermäßigt für 3000 Euro</p>
+  <br> Das Gesamtpaket ist zahlbar in monatlichen Raten von 300 Euro oder als Einmalzahlung vorab ermäßigt. für 3000 Euro</p>
   <p>Dafür erhältst du:
   <ul>
   <li>12 Monatsthemenimpulse mit vertiefendem Praxisteil</li>
   <li>12 gemeinsame Onlinetrainings in der Gruppe zu den Monatsthemen</li>
 <li>Zugang zur Mighty Network Gruppe mit ein Mal wöchentlichem Feedback zu Fragen, Themen, Erfahrung von mir</li>
   <li>12 Extraimpulse in der Mighty Network Gruppe</li>
-  <li>1 gemeinsames Trainingswochenende (voraussichtlich in Bayern)</li>
+  <li>1 gemeinsames Trainingswochenende (voraussichtlich in  Bayern oder Nähe Berlin)</li>
   <li>50% auf alle Einzelcoachings bei Miriam während des Jahres</li>
   </ul></p>
   <p><a href="mailto:{{ site.email }}?subject=RTaUM Jahresgruppe 2022" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
+
+<br>
+## Termine
+* Sonntag, 13. November 2022 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Sonntag, 11. Dezember 2022 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Sonntag, 15. Januar 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Sonntag, 12. Februar 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Gemeinsames Wochenende voraussichtlich im Juli 2023
+* weitere Jahrestermine verfügbar ab Weihnachten 2022
