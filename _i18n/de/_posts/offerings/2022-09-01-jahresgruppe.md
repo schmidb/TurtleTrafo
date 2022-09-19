@@ -2,7 +2,7 @@
 layout: offerings
 img: miriam_duenen.jpg
 category: [Services-Jahr]
-title: Radical Transformation and Unbeatable Mind - Jahresprogramm
+title: Radical Transformation Jahresprogramm
 permalink: RTaUM
 description: "Eine Gruppe mit dem Potential gemeinsam zu wachsen."
 angebot: 1 mal im Monat ein Onlinemeeting, tägliche Übungsimpulse und Austausch in der Gruppe, sowie ein gemeinsames Wochenende
