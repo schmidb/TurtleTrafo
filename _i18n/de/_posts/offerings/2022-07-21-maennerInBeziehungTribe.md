@@ -119,7 +119,9 @@ in der Gruppe teilen: 10 min
   </ul></p>
   <p>Vom 1. Oktober 2022 bis 1. April 2023 kannst du jederzeit in die Gruppe einsteigen.
   Danach wird die Gruppe geschlossen sein und neue Teilnehmer müssen bis 1. Oktober 2023 warten.</p>
-  <p><a href="mailto:{{ site.email }}?subject=Männer in Beziehung - Tribe" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+  <p><a href="https://www.digistore24.com/product/459978" target="_blank" class="btn btn-primary">Jetzt buchen auf Digistore24</a></p>
+  <p>Gerne kannst du auch mit <a href="https://paypal.me/turtletrafo/150">PayPal</a> oder Crypto bezahlen.
+  </p>
 </div>
 </div>
 
