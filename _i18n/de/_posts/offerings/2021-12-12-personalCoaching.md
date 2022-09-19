@@ -1,13 +1,13 @@
 ---
 layout: offerings
 category: [Services-Familie]
-img: germ_box.jpg
-title: Lebe im Einklang mit Dir selber - Begleitung bei Deiner Transformation
-title_kurz: Lebe im Einklang mit Dir selber - Deine Transformation
-description: Wir freuen uns darauf, ein Stück Deines Weges mit Dir gehen zu dürfen und mit Dir Inspirationen und Unterstützendes zu teilen. Wage dich auf den Weg von 'Innen nach Aussen'.
-angebot: 45 Minuten Einzelcoaching mit Miriam oder Markus
-preis: ab 150€ für 45 min Gespräch
-anfrage: Dein-Transformations-Coaching
+img: space-shuttle-box.jpg
+title: Lebe im Einklang mit Dir selber - Transformations Coaching
+title_kurz: Persönliches Coaching & Beratung
+description: Wir freuen uns darauf, ein Stück Deines Weges mit Dir gehen zu dürfen. Wage dich auf den Weg von 'Innen nach Aussen'. Ein Coaching das Dich, wenn du willst, direkt mit dem Kern der Sache konfrontiert. Alles liegt in Dir und ermöglicht Dir eine Horizonterweiterung.
+angebot: 45 - 60 Minuten Einzelcoaching
+preis: ab 150€ für 45 min Coaching
+anfrage: Personal-Coaching
 ---
 
 Unser Wegbegleiterrucksack ist nach Jahren intensiven Lebens in Beziehung als Paar, als Eltern, als Manager und als Teil dieser Welt gut gefüllt. Wir freuen uns ein Stück Deines Weges mit Dir gehen zu dürfen und mit Dir Inspiration und Unterstützendes zu teilen. Jeder Mensch hat seinen eigenen Weg. Wir können Deinen Weg nicht für dich gehen. Wir können Dich aber begleiten und gemeinsam & ganzheitlich mit Dir ein Stück Deines Lebens beschreiten.
@@ -19,16 +19,28 @@ Wage dich auf den Weg von 'Innen nach Aussen'.
 <br>
 ## Preise & Buchung
 <div class="panel panel-info">
-<div class="panel-heading">Dein-Transformations-Coaching</div>
+<div class="panel-heading">Transformations-Coaching</div>
 <div class="panel-body">
-  <p>Im Einzelcoaching betrachten wir deine aktuelle Lebenssituation und deine Wunschvorstellung vom Leben. Basierend darauf erarbeiten wir erste Schritte hin zu deiner Vision. Wir empfehlen eine wöchentliche oder zweiwöchentliche Einzelsupervision.</p>
+  <p>Im Einzelcoaching betrachten wir deine aktuelle Lebenssituation und deine Wunschvorstellung vom Leben. Basierend darauf erarbeiten wir erste Schritte hin zu deiner Vision.</p>
   <ul>
-  <li>1h Einzelcoaching mit Miriam oder Markus</li>
+  <li>Einzelcoaching mit Miriam oder Markus.<br><b>150€ pro 45 Minuten</b>, Abrechnung erfolgt auf 15 Minuten Einheiten.</li>
   </ul>
-  <b>150€ pro 45 Minuten Zoom Call</b>, Abrechnung erfolgt auf 15 Minuten Einheiten.
+  <p>Bitte bei der Anfrage dein Anliegen kurz beschreiben und falls vorhanden den präferierten Coach angeben.</p>
   <p><a href="mailto:{{ site.email }}?subject=Dein-Transformations-Coaching" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
+
+<br>
+## Erfahrungsbereiche
+* Aufarbeiten von Kindheitstrauma
+* Ehekrisen positiv nutzen
+* Karriere in Teilzeit
+* Klarheit und Fokus auf deine privaten und beruflichen Ziele
+* Eigene Work-Life Balance finden
+* Erziehen ohne Strafen bzw. Leben mit Kindern auf Augenhöhe
+* De-Schooling & Leben ohne Schule
+* Auswandern (als Familie)
+* Veränderungsprozesse
 
 
 <br>
