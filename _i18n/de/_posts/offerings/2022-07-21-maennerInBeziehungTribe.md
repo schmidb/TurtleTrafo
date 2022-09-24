@@ -7,7 +7,7 @@ permalink: MiB
 description: "Eine Männergruppe mit dem Potential Beziehungen neu zu leben."
 angebot: Zwei wöchentliche Impulse zu Beziehung und Persönlichkeitsentwicklung, moderierte online Männer Gruppe zum Austausch
 preis: 150€ für 12 Monate
-anfrage: Männer in Beziehung - Tribe
+digistore24: https://www.digistore24.com/product/459978
 ---
 
 In den letzten 10 Jahren habe ich erfahren und gelernt, dass die Beziehung zu meiner Frau
@@ -107,7 +107,7 @@ in der Gruppe teilen: 10 min
 <div class="panel panel-info">
 <div class="panel-heading">Männer in Beziehung - Tribe</div>
 <div class="panel-body">
-  <p><b>150€</b> für den ersten Jahreszyklus von 1. Oktober 2022 - 1. Oktober 2023.</p>
+  <p><b>150€</b> für den ersten Jahreszyklus von 1. November 2022 - 1. November 2023.</p>
   <p>Dafür erhältst du:
   <ul>
   <li>50 Wochenimpulse zu Beziehung</li>
@@ -117,8 +117,8 @@ in der Gruppe teilen: 10 min
   <li>Zugang zur moderierten MightyNetwork Gruppe</li>
   <li>50% Rabatt auf deine erstes Einzelcoaching (45 Minuten) bei Markus</li>
   </ul></p>
-  <p>Vom 1. Oktober 2022 bis 1. April 2023 kannst du jederzeit in die Gruppe einsteigen.
-  Danach wird die Gruppe geschlossen sein und neue Teilnehmer müssen bis 1. Oktober 2023 warten.</p>
+  <p>Vom 1. November 2022 bis 1. Mai 2023 kannst du jederzeit in die Gruppe einsteigen.
+  Danach wird die Gruppe geschlossen sein und neue Teilnehmer müssen bis 1. November 2023 warten.</p>
   <p><a href="https://www.digistore24.com/product/459978" target="_blank" class="btn btn-primary">Jetzt buchen auf Digistore24</a></p>
   <p>Gerne kannst du auch mit <a href="https://paypal.me/turtletrafo/150">PayPal</a> oder Crypto bezahlen.
   </p>
