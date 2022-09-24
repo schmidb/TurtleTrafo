@@ -78,7 +78,13 @@
                             <div class="thumbnail">
                               <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                               <div class="caption lead">
-                                <h3><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title_kurz %}{{ post.title_kurz }}
+                                <h3>
+                                  {% if post.externerlink %}
+                                      <a href="{{ post.externerlink }}" target="_blank">
+                                  {% else %}
+                                      <a href="{{ site.baseurl }}{{ post.url }}">
+                                  {% endif %}
+                                  {% if post.title_kurz %}{{ post.title_kurz }}
                                   {% else %}
                                   {{ post.title }}
                                   {% endif %}</a></h3>
@@ -86,11 +92,14 @@
                                 <p>{{ post.angebot }}</p>
                                 <p><b>{{ post.preis }}</b></p>
                                 <p>{% if post.digistore24 %}
-                                  <a href="{{post.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
-                                    {% else %}
-                                  <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">Jetzt buchen</a>
+                                      <a href="{{post.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
+                                      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
+                                  {% elsif post.externerlink %}
+                                      <a href="{{post.externerlink}}" target="_blank" class="btn btn-primary" role="button">zum Festival</a>
+                                  {% else %}
+                                      <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">Jetzt buchen</a>
+                                      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
                                   {% endif %}
-                                  <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
                               </div>
                             </div>
                           </div>
