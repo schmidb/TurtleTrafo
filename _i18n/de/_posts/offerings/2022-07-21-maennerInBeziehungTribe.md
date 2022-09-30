@@ -120,7 +120,7 @@ in der Gruppe teilen: 10 min
   </ul></p>
   <p>Vom 1. November 2022 bis 1. Mai 2023 kannst du jederzeit in die Gruppe einsteigen.
   Danach wird die Gruppe geschlossen sein und neue Teilnehmer müssen bis 1. November 2023 warten.</p>
-  <p><a href="https://community.turtletrafo.de/plans/239429?bundle_token=ba72cd53dfa05f747a13f484dce9cf42&utm_source=manual" target="_blank" class="btn btn-primary">Jetzt buchen auf MightyNetwork</a></p>
+  <p><a href="https://community.turtletrafo.de/plans/239429" target="_blank" class="btn btn-primary">Jetzt buchen auf MightyNetwork</a></p>
   <p>Gerne kannst du auch mit <a href="https://paypal.me/turtletrafo/150">PayPal</a> oder Crypto bezahlen.
   </p>
 </div>
