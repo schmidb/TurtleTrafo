@@ -32,7 +32,8 @@
                                 {% else %}
                               <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">Jetzt buchen</a>
                               {% endif %}
-                              <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
+                              <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
+                            </p>
                           </div>
                         </div>
                       </div>
@@ -61,7 +62,8 @@
                                   {% else %}
                                 <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">Jetzt buchen</a>
                                 {% endif %}
-                                <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
+                                <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -79,8 +81,8 @@
                               <img src="/img/services/{{ post.img }}" alt="{{ post.title }}" onerror="this.src='/img/services/{{post.img | replace: "webp", "jpg" }}'">
                               <div class="caption lead">
                                 <h3>
-                                  {% if post.externerlink %}
-                                      <a href="{{ post.externerlink }}" target="_blank">
+                                  {% if post.externerLinkMehr == "" %}
+                                      <a href="{{ post.externerLink }}" target="_blank">
                                   {% else %}
                                       <a href="{{ site.baseurl }}{{ post.url }}">
                                   {% endif %}
@@ -94,12 +96,14 @@
                                 <p>{% if post.digistore24 %}
                                       <a href="{{post.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
                                       <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
-                                  {% elsif post.externerlink %}
-                                      <a href="{{post.externerlink}}" target="_blank" class="btn btn-primary" role="button">zum Festival</a>
+                                  {% elsif post.externerLink %}
+                                      <a href="{{post.externerLink}}" target="_blank" class="btn btn-primary" role="button">{{post.externerLinkName}}</a>
+                                      {% if post.externerLinkMehr %} <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a> {% endif %}
                                   {% else %}
                                       <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">Jetzt buchen</a>
-                                      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
+                                      <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
                                   {% endif %}
+                                  </p>
                               </div>
                             </div>
                           </div>
