@@ -82,8 +82,8 @@ weiterentwickeln möchtest, dann bist du herzlich eingeladen, Teil des
 <br>
 # Was dich im "Männer in Beziehung - Tribe" erwartet:
 * Jeden Dienstag gibt es einen Impuls, um dich persönlich im Bereich Gefühle, Emotionen
- und Werten weiter zu entwickeln.
-* Jeden Freitag gibt es einen Impuls, um die Beziehung zu deiner Frau zu beleben.
+ und Werten weiterzuentwickeln.
+* Jeden Freitag gibt es einen Impuls, um die Beziehung zu deiner Frau bzw. Lebenspartnerin zu beleben.
 * Erfahrungsaustausch mit den anderen Männern in der moderierten MightyNetwork Gruppe.
 
 <br>

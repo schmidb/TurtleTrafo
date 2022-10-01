@@ -33,6 +33,14 @@ einzuhalten.</p>
    besondere Weise der MiB Gruppe anvertrauen. Jeder Teilnehmer ehrt dies, indem er
    respektvoll und friedlich kommuniziert.</dd><br>
 
+   <dt>Stehen lassen & bei sich bleiben:</dt>
+   <dd>Jeder Teilnehmer hat eigene Erfahrungen und geht seinen eigenen Weg. Als Teilnehmer
+   höre ich zu und darf Fragen stellen: z.B. <i>wieso hast du das so gemacht?, war dies
+   die einzige Option für dich?, würdest du es heute wieder so machen?</i>. Jeder Teilnehmer lässt
+   die anderen Teilnehmer mit ihren Meinungen und Entscheidungen stehen und gibt keine Ratschläge. Jeder darf beobachten, lernen und du darfst gerne von deinen
+   eigenen Erfahrungen, Gefühlen und Entscheidungen berichten: z.B. <i>bei mir war das so und hat dazu geführt.</i>
+   </dd><br>
+
    <dt>Feedback:</dt>
    <dd>Unser ehrliches Feedback ist wesentlich für die andere Person. Jeder Teilnehmer
    gibt konstruktives, aufbauendes Feedback. Wichtige Informationen und Feedback

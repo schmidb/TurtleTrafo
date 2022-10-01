@@ -21,6 +21,6 @@ Frauen macht den ehrlichen Austausch für Männer oft schwieriger.</p>
 welche Veränderungen sie durch deine Teilnahme am "Männer in Beziehung - Tribe"
 wahrnehmen.</p>
 
-<p>Ich möchte hier auch darauf hinweisen, dass meine Partnerin "Miriam" aktiv
+<p>Ich möchte hier auch darauf hinweisen, dass meine Partnerin Miriam aktiv
 an der Gestaltung der Impulse mitarbeitet und wir die Impulse in unserer eigenen
 Beziehung getestet haben. Sie wird <b>nicht</b> Teil der MightyNetwork Gruppe sein.</p>
