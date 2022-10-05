@@ -10,7 +10,7 @@ preis: 2100€ für 12 Monate + 1500 für das WE
 anfrage: RTaUM Jahresgruppe 2022
 ---
 
-Das Jahresprogramm Radical Transformation und Unbeatable Mind (RTaUM) ist dazu gedacht, sich dem IST-Zustands des eigenen Lebens zu stellen und von da aus sein Leben klar auf den eigenen Weg auszurichten.
+Das Jahresprogramm Radical Transformation (RT) ist dazu gedacht, sich dem IST-Zustands des eigenen Lebens zu stellen und von da aus sein Leben klar auf den eigenen Weg auszurichten.
 Dadurch bekommt man mehr Authentizität, mehr Ehrlichkeit gegenüber sich selbst, mehr inneren Frieden, Klarheit und Lebensfreude sowie die wachsende Fähigkeit zu tieferer Verbindung zu sich selbst und zu anderen.
 Der Weg nach Innen - weg von äußeren Anforderungen - bietet die Möglichkeit unpassende Glaubenssätze wahrzunehmen und sich von ihnen zu lösen. Er führt hin zu einer annehmenderen und liebevolleren Auseinandersetzung mit sich selbst.
 
@@ -49,7 +49,7 @@ Im Laufe des Jahres werden die eigenen Gefühle immer mehr zu intuitiven und wer
 <br>
 
 <br>
-# Was erwartet dich im Radical Transformation and Unbeatable Mind Jahresprogramm (RTaUM):
+# Was erwartet dich im Radical Transformation Jahresprogramm (RT):
 * jeden Monat gibt es ein gemeinsames Onlinemeeting, um in das Monatsthema einzutauchen
 * passend dazu gezielte Extraimpulse
 * Erfahrungsaustausch in der Gruppe
@@ -71,7 +71,7 @@ in der Gruppe teilen
 <br>
 ## Preise & Buchung
 <div class="panel panel-info">
-<div class="panel-heading">Radical Transformation and Unbeatable Mind - Jahresprogramm</div>
+<div class="panel-heading">Radical Transformation Jahresprogramm</div>
 <div class="panel-body">
   <p>2100 € für das Jahresprogramm vom 1. November 2022 - 1. November 2023 sowie 1500 € für das gemeinsame Wochenende.
   <br> Das Gesamtpaket ist zahlbar in monatlichen Raten von 300 Euro oder als Einmalzahlung vorab ermäßigt. für 3000 Euro</p>
@@ -84,7 +84,7 @@ in der Gruppe teilen
   <li>1 gemeinsames Trainingswochenende (voraussichtlich in  Bayern oder Nähe Berlin)</li>
   <li>50% auf alle Einzelcoachings bei Miriam während des Jahres</li>
   </ul></p>
-  <p><a href="mailto:{{ site.email }}?subject=RTaUM Jahresgruppe 2022" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+  <p><a href="mailto:{{ site.email }}?subject=RT Jahresgruppe 2022" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
 </div>
 </div>
 
