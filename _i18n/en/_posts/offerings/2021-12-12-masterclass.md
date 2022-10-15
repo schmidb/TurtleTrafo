@@ -1,10 +1,13 @@
 ---
 layout: offerings
 img: building.jpg
-category: [Services-Einzel, Services-Firma]
+category: [Services-Firma]
 title: TurtleTrafo Work Excellence Masterclass
 permalink: masterclass
-description: "We all strive for joy in our work and our life. We offer a masterclass that trains you as a manager to deliver high-quality results at all times without losing your joy. The masterclass begins with yourself in order to gain inner focus and to provide you with clarity about your life and work needs. ... "
+description: "We offer a master class that trains you as a leader to deliver high quality results at all times without losing your joy."
+angebot: 12 months support through coaching, webinars, make-the-change week and peer group
+preis: tbd for 12 months
+anfrage: Work Excellence Masterclass
 ---
 
 We all strive for joy at work and in our everyday life. Changes such as a new delivery date, a new strategic direction, a new manager, a new role or a newborn child can create great challenges and limit the joy. Modern managers are expected to take care of everything and that the above events do not affect their own performance and that their teams remain happy and productive.
@@ -31,7 +34,7 @@ The masterclass runs for 12 months and includes the following offers:
 ## Prices & Dates & Booking
 The annual price for the Masterclass is € 7,500 in the online version and € 10,000 in the offline version plus accommodation costs. You can book the masterclass as a private person. However, we recommend receiving the Masterclass as personal training from your employer.
 
-The **online** Masterclass with a maximum of 10 participants **starts on January 1, 2023**.
+The next **online** Masterclass with a maximum of 10 participants **starts 2023**.
 
 <a href="mailto: towards Genealogie site.email} Genealogie?subject=Inquiry Masterclass" target="_blank" class="btn btn-primary"> Inquire now via email </a>
 

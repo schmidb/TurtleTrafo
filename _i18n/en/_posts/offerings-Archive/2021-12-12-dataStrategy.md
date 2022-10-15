@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: financial.jpg
-category: Services-Firma
+category: [Dont-Show-Frontpage]
 title: Integrate data holistically & humanely - data strategy supervision
 description: "A data strategy is an essential part of the digital transformation.
 We offer you a holistic supervision and support you in the successful implementation of the strategy within the organization. The supervision helps you to keep your focus, to identify and solve challenges at an early stage and to pick up all employees."

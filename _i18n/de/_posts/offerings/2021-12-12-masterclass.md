@@ -4,7 +4,7 @@ img: building_box.jpg
 category: [Services-Firma]
 title: TurtleTrafo Work Excellence Masterclass
 permalink: masterclass
-description: "Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren. <br>Nächster Start online im Januar 2023"
+description: "Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren."
 angebot: 12 Monate Begleitung mittels Coachings, Webinare, Make-the-Change Woche und Peergroup
 preis: tbd für 12 Monate
 anfrage: Work-Excellence Masterclass
@@ -45,7 +45,7 @@ Die Masterclass läuft über 12 Monate und beinhaltet folgende Angebote:
 ## Preise & Termine & Buchung
 Der Jahrespreis für für Masterclass beträgt in der Onlinevariante 7.500 Euro und in der Offlinevariante 10.000 Euro zuzüglich der Übernachtungskosten. Du kannst die Masterclass als Privatperson buchen. Wir empfehlen jedoch die Masterclass als persönliche Fortbildung durch deinen Arbeitgeber zu erhalten.
 
-Die **online** Masterclass mit maximal 10 Teilnehmern **startet am 10. Januar 2023**.
+Die nächste **online** Masterclass mit maximal 10 Teilnehmern **startet 2023**.
 
 <a href="mailto:{{ site.email }}?subject=Anfrage Masterclass" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
 

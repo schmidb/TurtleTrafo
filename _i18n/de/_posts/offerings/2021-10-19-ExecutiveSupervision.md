@@ -13,15 +13,9 @@ anfrage: Deine Führungskräfte Supervision
 
 <!-- ToDo MUss Packet werden -->
 
-Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich viele Entscheidungen zu treffen. Kollegen, Teammitglieder,
-interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese
-aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder
-Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu
-fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu erreichen
-ohne sich überfordert zu fühlen.
+Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich viele Entscheidungen zu treffen. Kollegen, Teammitglieder, interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu erreichen ohne sich überfordert zu fühlen.
 
-Unsere Führungskräftesupervision umfasst Themen wie das persönliches Leben, persönliche Entwicklung,
-C-Level-Beziehungen, Schlüsselmitarbeiter, Organisationsstrukturen, organisatorische
+Unsere Führungskräftesupervision umfasst Themen wie das persönliches Leben, persönliche Entwicklung, C-Level-Beziehungen, Schlüsselmitarbeiter, Organisationsstrukturen, organisatorische
 Strategien & Dynamiken & Entscheidungen, Transformationsprozesse und Kulturveränderungen.
 Wir betrachten immer das Zusammenspiel aller Themen und verfolgen eine ganzheitliche
 Betrachtung der Situation. Unser Ziel ist der Führungskraft Klarheit in allen Lebensbereichen
@@ -61,34 +55,3 @@ an {{ site.email }}.
   {% endfor %}
   </div>
 </div>
-
-
-
-
-<!--
-
-
-Executive Supervision
-
-Executives are leaders within an organization and usually have to handle a
-complex role. Every day an executive leader has to make difficult and a lot
-of decisions. Peers, direct reports, internal coaches and HR business partners
-are good sparing partners but often bounded to the same business, strategy or
-vision. Supervision with an external coach gives the opportunity to assure
-the quality of your role and being aware about your focus topics.
-
-Our executive supervision includes topics as personal live, personal development,
-C-level relationship, key employees, organizational structures, organizational
-strategy & dynamics & decisions, transformation processes and culture changes.
-
-As
-We will first work towards your feelings grounded and whole, to then make more sense of what is going on in your situation so you can be more effecitve with your clients
-
-
-a lasting impact to the organisation
-
-We recommend a bi-weekly or monthly one-to-one supervision. Our starting rate
-for executive supervision is 300 Euros per 60 min session.
-
-For special offerings for your complete executive leadership team please get in
-contact. -->
