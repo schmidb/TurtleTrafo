@@ -90,17 +90,17 @@ in der Gruppe teilen
 
 <br>
 ## Termine
-* Sonntag, 13. November 2022 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 11. Dezember 2022 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 15. Januar 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 12. Februar 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, March coming soon
-* Sonntag, 16. April 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 14. Mai 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 11. Juni 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 16. Juli 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 13. August 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 17. September 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, 15. Oktober 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
-* Sonntag, Abschlusstermin coming soon
+* Montag, 14. November 2022 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 12. Dezember 2022 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 16. Januar 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 13. Februar 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, March coming soon
+* Montag, 17. April 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 15. Mai 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 12. Juni 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 17. Juli 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 14. August 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 18. September 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, 16. Oktober 2023 - 20:30 - 22:00 Uhr (UTC+2, deutsche Zeit)
+* Montag, Abschlusstermin coming soon
 * Gemeinsames Wochenende voraussichtlich im Juli 2023
