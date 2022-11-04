@@ -27,7 +27,6 @@ ich einen Raum bieten, um als Mann rund um das Thema *Beziehung* zu wachsen.
 <br>
 <div class="container">
   <div class="row">
-
                     <div class="col-sm-3 col-md-3">
                     <center>
                     <i class="fa-solid fa-lightbulb fa-2xl"></i>
@@ -56,6 +55,37 @@ ich einen Raum bieten, um als Mann rund um das Thema *Beziehung* zu wachsen.
                     </center>
                     </div>
         </div>
+<br>
+        <div class="row">
+                          <div class="col-sm-3 col-md-3">
+                          <center>
+                          <i class="fa-solid fa-people-group fa-2xl"></i>
+                          <p style="margin-top: 0.25em;">online Männergruppe</p>
+                          </center>
+                          </div>
+
+                          <div class="col-sm-3 col-md-3">
+                          <center>
+                          <i class="fa-solid fa-user-doctor fa-2xl"></i>
+                          <p style="margin-top: 0.25em;">keine Therapie oder Coaching</p>
+                          </center>
+                          </div>
+
+                          <div class="col-sm-3 col-md-3">
+                          <center>
+                          <i class="fa-solid fa-arrow-trend-up fa-2xl"></i><br>
+                          <p style="margin-top: 0.25em;">Impulse für Veränderung - alles ist deine Entscheidung</p>
+                          </center>
+                          </div>
+
+                          <div class="col-sm-3 col-md-3">
+                          <center>
+                          <i class="fa-solid fa-clock fa-2xl"></i><br>
+                          <p style="margin-top: 0.25em;">wenig Zeitaufwand & einfach in deinen Alltag zu integrieren</p>
+                          </center>
+                          </div>
+              </div>
+
 </div>
 <br>
 
@@ -80,6 +110,17 @@ weiterentwickeln möchtest, dann bist du herzlich eingeladen, Teil des
 "Männer in Beziehung - Tribe" (MiB, angelehnt an "Mann in Black") zu werden.
 
 <br>
+<div class="container">
+  <div class="row">
+        <div class="embed-responsive embed-responsive-16by9">
+                    <center>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/d8kIZoIlB5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </center>
+          </div>
+  </div>
+</div>
+
+<br>
 # Was dich im "Männer in Beziehung - Tribe" erwartet:
 * Jeden Dienstag gibt es einen Impuls, um dich persönlich im Bereich Gefühle, Emotionen
  und Werten weiterzuentwickeln.
@@ -89,7 +130,9 @@ weiterentwickeln möchtest, dann bist du herzlich eingeladen, Teil des
 <br>
 # Was darfst du wöchentlich machen?
 Der "Männer in Beziehung - Tribe" ist so ausgelegt, dass die Teilnahme maximal 45 Minuten
-pro Woche beansprucht und sich einfach in deinen Alltag integriert.
+pro Woche beansprucht und sich einfach in deinen Alltag integriert. Wenn du mal keine Lust
+oder Zeit hast, dann ist das auch kein Problem und du steigst nach ein oder zwei Wochen
+Pause wieder ein.
 * Jeder Impuls benötigt etwas 5 Minuten Lesezeit.
 * Der Beziehungsimpuls öffnet dir die Möglichkeit für eine Beziehungsaktion, die
   ca. 10 Minuten Zeit mit deiner Frau benötigt - gerne darf hier mehr entstehen.
