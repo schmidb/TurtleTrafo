@@ -47,10 +47,15 @@ languageNames:
 #   3rd Party Settings    #
 # ----------------------- #
 
-#social:
-#  - title: twitter
-#    url: https://twitter.com/SBootstrap
-#  - title: github
-#    url: https://github.com/IronSummitMedia/startbootstrap
-#  - title: linkedin
-#    url:
+social:
+  - title: envelope
+    title2: E-Mail
+    url: mailto:trafo@posteo.net
+  - title: linkedin
+    url: https://de.linkedin.com/company/turtletrafo
+  - title: facebook
+    url: https://www.facebook.com/turtletrafo
+  - title: instagram
+    url: https://www.instagram.com/turtletrafo
+  - title: youtube
+    url: https://www.youtube.com/@turtletrafo
