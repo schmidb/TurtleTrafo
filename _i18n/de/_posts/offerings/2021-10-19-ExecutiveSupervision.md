@@ -6,14 +6,48 @@ title: Klarheit und Freude für Manager - Führungskräfte Supervision
 description: "Als Manager musst Du täglich viele Entscheidungen treffen. Wir bieten
 Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all Deiner
 Themen."
-angebot: 1 Stunde Einzelcoaching mit Miriam oder Markus
-preis: 300€ für 1h Call
+angebot: 45 min Einzelcoaching mit Miriam oder Markus
+preis: ab 300€ für 45 min Coaching oder 1800€ für 3 Monate
 anfrage: Deine Führungskräfte Supervision
 ---
 
-<!-- ToDo MUss Packet werden -->
-
 Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich viele Entscheidungen zu treffen. Kollegen, Teammitglieder, interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu erreichen ohne sich überfordert zu fühlen.
+
+<br>
+<div class="container">
+  <div class="row">
+
+  <div class="col-sm-3 col-md-3">
+  <center>
+  <i class="fa-solid fa-glasses fa-2xl"></i><br>
+  <p style="margin-top: 0.25em;">mehr Klarheit für dich</p>
+  </center>
+  </div>
+
+  <div class="col-sm-3 col-md-3">
+  <center>
+  <i class="fa-solid fa-bullseye fa-2xl"></i>
+  <p style="margin-top: 0.25em;">bessere Zielerreichung für dich und deine Teams</p>
+  </center>
+  </div>
+
+  <div class="col-sm-3 col-md-3">
+  <center>
+  <i class="fa-solid fa-route fa-2xl"></i>
+  <p style="margin-top: 0.25em;">authentischeres & menschlicheres Führen von Mitarbeitern</p>
+  </center>
+  </div>
+
+  <div class="col-sm-3 col-md-3">
+  <center>
+  <i class="fa-solid fa-scale-balanced fa-2xl"></i><br>
+  <p style="margin-top: 0.25em;">bessere Work-Life-Balance</p>
+  </center>
+  </div>          
+
+        </div>
+  </div>
+<br>
 
 Unsere Führungskräftesupervision umfasst Themen wie das persönliches Leben, persönliche Entwicklung, C-Level-Beziehungen, Schlüsselmitarbeiter, Organisationsstrukturen, organisatorische
 Strategien & Dynamiken & Entscheidungen, Transformationsprozesse und Kulturveränderungen.
@@ -23,11 +57,56 @@ zu ermöglichen und die effiziente Erfüllung der beruflichen und privaten Ziele
 zu unterstützen.
 
 <br>
-## Preise & Buchung
-Wir empfehlen eine zweiwöchentliche oder monatliche Einzelsupervision. Unsere Startrate
-für "Supervision für Geschäftsführer und Manger" beträgt 300 Euro pro 60 Minuten Sitzung.
+## Mögliche Schwerpunkte:
+* Übersicht im Arbeitsumfeld und im Privaten gewinnen & behalten
+* Strategische Fragen für Firma, Leben, Familie
+* Berufliche Kompetenzen entdecken und entwickeln
+* Personalfragen
+* Konflikte auf Personen-, Team- und Organisationsebene
+* Gefahren & Ängste erkennen und vermeiden
+* Überlastung und Überforderung - Burnout?
+* Unverstandenes oder unerwartetes Feedback
+* Sicherheit und Authentizität aufbauen
 
-<a href="mailto:{{ site.email }}?subject=Anfrage Führungskräfte Supervision" target="_blank" class="btn btn-primary">Jetzt anfragen via Email</a>
+<br>
+## Für wen ist Führungskräfte Supervision?
+Der Einfachheit halber wird hier nur die männliche Rolle verwendet. Frauen und andere Geschlechter sind auch herzlich abgesprochen:
+* Vorstände, Geschäftsführer, Gremienmitglieder
+* C-Level Manager
+* Fach- und Führungskräfte, Teamleiter
+* Mediatoren und Konfliktmanager
+* Projektleiter
+* Lehrer
+
+<br>
+## Preise & Buchung
+
+<div class="panel panel-info">
+<div class="panel-heading">Führungskräfte Supervision - <b>EINZEL</b></div>
+<div class="panel-body">
+  <p>Im Einzelcoaching betrachten wir die aktuelle Führungssituation und Wunschvorstellung von Arbeit & Leben. Basierend darauf erarbeiten wir erste Schritte hin zu der persönlichen Vision. Meist benötigen wir hierfür zwei bis drei, 60-90 Minuten Gespräche. Als Coaches stehen Miriam oder Markus auf Anfrage zur Verfügung.</p>
+  <b>300€ pro 45 min Zoom Call</b>, Abrechnung erfolgt auf 15 Minuten Einheiten.
+  <p><a href="mailto:{{ site.email }}?subject=Führungskräfte Supervision - Einzel" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+</div>
+</div>
+
+
+<div class="panel panel-info">
+<div class="panel-heading">Führungskräfte Supervision - <b>3 MONATE</b></div>
+<div class="panel-body">
+  <p>Im Packet erarbeiten wir anfangs deine Vision und arbeiten uns dann Schritt für
+  Schritt an Hand deiner täglichen Führungssituationen hin zu deinem Ziel. Unterstützt werden
+  die Coachings durch wöchentliche Check-Ins via Messenger. Als Coaches stehen Miriam oder Markus auf Anfrage zur Verfügung.</p>
+  <ul>
+  <li>6 * 45 Minuten Einzelcoaching via Zoom mit Miriam oder Markus</li>
+  <li>1 mal pro Woche Check-In via Telegram Kanal mit Miriam oder Markus</li>
+  </ul>
+  <b>1800€ für 3 Monate</b>
+  <p><a href="mailto:{{ site.email }}?subject=Führungskräfte Supervision - 3 Monate" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+</div>
+</div>
+
+
 
 Für spezielle Angebote für Ihr komplettes Führungsteam melden Sie sich bitte per Email
 an {{ site.email }}.
