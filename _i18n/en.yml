@@ -1,6 +1,11 @@
 nav:
   konzept: Concept
   angebot: Offerings
+  kompetenz: Competencies
+  kompetenzen:
+    overview: Overview
+    business: For Business
+    life: "For Life & Family"
   angebote:
       einzel: Individuals
       zwei: Couples
@@ -32,6 +37,7 @@ contactheader: Contact to Turtle Transformation
 
 mehrlink: more
 JetztBuchen: Book now
+for: for
 
 angebote:
   untertitel: An offering from Turtle Transformation
@@ -62,3 +68,49 @@ newsletter:
   warning2: Your deregistration could not be validated. Please try again later.
   abmeldenOk: Your unsubscription was successful.
   abmelden: UNSUBSCRIBE
+
+kompetenzen:
+  unsereAngebote: about the offers
+  business:
+    subTitle: supervised by Turtle Transformation
+    img: job_640_385.jpg
+    text: "Together we find ways to help people live the life they love by
+    working efficiently and being respectful of themselves and others.
+    They move organically in teams and together they achieve even bigger dreams.
+   <br><br>
+    It all starts within yourself. When you have clarity about what is
+    going on inside you, you enable yourself to see the hidden dependencies
+    that the unconscious brings into all interactions between us humans.
+    With this clarity we can create together and achieve every corporate goal."
+    ziele:
+      text: Through the Turtle Transformation process "from the inside out" we accompany families and individuals to ...
+      ziel1: more clarity
+      ziel1fab: fa-glasses
+      ziel2: more (life) joy
+      ziel2fab: fa-face-smile
+      ziel3: better work-life balance
+      ziel3fab: fa-scale-balanced
+      ziel4: more efficiency
+      ziel4fab: fa-bullseye
+
+  life:
+    subTitle: supervised by Turtle Transformation
+    img: schmidberger2020_640_385.webp
+    text: "Everything starts within ourselves. We trust ourselves and follow
+    our heart-mind. We are all able to take responsibility for ourselves and
+    engage in contact or authentic exchange with ourselves, a family member
+    or other people. Coming step by step we are at peace with ourselves, our
+    environment and the world.
+     <br><br>
+    When we rest within ourselves and have our own clarity, then we can
+    fulfill any dream, find relaxation in any situation and create new life models."
+    ziele:
+      text: Through the Turtle Transformation process "from the inside out" we accompany families and individuals to ...
+      ziel1: more clarity
+      ziel1fab: fa-glasses
+      ziel2: more (life) joy
+      ziel2fab: fa-face-smile
+      ziel3: more resilience and inner strength
+      ziel3fab: fa-battery-full
+      ziel4: new life models
+      ziel4fab: fa-people-roof

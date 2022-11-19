@@ -25,9 +25,18 @@
                     <li><a class="page-scroll" href="#services_firma">{% t nav.angebote.firma %}</a></li>
                   </ul>
                 </li> -->
-                <li>
+              <!--  <li>
                   <a class="page-scroll" href="#services">{% t nav.angebot %}</a>
-                </li>
+                </li> -->
+        <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{% t nav.kompetenz %} <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                  <li><a class="page-scroll" href="/#kompetenzen">{% t nav.kompetenzen.overview %}</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a class="page-scroll" href="/business">{% t nav.kompetenzen.business %}</a></li>
+                  <li><a class="page-scroll" href="/life">{% t nav.kompetenzen.life %}</a></li>
+                </ul>
+        </li>
         <li>
           <a class="page-scroll" href="#about">{% t nav.ueberuns %}</a>
         </li>
