@@ -7,6 +7,7 @@ description: "As a manager you have to make many decisions every day. We offer y
 angebot: 45 min individual coaching with Miriam or Markus
 preis: from 300€ for 45 min coaching or 1800€ for 3 months
 anfrage: Your manager supervision
+permalink: executive-supervision
 ---
 
 Managers have a complex task that includes making many decisions every day. Colleagues, team members, internal coaches and HR business partners are good sparring partners. However, these are usually tied to the same processes, the same business idea, the same strategy or vision. Supervision with an external coach gives you the opportunity to focus and achieve high-quality execution of all tasks without feeling overwhelmed.
