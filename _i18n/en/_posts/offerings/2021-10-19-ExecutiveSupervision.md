@@ -2,15 +2,17 @@
 layout: offerings
 img: businessman.jpg
 category: [Services-Firma]
-title: Clarity and Joy for Managers - Executive Supervision
-description: "As a manager you have to make many decisions every day. We offer you holistic supervision and consider the interaction of all your topics."
+title: Clarity and Joy for Leaders - Executive Supervision Coaching
+description: "As a leader you have to make many decisions every day. We offer you holistic supervision coaching and consider the interaction of all your topics."
 angebot: 45 min individual coaching with Miriam or Markus
 preis: from 300€ for 45 min coaching or 1800€ for 3 months
-anfrage: Your manager supervision
+anfrage: Your manager supervision coaching
 permalink: executive-supervision
 ---
 
-Managers have a complex task that includes making many decisions every day. Colleagues, team members, internal coaches and HR business partners are good sparring partners. However, these are usually tied to the same processes, the same business idea, the same strategy or vision. Supervision with an external coach gives you the opportunity to focus and achieve high-quality execution of all tasks without feeling overwhelmed.
+Leaders have a complex task that includes making many decisions every day. In addition to professional skills there are expectations for communication skills, sovereignty, integrity, decision-making power, effectiveness, sense of responsibility, orientation, assertiveness, ability to cooperate, empathy, authenticity, flexibility, an "eye for the essential" and much more. So it is a lot about your individual personality. The conscious design of the leadership role and the ability to self-reflect - with the aim of examining one's own individual perception, thinking and feeling, and the personal communication behavior - are important for your successful leadership.
+
+Colleagues, team members, internal coaches and HR business partners are good sparring partners. However, these are usually tied to the same processes, the same business idea, the same strategy or vision. Supervision coaching with an external coach gives you the opportunity to focus and achieve high-quality execution of all tasks without feeling overwhelmed.
 
 <br>
 <div class="container">
@@ -48,7 +50,14 @@ Managers have a complex task that includes making many decisions every day. Coll
   </div>
 <br>
 
-Our executive supervision covers topics such as personal life, personal development, C-level relationships, key employees, organizational structures, organizational strategies & dynamics & decisions, transformation processes and culture changes. We always look at the interaction of all topics and pursue a holistic view of the situation. Our goal is to provide managers with clarity in all areas of life and to support the efficient fulfillment of professional and private goals.
+Our executive supervision coaching covers topics such as personal life, personal development, C-level relationships, key employees, organizational structures, organizational strategies & dynamics & decisions, transformation processes and culture changes. We always look at the interaction of all topics and pursue a holistic view of the situation.
+
+<br>
+## Your benefits
+* You develop clarity in all areas of your life and you get support in the efficient fulfillment of professional and private goals.
+* You learn to react more appropriately and resource-efficiently in difficult professional situations.
+* You strengthen your ability to deal with conflict and negotiate.
+* Supervision also provides emotional relief.
 
 <br>
 ## Possible areas of focus:
@@ -63,7 +72,14 @@ Our executive supervision covers topics such as personal life, personal developm
 * Build security and authenticity
 
 <br>
-## Who is leadership supervision for?
+## Different forms of supervision coaching:
+* individual - leader and coach
+* team - team, leader and coach. Together we develop new and common solutions.
+* case / project - leader, (project manager) and coach. We put a focus on special case or project.
+* leadership team - leadership team and coach. Together we reflect the leadership activities in the company.
+
+<br>
+## Who is leadership supervision coaching for?
 For the sake of simplicity, only the male role is used here. Women and other genders are also cordially discussed:
 * Board members, managing directors, committee members
 * C-level managers
@@ -76,16 +92,16 @@ For the sake of simplicity, only the male role is used here. Women and other gen
 ## Prices & Booking
 
 <div class="panel panel-info">
-<div class="panel-heading">Management Supervision - <b>INDIVIDUAL</b></div>
+<div class="panel-heading">Leadership Supervision Coaching - <b>INDIVIDUAL</b></div>
 <div class="panel-body">
-   <p>In individual coaching, we look at the current management situation and ideals of work and life. Based on this, we develop the first steps towards the personal vision. We usually need two to three, 60-90 minute conversations for this. Miriam or Markus are available as coaches on request.</p>
+   <p>In individual coaching, we look at the current leadership situation and ideals of work and life. Based on this, we develop the first steps towards the personal vision. We usually need two to three, 60-90 minute conversations for this. Miriam or Markus are available as coaches on request.</p>
    <b>300€ per 45 min zoom call</b>, billing is based on 15 minute units.
    <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Individual" target="_blank" class="btn btn-primary">Book now</a></p>
 </div>
 </div>
 
 <div class="panel panel-info">
-<div class="panel-heading">Management Supervision - <b>3 MONTHS</b></div>
+<div class="panel-heading">Leadership Supervision Coaching- <b>3 MONTHS</b></div>
 <div class="panel-body">
    <p>In the package we initially develop your vision and then work our way step by step
    Step towards your goal based on your daily leadership situations. Get supported

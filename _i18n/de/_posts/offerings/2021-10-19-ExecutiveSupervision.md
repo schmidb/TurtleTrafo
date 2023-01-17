@@ -9,9 +9,10 @@ Themen."
 angebot: 45 min Einzelcoaching mit Miriam oder Markus
 preis: ab 300€ für 45 min Coaching oder 1800€ für 3 Monate
 anfrage: Deine Führungskräfte Supervision
+permalink: executive-supervision
 ---
 
-Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich viele Entscheidungen zu treffen. Kollegen, Teammitglieder, interne Coaches und HR-Business-Partner sind gute Sparing-Partner. Meist sind diese aber an die gleichen Prozesse, die gleiche Businessidee, die gleiche Strategie oder Vision gebunden. Die Supervision mit einem externen Coach gibt die Möglichkeit sich zu fokussieren und eine qualitativ hochwertige Ausführung aller Aufgaben zu erreichen ohne sich überfordert zu fühlen.
+Führungskräfte haben eine komplexe Aufgabe, die beinhaltet, jeden Tag viele Entscheidungen zu treffen. Erwartet werden neben fachlichen Fähigkeiten Kommunikationsfähigkeit, Souveränität, Integrität, Entscheidungskraft, Effektivität, Verantwortungsbewusstsein, Orientierung, Durchsetzungsvermögen, Kooperationsfähigkeit, Empathie, Authentizität, Flexibilität, „Blick für das Wesentliche“ und vieles mehr. Es geht also viel um deine individuelle Persönlichkeit. Die bewusste Gestaltung der Führungsrolle und die Fähigkeit zur Selbstreflexion – mit dem Ziel, das eigene individuelle Wahrnehmen, Denken und Fühlen sowie das persönliche Kommunikationsverhalten zu hinterfragen – sind wichtig für deinen Führungserfolg.
 
 <br>
 <div class="container">
@@ -52,9 +53,14 @@ Führungskräfte haben eine komplexe Aufgabe, zu der es gehört täglich viele E
 Unsere Führungskräftesupervision umfasst Themen wie das persönliches Leben, persönliche Entwicklung, C-Level-Beziehungen, Schlüsselmitarbeiter, Organisationsstrukturen, organisatorische
 Strategien & Dynamiken & Entscheidungen, Transformationsprozesse und Kulturveränderungen.
 Wir betrachten immer das Zusammenspiel aller Themen und verfolgen eine ganzheitliche
-Betrachtung der Situation. Unser Ziel ist der Führungskraft Klarheit in allen Lebensbereichen
-zu ermöglichen und die effiziente Erfüllung der beruflichen und privaten Ziele
-zu unterstützen.
+Betrachtung der Situation.
+
+<br>
+## Deine Vorteile
+* Du entwickelst Klarheit in allen Bereichen deines Lebens und erhältst Unterstützung bei der effizienten Erfüllung beruflicher und privater Ziele.
+* Du lernst, in schwierigen beruflichen Situationen angemessener und ressourcenschonender zu reagieren.
+* Du stärkst deine Konflikt- und Verhandlungsfähigkeit.
+* Supervision bietet auch emotionale Entlastung.
 
 <br>
 ## Mögliche Schwerpunkte:
@@ -67,6 +73,13 @@ zu unterstützen.
 * Überlastung und Überforderung - Burnout?
 * Unverstandenes oder unerwartetes Feedback
 * Sicherheit und Authentizität aufbauen
+
+<br>
+## Verschiedene Formen des Supervisions Coachings:
+* individuell - Manager und Coach
+* Team - Team, Manger und Coach. Gemeinsam entwickeln wir neue und gemeinsame Lösungen.
+* Fall / Projekt - Manager, (Projektmanager) und Coach. Wir konzentrieren uns auf spezielle Fälle oder Projekte.
+* Führungsteam - Führungsteam und Coach. Gemeinsam spiegeln wir die Führungsaktivitäten im Unternehmen wider.
 
 <br>
 ## Für wen ist Führungskräfte Supervision?
