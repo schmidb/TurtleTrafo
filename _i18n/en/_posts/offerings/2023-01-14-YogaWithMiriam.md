@@ -35,6 +35,12 @@ Please join the WhatsApp group. I will announce every Monday if the Yoga session
 <b>Wednesday, 6:30 - 7:45 p.m.</b>
 <br>For 6 weeks: 22.2. / 1.3. / 8.3. / 22.3. / 29.3. / 5.4.2023
 <br>Hatha oriented Yoga, which trains your back and mind.
+<br>This course will focus on mobilizing and strengthen your back as well as getting more flexibility.
+Yoga in general connects body and mind via the breath.
+In this class there will be a special focus on stress related tension that tends to affect the back.
+We will work with techniques to calm the mind, to relax the body and to become aware what is the stress our back might be carrying for us.
+
+<br><br>You can either pay at the first session or via PayPal upfront.
 <br>Price: 125 Euro for 6 weeks
    <p><a href="mailto:{{ site.email }}?subject=Yoga Special - Train your Back" target="_blank" class="btn btn-primary">Book Now</a></p>
 </div>
