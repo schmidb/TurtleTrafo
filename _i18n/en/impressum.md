@@ -14,7 +14,7 @@ Miriam &amp; Markus Schmidberger
 #### Copyright Photos
 Family @ Miriam & Markus Schmidberger
 
-The national flags are provided by https://www.ip2location.com
+The national flags are provided by https://flagcdn.com/
 
 Other / rest @ https://pixabay.com
 

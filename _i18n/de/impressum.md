@@ -14,7 +14,7 @@ Miriam &amp; Markus Schmidberger
 #### Copyright Photos
 Familie @ Miriam & Markus Schmidberger
 
-Die Landesflaggen sind bereitgestellt von https://www.ip2location.com
+Die Landesflaggen sind bereitgestellt von https://flagcdn.com/
 
 Andere / Rest @ https://pixabay.com
 

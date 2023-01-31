@@ -44,3 +44,6 @@ https://getbootstrap.com/docs/3.4/components/#panels
 
 ## Icons
 https://fontawesome.com/icons
+
+## Flags
+https://flagpedia.net/download/icons#google_vignette
