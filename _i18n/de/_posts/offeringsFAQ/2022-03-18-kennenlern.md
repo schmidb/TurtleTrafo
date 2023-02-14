@@ -19,4 +19,4 @@ Hier kannst du direkt ein Kennenlerngespräch mit Miriam oder Markus vereinbaren
 <!-- MeetFox static button end -->
 
 <br><br>
-Gerne kannst du uns auch eine Email mit deinen Fragen zusenden: <a href='mailto:trafo@posteo.net'>trafo@posteo.net</a>
+Gerne kannst du uns auch eine Email mit deinen Fragen zusenden: <a href='mailto:{{site.email}}'>{{site.email}}</a>

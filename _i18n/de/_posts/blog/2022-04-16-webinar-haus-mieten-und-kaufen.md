@@ -66,6 +66,6 @@ Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezü
   <p>KEINE ANMELDUNG MEHR MÖGLICH - bei Interesse bitte eine Email schreiben.</p>
   <p>Solltest Du über kein Paypal-Konto verfügen, kannst Du den Betrag auch auf folgendes Konto überweisen: DE84 4306 0967 8201 2557 01, BIC: GENODEM1GLS, Miriam & Markus Schmidberger oder via Crypto Coins (BTC, ETH, XRD) bezahlen.</p>
 
-  ACHTUNG: Bitte übersende nach Buchung Deine Emailadresse für den Zoom-Link an <a href="mailto:trafo@posteo.net">trafo@posteo.net</a>
+  ACHTUNG: Bitte übersende nach Buchung Deine Emailadresse für den Zoom-Link an <a href="mailto:{{site.email}}">{{site.email}}</a>
 </div>
 </div>

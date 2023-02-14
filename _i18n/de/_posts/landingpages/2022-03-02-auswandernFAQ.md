@@ -8,7 +8,7 @@ description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus De
 
 Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben (in Irland). Wir sind Anfang 2019 aus dem deutschen System ausgestiegen und haben mit 4 Kindern die Welt erkundet. 2021 sind wir in Irland angekommen und haben in County Kerry eine neue Familienbase gefunden.
 
-Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand (siehe Erstelldatum) bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:trafo@posteo.net) und wir ergänzen die Antwort.
+Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand (siehe Erstelldatum) bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:{{site.email}}) und wir ergänzen die Antwort.
 
 # Auswandern aus Deutschland
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -127,7 +127,7 @@ Katharina Walter ([von Celebrate Being](https://celebrate-being.de)) und Markus 
 <b>Nächster Termin: tbd <b><br>
 <a href="https://celebrate-being.de/irland" target=_blank>Anmeldung</a>
 
-Solltet Ihr Interesse an den Aufnahmen der letzten Webinare habt, dann meldet euch bitte per [Email](mailto:trafo@posteo.net) bei uns.
+Solltet Ihr Interesse an den Aufnahmen der letzten Webinare habt, dann meldet euch bitte per [Email](mailto:{{site.email}}) bei uns.
 
 <br>
 ## Turtle Trafo - Familien Transformations Coaching
