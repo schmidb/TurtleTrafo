@@ -1,9 +1,10 @@
-# Angaben gem&auml;&szlig; &sect; 5 TMG
-Turtle Transformation<br>
+Turtle Transformation Limited<br>
 Miriam &amp; Markus Schmidberger<br />
 Drom Upper<br>
 Glenbeigh, Co. Kerry, Ireland<br>
 V93F6X0
+<br>
+VAT: XXX
 
 # Kontakt
 E-Mail: {{site.email}}
