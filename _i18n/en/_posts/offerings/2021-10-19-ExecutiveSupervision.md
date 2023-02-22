@@ -95,9 +95,15 @@ For the sake of simplicity, only the male role is used here. Women and other gen
 
     <div class="col-lg-6">
       <div class="panel panel-info">
-        <div class="panel-heading">Your Balance in personal & business Goals</div>
+        <div class="panel-heading">Your Balance in Personal & Business Goals</div>
         <div class="panel-body">
-          das
+        <p>
+
+        </p>
+        <p>
+        This package contains 6 sessions of 45 minutes Zoom call: <b>1500 Euros</b>
+        </p>
+        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Your Balance" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
     </div>
@@ -106,7 +112,12 @@ For the sake of simplicity, only the male role is used here. Women and other gen
       <div class="panel panel-info">
         <div class="panel-heading">Empathic Leadership</div>
         <div class="panel-body">
-          dsa
+        <p>
+        </p>
+        <p>
+        This package contains 6 sessions of 45 minutes Zoom call: <b>1500 Euros</b>
+        </p>
+        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Empathic Leadership" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
     </div>
@@ -115,7 +126,12 @@ For the sake of simplicity, only the male role is used here. Women and other gen
       <div class="panel panel-info">
         <div class="panel-heading">Well-being & Efficiency</div>
         <div class="panel-body">
-          dsa
+        <p>
+        </p>
+        <p>
+        This package contains 6 sessions of 45 minutes Zoom call: <b>1500 Euros</b>
+        </p>
+        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Efficiency" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
     </div>
@@ -125,7 +141,9 @@ For the sake of simplicity, only the male role is used here. Women and other gen
         <div class="panel-heading">Leadership Supervision Coaching - <b>INDIVIDUAL</b></div>
         <div class="panel-body">
         <p>In individual coaching, we look at the current leadership situation and ideals of work and life. Based on this, we develop the first steps towards the personal vision. We usually need two to three, 60-90 minute conversations for this. Miriam or Markus are available as coaches on request.</p>
-        <b>300€ per 45 min zoom call</b>, billing is based on 15 minute units.
+        <p>
+        <b>300€ per 45 min Zoom call</b>, billing is based on 15 minute units.
+        </p>
         <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Individual" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
