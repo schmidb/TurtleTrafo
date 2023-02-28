@@ -1,10 +1,10 @@
 ---
 layout: offerings
 category: [Services-Firma]
-img: space-shuttle-box.jpg
+img: space-shuttle.jpg
 title: Kickstart your Empathic Leadership
 title_kurz:
-description: Start with yourself and strengthen your empathetic leadership skills.
+description: Start with yourself and strengthen your empathetic leadership skills. Start your next step in your leadership skills career and increase efficiency by empathy.
 angebot: 6 weeks course including online community with tips & tricks
 preis: 2400€
 anfrage: "Kickstart your Empathic Leadership"
@@ -52,7 +52,7 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 ## Hard facts
 #### Dates & Location:
 * <b>Berlin</b>, Pankow, Germany in <b>June 2023, Wednesday 8-9:30am</b> - start your working day with new skills and without missing your first meeting
-* <b>RDI Hub</b>, Killorglin, Ireland in <b>October 2023, Wednesday 8-9:30am</b> - start your working day with new skills and without missing your first meeting
+* <b>RDI Hub</b>, Killorglin, Ireland planned for <b>October 2023</b>
 * Online - starting in Q1 2024
 
 #### Price: 2400€
@@ -100,7 +100,7 @@ Alongside the six 90-minute sessions, you will join our online community and rec
         6 weeks course in Berlin where you start with yourself and strengthen your empathetic leadership skills.
         </p>
         <p>
-        This package contains 6 trainings of 90 minutes & access to the online community in Mighty Networks: <b>2400 Euros</b>
+        This package contains 6 trainings of 90 minutes & access to the online community in Mighty Networks: <b>2400 Euros per person</b>
         </p>
         <p><a href="mailto:{{ site.email }}?subject=Kickstart your Empathic Leadership - BERLIN" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
@@ -116,9 +116,9 @@ Alongside the six 90-minute sessions, you will join our online community and rec
         6 weeks course in RDI Hub, Ireland where you start with yourself and strengthen your empathetic leadership skills.
         </p>
         <p>
-        This package contains 6 trainings of 90 minutes & access to the online community in Mighty Networks: <b>2400 Euros</b>
+        This package contains 6 trainings of 90 minutes & access to the online community in Mighty Networks: <b>2400 Euros per person</b>
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Kickstart your Empathic Leadership - RDI Hub" target="_blank" class="btn btn-primary">Book now</a></p>
+        <p><a href="mailto:{{ site.email }}?subject=Kickstart your Empathic Leadership - RDI Hub" target="_blank" class="btn btn-primary">Pre-register now</a></p>
         </div>
       </div>
     </div>
