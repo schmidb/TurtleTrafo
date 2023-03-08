@@ -79,6 +79,17 @@ Alongside the six 90-minute sessions, you will join our online community and rec
 * Session 6: tbd
 
 <br>
+<div class="container">
+  <div class="row">
+        <div class="embed-responsive embed-responsive-16by9">
+                    <center>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Yc26isLdyII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </center>
+          </div>
+  </div>
+</div>
+
+<br>
 ## What you Get
 * 6 training sessions
 * Personality and leadership development
