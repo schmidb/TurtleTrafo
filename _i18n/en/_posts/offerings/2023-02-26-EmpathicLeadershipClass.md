@@ -50,7 +50,7 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 <br>
 
 ## Hard facts
-#### Dates & Location:
+#### Next Dates & Location:
 * <b>Berlin</b>, Pankow, Germany - <b>June + July 2023</b>
   <br>Saturday: 17.6 + 24.6. + 1.7. + 8.7. + 15.7. + 22.7., 9-10:30am
 * <b>RDI Hub</b>, Killorglin, Ireland - <b>October + November 2023</b>
@@ -71,12 +71,24 @@ This 6 week empathy kickstart includes 3 weeks of personal development and perso
 Alongside the six 90-minute sessions, you will join our online community and receive inspiration twice per week to bring empathetic leadership into your daily business. In addition, we are at your disposal for your questions and challenges in the transformation of your leadership style.
 
 #### Agenda:
-* Session 1: tbd
-* Session 2: tbd
-* Session 3: tbd
-* Session 4: tbd
-* Session 5: tbd
-* Session 6: tbd
+* Session 1: What is empathy and self-empathy?<br>
+*Basically the same, except that you are as empathetic to others as you are to yourself. Empathy is the ability to deal constructively with emotions in general. This ability allows you to see, fall in love, and connect with others in a caring and calm way.*
+
+* Session 2: Making connections and empathic leadership<br>
+*Every communication contains your own reality and the reality of your counterpart. To create an empathic exchange, you need to see, understand and connect the different realities.*
+
+* Session 3: Your emotions and your mind<br>
+*Most of our emotions are not consciously perceived. Instead, we have thought and reaction patterns. To change this, we need to quiet the mind and connect on an emotional level.*
+
+* Session 4: Active listening and authentic communication<br>
+*We will use all your new skills to make connections, manage your emotions, and listen to other people with an open and empathetic mind. It will create a new experience in communicating with your employees.*
+
+* Session 5: Projecting stories onto others<br>
+*When you start actively listening to your thoughts, you will see many assumptions. We don't know if they're true or not, and this opens the door for our subconscious to project stories onto other people. As we begin to unravel these stories, we will find hidden truths about ourselves, and often a very different story behind the other person.*
+
+* Session 6: Observation and empathy in meetings
+*Having many people in a room brings many different emotions and energies into action. As an empathetic leader, you are able to identify everyone's needs and lead your meeting to efficient outcomes.*
+
 
 <br>
 <div class="container">
