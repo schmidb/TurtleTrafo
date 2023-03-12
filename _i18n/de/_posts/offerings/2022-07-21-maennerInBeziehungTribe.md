@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: MiB_box.jpg
-category: [Services-Jahr]
+category: Services-Jahr
 title: Männer in Beziehung - Tribe
 permalink: MiB
 description: "Eine Männergruppe mit dem Potential Beziehungen neu zu leben."

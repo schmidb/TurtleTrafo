@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: miriam_duenen.jpg
-category: [Services-Jahr]
+category: Services-Jahr
 title: Radical Transformation Jahresprogramm
 permalink: RTaUM
 description: "Eine Gruppe mit dem Potential gemeinsam zu wachsen."

@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: miriam_yoga_box.jpg
-category: [Services-Familie]
+category: Services-Familie
 title: Yoga with Miriam
 description: "Miriam is running regular Hatha oriented Yoga classes in Glenbeigh Community Center which connects you to your body and mind."
 angebot: Every Wednesday 8-9 p.m. and regular courses.

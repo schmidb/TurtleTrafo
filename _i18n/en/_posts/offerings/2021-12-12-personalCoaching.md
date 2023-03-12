@@ -1,6 +1,6 @@
 ---
 layout: offerings
-category: [Services-Familie]
+category: Services-Familie
 img: space-shuttle-box.jpg
 title: Live in harmony with yourself - Transformations Coaching
 title_kurz: Personal coaching & advice

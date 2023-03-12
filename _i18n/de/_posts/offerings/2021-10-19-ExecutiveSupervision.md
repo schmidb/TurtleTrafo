@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: businessman_box.jpg
-category: [Services-Firma]
+category: Services-Firma
 title: Klarheit und Freude für Manager - Führungskräfte Supervision
 description: "Als Manager musst Du täglich viele Entscheidungen treffen. Wir bieten
 Dir eine ganzheitliche Supervision an und betrachten das Zusammenspiel all Deiner

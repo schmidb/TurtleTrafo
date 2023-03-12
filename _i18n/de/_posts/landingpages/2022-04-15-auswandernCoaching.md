@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: travel_box.jpg
-category: [Dont-Show-Frontpage]
+category: Dont-Show-Frontpage
 title: Ganzheitliches Auswandern-Coaching
 permalink: auswandernCoaching
 description: "Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben im Ausland."

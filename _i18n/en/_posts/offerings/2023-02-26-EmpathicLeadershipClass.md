@@ -1,6 +1,6 @@
 ---
 layout: offerings
-category: [Services-Firma]
+category: Services-Firma
 img: space-shuttle.jpg
 title: Kickstart your Empathic Leadership
 title_kurz:

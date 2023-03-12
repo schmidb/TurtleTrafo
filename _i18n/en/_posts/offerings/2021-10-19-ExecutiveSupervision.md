@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: businessman.jpg
-category: [Services-Firma]
+category: Services-Firma
 title: Clarity and Joy for Leaders - Executive Supervision Coaching
 description: "As a leader you have to make many decisions every day. We offer you holistic supervision coaching and consider the interaction of all your topics."
 angebot: 45 min individual coaching with Miriam or Markus
@@ -50,33 +50,33 @@ Colleagues, team members, internal coaches and HR business partners are good spa
   </div>
 <br>
 
-Our executive supervision coaching covers topics such as personal life, personal development, C-level relationships, key employees, organizational structures, organizational strategies & dynamics & decisions, transformation processes and culture changes. We always look at the interaction of all topics and pursue a holistic view of the situation.
+Our executive supervision coaching covers topics such as personal life, personal development, C-level relationships, key employees, organizational structures, organizational strategies & dynamics & decisions, transformation processes and culture changes. We always look at the integration of all topics and pursue a holistic view of the situation.
 
 <br>
 ## Your benefits
-* You develop clarity in all areas of your life and you get support in the efficient fulfillment of professional and private goals.
+* You develop clarity in all areas of your life and you get support for the efficient fulfillment of professional and private goals.
 * You learn to react more appropriately and resource-efficiently in difficult professional situations.
 * You strengthen your ability to deal with conflict and negotiate.
-* Supervision also provides emotional relief.
+* Supervision also provides emotional and stress relief.
 
 <br>
 ## Possible areas of focus:
 * Gain and keep an overview in the work environment and in private
 * Strategic issues for company, life, family
 * Discover and develop professional skills
-* Personnel issues
+* Personal challenges
 * Conflicts at personal, team and organizational level
-* Recognizing and avoiding dangers and fears
+* Recognizing and effectively dealing with fear and changes
 * Overwork and excessive demands - burnout?
-* Misunderstood or unexpected feedback
+* Dealing with (unexpected) feedback
 * Build security and authenticity
 
 <br>
 ## Different forms of supervision coaching:
-* individual - leader and coach
-* team - team, leader and coach. Together we develop new and common solutions.
-* case / project - leader, (project manager) and coach. We put a focus on special case or project.
-* leadership team - leadership team and coach. Together we reflect the leadership activities in the company.
+* individual supervision: leader gets support by coach
+* team supervision: team & leader get support by coach. Together we develop new and common solutions.
+* case / project supervision:- leader (and project manager) gets support by coach. We put a focus on special case or project.
+* leadership team  supervision: leadership team gets support by coach. Together we reflect the leadership activities in the company.
 
 <br>
 ## Who is leadership supervision coaching for?
@@ -103,9 +103,9 @@ For the sake of simplicity, only the male role is used here. Women and other gen
           <li>Think about your business goals</li>
           <li>Reflect and define your personal goals</li>
           <li>Align and prioritize all your goals</li>
-          <li>Optimize your work- and lifetime and structure</li>
+          <li>Optimize your work- and lifetime, and life structure</li>
           <li>Get clarity about your work and life vision & goals</li>
-          <li>Your own process to reflect and monitor your personal and business goals</li>
+          <li>Create your own process to reflect and monitor your personal and business goals</li>
         </ul>
         </p>
         <p>
@@ -147,7 +147,7 @@ For the sake of simplicity, only the male role is used here. Women and other gen
         <div class="panel-heading">Well-being & Efficiency</div>
         <div class="panel-body">
         <p>
-        The future of work is about putting people and purpose before process. Employee well-being and experience gain a competitive advantage. But how to avoid teams still being efficient, creating business value and delivering on time? Don't efficiency and well-being contradict each other? As a leader, this may sound like a very difficult balancing act between efficiency, joy, well-being and business value. Following a few simple rules, well-being and performance go together, and well-being creates more efficiency. Read more about how well-being creates productivity, e.g. at <a href="https://www.forbes.com/sites/forbesbooksauthors/2019/05/01/workplace-productivity-promoting-well-being-efficiency-effectiveness" target=_blank>Forbes</a>.<br>
+        The future of work is about putting people and purpose before process. Employee well-being and experience gain a competitive advantage. But how to ensure teams still being efficient, creating business value and delivering on time? Don't efficiency and well-being contradict each other? As a leader, this may sound like a very difficult balancing act between efficiency, joy, well-being and business value. Following a few simple rules, well-being and performance go together, and well-being creates more efficiency. Read more about how well-being creates productivity, e.g. at <a href="https://www.forbes.com/sites/forbesbooksauthors/2019/05/01/workplace-productivity-promoting-well-being-efficiency-effectiveness" target=_blank>Forbes</a>.<br>
         In this supervision leadership coaching package, we begin to improve your well-being and that of your team:
         <ul>
           <li>What is well-being & efficiency in your company?</li>

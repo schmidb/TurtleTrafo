@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: archetypen2022/retreat.png
-category: [Dont-Show-Frontpage]
+category: Dont-Show-Frontpage
 title: Archetypinnen Retreat - Erwecke und lebe die weibliche Kraft in Dir
 permalink: archetypinnenretreat2022
 description: "Begegne Deinen inneren Archetypinnen mithilfe von Yoga, bewusster Ernährung und direkter Arbeit mit den Emotionsenergien."

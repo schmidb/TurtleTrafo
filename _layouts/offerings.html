@@ -22,6 +22,78 @@
 		<!-- ShareThis END -->
 		<br>
 
+{% if page.category != "Dont-Show-Frontpage" %}
+		<div class="content-pages">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<center><h2>{% t empfehlungText %}</h2></center>
+					</div>
+					<div class="col-lg-12">
+
+										<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+												<!-- Wrapper for slides -->
+												<div class="carousel-inner">
+													{% assign i = 0 %}
+													{% for offering in site.categories[ page.category ] %}
+															{% if offering.title != page.title %}
+															{% assign i = i | plus:1 %}
+															{% if i == 1 %}
+																	<div class="item active">
+															{% else %}
+																	<div class="item">
+															{% endif %}
+																	<div class="col-md-3 col-lg-offset-2">
+																		<br>
+																		{% if offering.img %}
+																		<img width="200" class="thumbnail" src="/img/services/{{offering.img}}" alt="{{offering.title}}" onerror="this.src='/img/services/{{offering.img | replace: "webp", "jpg" }}'">
+																		{% endif %}
+																		<br>
+																	</div>
+																	<div class="col-md-5 carousel-content">
+																		<br>
+																		<b>
+																			{% if offering.externerLinkMehr == "" %}
+																					<a href="{{ offering.externerLink }}" target="_blank">
+																			{% else %}
+																					<a href="{{ site.baseurl }}{{ offering.url }}">
+																			{% endif %}
+																			{{ offering.title }}</a></b><br>
+																		{{offering.description}}
+																		<p>{% if offering.digistore24 %}
+																					<a href="{{offering.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
+																					<a href="{{ site.baseurl }}{{ offering.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a></p>
+																			{% elsif offering.externerLink %}
+																					<a href="{{offering.externerLink}}" target="_blank" class="btn btn-primary" role="button">{{offering.externerLinkName}}</a>
+																					{% if offering.externerLinkMehr != "" %} <a href="{{ site.baseurl }}{{ offering.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a> {% endif %}
+																			{% else %}
+																					<a href="mailto:{{ site.email }}?subject={{offering.anfrage}}" class="btn btn-primary" role="button">{% t JetztBuchen %}</a>
+																					<a href="{{ site.baseurl }}{{ offering.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
+																			{% endif %}
+																			</p>
+
+																	</div>
+																</div>
+																{% endif %}
+														{% endfor %}
+
+													</div>
+												<!-- Controls -->
+												<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+													<span class="glyphicon glyphicon-chevron-left"></span>
+												</a>
+												<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+													<span class="glyphicon glyphicon-chevron-right"></span>
+												</a>
+											</div>
+										</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	{% endif %}
+
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}

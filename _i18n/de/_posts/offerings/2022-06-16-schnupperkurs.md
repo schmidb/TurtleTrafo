@@ -1,10 +1,10 @@
 ---
 layout: offerings
 img: cat_box.webp
-category: [Services-Familie]
+category: Services-Familie
 title: "Schnupperkurs von 'Innen nach Außen'"
 description: "An Hand von Beispielen bekommst du einen Eindruck, was
-es heißt Themen von 'Innen nach Außen' zu bearbeiten."
+es heißt Themen von 'Innen nach Außen' zu bearbeiten: Sehnsucht, Unmöglich, Den Zug anhalten, Dein Nordstern"
 angebot: 4 Videos und 4 PDFs mit Impulsübungen und Inspirationen
 preis: für 99€
 digistore24: https://www.digistore24.com/product/448914

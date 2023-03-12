@@ -1,7 +1,7 @@
 ---
 layout: default
 img: advent.webp
-category: ServicesArchive
+category: Services-Archive
 title: "Impulse - Coaching: Bewusster Advent"
 showfront: false
 description: |

@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: financial_box.jpg
-category: [Dont-Show-Frontpage]
+category: Dont-Show-Frontpage
 title: Daten ganzheitlich & menschlich integrieren - Daten Strategie Supervision
 title_kurz: Daten ganzheitlich & menschlich integrieren
 description: "Wir bieten Dir eine ganzheitliche Supervision zu deinen Herausforderungen mit Daten und wir unterstützen Dich bei der erfolgreichen Umsetzung deiner Daten Strategie innerhalb der Organisation."

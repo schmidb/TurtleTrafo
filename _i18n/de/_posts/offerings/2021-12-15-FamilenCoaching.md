@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: schmidberger2020_box.webp
-category: [Services-Familie]
+category: Services-Familie
 title: Neue Wege als Familie gehen - Familien Transformation
 description: "Wir begleiten dich zu Deinen
 Familienträumen und zeigen Dir mögliche Wege, wie Entspannung bei Dir und in

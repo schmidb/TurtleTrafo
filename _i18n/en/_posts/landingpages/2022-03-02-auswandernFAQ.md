@@ -1,6 +1,7 @@
 ---
 layout: offerings
 title: Emigrate & Live Free FAQ
+category: Dont-Show-Frontpage
 permalink: auswandernFAQ
 description:
 ---

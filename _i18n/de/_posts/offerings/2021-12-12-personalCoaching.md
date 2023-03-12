@@ -1,10 +1,10 @@
 ---
 layout: offerings
-category: [Services-Familie]
+category: Services-Familie
 img: space-shuttle-box.jpg
 title: Lebe im Einklang mit Dir selber - Transformations Coaching
 title_kurz: Persönliches Coaching & Beratung
-description: Wir freuen uns darauf, ein Stück Deines Weges mit Dir gehen zu dürfen. Wage dich auf den Weg von 'Innen nach Aussen'. Ein Coaching das Dich, wenn du willst, direkt mit dem Kern der Sache konfrontiert. Alles liegt in Dir und ermöglicht Dir eine Horizonterweiterung.
+description: "Wage dich auf den Weg von 'Innen nach Aussen'. Ein Coaching das Dich, wenn du willst, direkt mit dem Kern der Sache konfrontiert. Alles liegt in Dir und ermöglicht Dir eine Horizonterweiterung: sehen, anerkennen, verändern"
 angebot: 45 - 60 Minuten Einzelcoaching
 preis: ab 150€ für 45 min Coaching
 anfrage: Personal-Coaching

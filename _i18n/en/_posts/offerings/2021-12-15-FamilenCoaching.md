@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: schmidberger2020_box.webp
-category: [Services-Familie]
+category: Services-Familie
 title: Going new ways as a family - family transformation
 description: "We accompany you to your family dreams and show you possible ways how relaxation can reach you and your family."
 angebot: 1 x family zoom call, 2 x individual coaching and telegram group

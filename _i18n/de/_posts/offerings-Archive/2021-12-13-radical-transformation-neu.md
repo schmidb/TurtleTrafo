@@ -1,6 +1,6 @@
 ---
 layout: offerings
-category: [Dont-Show-Frontpage]
+category: Dont-Show-Frontpage
 img: space-shuttle-box.jpg
 title: Radical Transformation - direkt ran an den Kern der Sache
 title_kurz: Radical Transformation - direkt ran an den Kern
