@@ -75,7 +75,7 @@ Our executive supervision coaching covers topics such as personal life, personal
 ## Different forms of supervision coaching:
 * individual supervision: leader gets support by coach
 * team supervision: team & leader get support by coach. Together we develop new and common solutions.
-* case / project supervision:- leader (and project manager) gets support by coach. We put a focus on special case or project.
+* case / project supervision: leader (and project manager) gets support by coach. We put a focus on special case or project.
 * leadership team  supervision: leadership team gets support by coach. Together we reflect the leadership activities in the company.
 
 <br>
