@@ -36,18 +36,40 @@ unserem [Auswandern & freies Familienleben FAQ](/auswandernFAQ).
 
 <br>
 ## Preise & Buchung
-<div class="panel panel-info">
-<div class="panel-heading">Familien-Transformations-Coaching - <b>AUSWANDERN PACKET</b></div>
-<div class="panel-body">
-  <p>Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben und wir arbeiten bedürfnisorientiert mit jedem Einzelnen von euch. Zusätzlich gibt es eine gemeinsame Telegram-Gruppe in der wir zeitnah eure aktuellen Fragen beantworten bzw. euch Inspirationen schicken.</p>
-  <ul>
-  <li>1 x 1.5h Family Zoom Coaching mit Miriam und Markus pro Monat</li>
-  <li>2 x 45 min Einzelcoaching mit Miriam oder Markus pro Monat</li>
-  <li>Telegram Gruppe für tägliche Begleitung & Fragen & Inspirationen</li>
-  </ul>
-  <b>700€ pro Monat</b> oder <b>3500€ für 6 Monate</b><br>
-  (zusätzliche Einzelcoachings können für 150€ pro 45 Minuten dazugebucht werden)
-  <p><a href="mailto:{{ site.email }}?subject=Familien-Transformations-Coaching - Auswandern Package" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+<div class="container">
+  <div class="row">
+
+    <div class="col-lg-6">
+      <div class="panel panel-info">
+      <div class="panel-heading">Familien-Transformations-Coaching - <b>AUSWANDERN PACKET</b></div>
+      <div class="panel-body">
+        <p>Gemeinsam betrachten wir eure aktuelle Lebenssituation und eure Wunschvorstellung vom Leben und wir arbeiten bedürfnisorientiert mit jedem Einzelnen von euch. Zusätzlich gibt es eine gemeinsame Telegram-Gruppe in der wir zeitnah eure aktuellen Fragen beantworten bzw. euch Inspirationen schicken.</p>
+        <ul>
+        <li>1 x 1.5h Family Zoom Coaching mit Miriam und Markus pro Monat</li>
+        <li>2 x 45 min Einzelcoaching mit Miriam oder Markus pro Monat</li>
+        <li>Telegram Gruppe für tägliche Begleitung & Fragen & Inspirationen</li>
+        </ul>
+        <b>700€ pro Monat</b> oder <b>3500€ für 6 Monate</b><br>
+        (zusätzliche Einzelcoachings können für 150€ pro 45 Minuten dazugebucht werden)
+        <p><a href="mailto:{{ site.email }}?subject=Familien-Transformations-Coaching - Auswandern Package" target="_blank" class="btn btn-primary">Jetzt buchen</a></p>
+      </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6">
+      <div class="panel panel-info">
+      <div class="panel-heading"><b>Auswander-Coach.com</b></div>
+      <div class="panel-body">
+      <p>
+      <a href="https://auswander-coach.com" target="_blank">
+      <img src="/img/services/ac_sm_werbevorlagen-coaches.jpg">
+      </a>
+      </p>
+      <p><a href="https://auswander-coach.com" target="_blank" class="btn btn-primary">Mehr Angebote auf</a></p>
+      </div>
+      </div>
+    </div>
+
 </div>
 </div>
 
