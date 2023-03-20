@@ -51,8 +51,8 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 
 ## Hard facts
 #### Next Dates & Location:
-* <b>Berlin</b>, Pankow, Germany - <b>June + July 2023</b>
-  <br>Saturday: 17.6 + 24.6. + 1.7. + 8.7. + 15.7. + 22.7., 9-10:30am
+* <b>Berlin</b>, [Sinnergie-Berlin](https://sinnergie-berlin.de/kontaktieren-sie-uns9830119b), Pankow, Germany - <b>June + July 2023</b>
+  <br>Tuesday: 13.6 + 20.6. + 27.6. + 4.7. + 11.7. + 18.7. , 8:30-10:00am
 * <b>RDI Hub</b>, Killorglin, Ireland - <b>October + November 2023</b>
 * <b>online</b> - starting in Q1 2024
 * or book <b>your onsite training</b> for your company
