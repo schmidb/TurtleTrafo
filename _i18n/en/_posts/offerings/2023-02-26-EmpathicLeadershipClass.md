@@ -52,7 +52,7 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 ## Hard facts
 #### Next Dates & Location:
 * <b>Berlin</b>, [Sinnergie-Berlin](https://sinnergie-berlin.de/kontaktieren-sie-uns9830119b), Pankow, Germany - <b>June + July 2023</b>
-  <br>Tuesday: 13.6 + 20.6. + 27.6. + 4.7. + 11.7. + 18.7. , 8:30-10:00am
+  <br>Tuesday: 13.6 and 18.7. , 8:30-11:30am
 * <b>RDI Hub</b>, Killorglin, Ireland - <b>October + November 2023</b>
 * <b>online</b> - starting in Q1 2024
 * or book <b>your onsite training</b> for your company
@@ -68,26 +68,30 @@ Any person leading a team: C-Level, director, manager, team leader, ...
 Empathy is a big new buzzword in leadership. It is the link between managers and employees. Unfortunately, true empathy only comes from connecting with and empathizing with yourself.
 This 6 week empathy kickstart includes 3 weeks of personal development and personal immersion in your values, emotions and behaviors as well as tools to deal with yourself. The other 3 weeks we focus on tools and methods to lead through empathy.
 
-Alongside the six 90-minute sessions, you will join our online community and receive inspiration twice per week to bring empathetic leadership into your daily business. In addition, we are at your disposal for your questions and challenges in the transformation of your leadership style.
+Alongside the two 3 hour sessions, you will join our online community and receive inspiration once per week to bring empathetic leadership into your daily business. In addition, we are at your disposal for your questions and challenges in the transformation of your leadership style.
 
 #### Agenda:
-* Session 1: What is empathy and self-empathy?<br>
+##### Day 1 - beginning of course:
+* What is empathy and self-empathy?<br>
 *Basically the same, except that you are as empathetic to others as you are to yourself. Empathy is the ability to deal constructively with emotions in general. This ability allows you to see, fall in love, and connect with others in a caring and calm way.*
-
-* Session 2: Making connections and empathic leadership<br>
-*Every communication contains your own reality and the reality of your counterpart. To create an empathic exchange, you need to see, understand and connect the different realities.*
-
-* Session 3: Your emotions and your mind<br>
+* Your emotions and your mind<br>
 *Most of our emotions are not consciously perceived. Instead, we have thought and reaction patterns. To change this, we need to quiet the mind and connect on an emotional level.*
+* Mindful working and living
 
-* Session 4: Active listening and authentic communication<br>
+##### Inspirations:
+* Making connections and empathic leadership<br>
+*Every communication contains your own reality and the reality of your counterpart. To create an empathic exchange, you need to see, understand and connect the different realities.*
+* Active listening and authentic communication<br>
 *We will use all your new skills to make connections, manage your emotions, and listen to other people with an open and empathetic mind. It will create a new experience in communicating with your employees.*
-
-* Session 5: Projecting stories onto others<br>
-*When you start actively listening to your thoughts, you will see many assumptions. We don't know if they're true or not, and this opens the door for our subconscious to project stories onto other people. As we begin to unravel these stories, we will find hidden truths about ourselves, and often a very different story behind the other person.*
-
-* Session 6: Observation and empathy in meetings
+* Observation and empathy in meetings
 *Having many people in a room brings many different emotions and energies into action. As an empathetic leader, you are able to identify everyone's needs and lead your meeting to efficient outcomes.*
+
+##### Day 2 - end of course
+* Projecting stories onto others<br>
+*When you start actively listening to your thoughts, you will see many assumptions. We don't know if they're true or not, and this opens the door for our subconscious to project stories onto other people. As we begin to unravel these stories, we will find hidden truths about ourselves, and often a very different story behind the other person.*
+* Empathy in your daily life
+
+
 
 
 <br>
