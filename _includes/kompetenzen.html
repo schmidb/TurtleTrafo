@@ -24,7 +24,11 @@
               </div>
               <ul>
               {% for post in site.categories.Services-Firma reversed%}
+              {% if post.externerLink %}
+                <li><a href="{{ post.externerLink }}" target="_blank">{{ post.title }}</a></li>
+              {% else %}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+              {% endif %}
               {% endfor %}
               </ul>
               <a href="{{ site.baseurl }}/business" class="btn btn-primary" role="button">{% t kompetenzen.unsereAngebote %}</a>

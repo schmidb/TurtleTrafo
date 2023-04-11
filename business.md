@@ -84,12 +84,16 @@ subTitle: kompetenzen.business.subTitle
                       <p>{{ post.angebot }}</p>
                       <p><b>{{ post.preis }}</b></p>
                       <p>{% if post.digistore24 %}
-                        <a href="{{post.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
-                          {% else %}
-                        <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">{% t JetztBuchen %}</a>
+                            <a href="{{post.digistore24}}" class="btn btn-primary" role="button">Jetzt buchen - Digistore24</a>
+                            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
+                        {% elsif post.externerLink %}
+                            <a href="{{post.externerLink}}" target="_blank" class="btn btn-primary" role="button">{{post.externerLinkName}}</a>
+                            {% if post.externerLinkMehr != "" %} <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a> {% endif %}
+                        {% else %}
+                            <a href="mailto:{{ site.email }}?subject={{post.anfrage}}" class="btn btn-primary" role="button">{% t JetztBuchen %}</a>
+                            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
                         {% endif %}
-                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-default" role="button">{% t mehrlink %}</a>
-                      </p>
+                        </p>
                     </div>
                   </div>
                 </div>
