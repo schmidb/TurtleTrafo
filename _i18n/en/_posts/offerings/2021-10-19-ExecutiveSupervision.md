@@ -2,10 +2,10 @@
 layout: offerings
 img: businessman.jpg
 category: Services-Firma
-title: Clarity and Joy for Leaders - Executive Supervision Coaching
+title: Clarity and Joy for Leaders - Leadership Supervision Coaching
 description: "As a leader you have to make many decisions every day. We offer you holistic supervision coaching and consider the interaction of all your topics."
-angebot: 45 min individual coaching with Miriam or Markus
-preis: from 300€ for 45 min coaching or 1800€ for 3 months
+angebot: packages for individual supervision with Miriam or Markus
+preis: from 1350€ for 3 months supervision
 anfrage: Your manager supervision coaching
 permalink: executive-supervision
 ---
@@ -50,7 +50,7 @@ Colleagues, team members, internal coaches and HR business partners are good spa
   </div>
 <br>
 
-Our executive supervision coaching covers topics such as personal life, personal development, C-level relationships, key employees, organizational structures, organizational strategies & dynamics & decisions, transformation processes and culture changes. We always look at the integration of all topics and pursue a holistic view of the situation.
+Our leadership supervision coaching covers topics such as personal life, personal development, C-level relationships, key employees, organizational structures, organizational strategies & dynamics & decisions, transformation processes and culture changes. We always look at the integration of all topics and pursue a holistic view of the situation.
 
 <br>
 ## Your benefits
@@ -58,6 +58,7 @@ Our executive supervision coaching covers topics such as personal life, personal
 * You learn to react more appropriately and resource-efficiently in difficult professional situations.
 * You strengthen your ability to deal with conflict and negotiate.
 * Supervision also provides emotional and stress relief.
+* supervision trains your skills for self-reflection and self-responsibility. It aims to make you independent of the supervision coach.
 
 <br>
 ## Possible areas of focus:
@@ -83,19 +84,38 @@ Our executive supervision coaching covers topics such as personal life, personal
 For the sake of simplicity, only the male role is used here. Women and other genders are also cordially discussed:
 * Board members, managing directors, committee members
 * C-level managers
-* Specialists and executives, team leaders
-* Mediators and conflict managers
-* Project Manager
-* Teacher
+* Executives, directors, head of's
+* Team leaders
+
 
 <br>
 ## Packages & Prices
+We do not offer single supervision sessions. Supervision aims to improve your self-reflection
+skills and requires at least 3–5 sessions in a row.
+
 <div class="container">
   <div class="row">
 
+  <div class="col-lg-6">
+     <div class="panel panel-info">
+       <div class="panel-heading"><b>Executive Supervision Coaching</b></div>
+       <div class="panel-body">
+       <p><i>You have no time? You have to lead, make decisions and deliver. Now!</i></p>
+      <p><a href="https://hbr.org/2022/03/dont-underestimate-the-power-of-self-reflection">HBR</a> presents statistics showing that reflection makes you a better leader. We're here to help you relax and improving the quality of your life while delivering and performing at the same time.</p>
+       <p>Our
+       executive supervision coaching is designed for your needs and your time table as an
+       executive: 30 min supervision session every two weeks and 15 min self-reflection every morning.</p>
+       <p>
+       This package contains 6 sessions of 30 minutes Zoom call & two weekly check-ins via email or messenger: <b>2000 Euros</b>
+       </p>
+       <p><a href="mailto:{{ site.email }}?subject=Executive Supervision Coaching" target="_blank" class="btn btn-primary">Book now</a></p>
+       </div>
+     </div>
+   </div>
+
     <div class="col-lg-6">
       <div class="panel panel-info">
-        <div class="panel-heading">Your Balance in Personal & Business Goals</div>
+        <div class="panel-heading"><b>Your Balance in Personal & Business Goals</b></div>
         <div class="panel-body">
         <p>
         It is very common to have business goals, or some companies use OKRs. Do you also have personal goals? If you are also interested in personal growth, we strongly encourage you to define your personal goals. But how do you bring personal and business goals together and in harmony? How can it be avoided that these goals do not contradict or compete?<br> In this supervision leadership coaching package, we bring clarity and balance to your personal and business goals.
@@ -111,14 +131,14 @@ For the sake of simplicity, only the male role is used here. Women and other gen
         <p>
         This package contains 6 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>1650 Euros</b>
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Your Balance" target="_blank" class="btn btn-primary">Book now</a></p>
+        <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - Your Balance" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
     </div>
 
     <div class="col-lg-6">
       <div class="panel panel-info">
-        <div class="panel-heading">Empathic Leadership</div>
+        <div class="panel-heading"><b>Empathic Leadership</b></div>
         <div class="panel-body">
         <p>
         Leadership is all about the relationship with your employees. Empathy can be described as the glue in your relationships. If you're interested in leading high-performing teams with a happy work culture and low retention rate, it's time to become an empathetic leader. Read more about the need or more empathic leadership, e.g. at <a href="https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research" target=_blank>Forbes</a>.<br>
@@ -137,14 +157,14 @@ For the sake of simplicity, only the male role is used here. Women and other gen
         <p>
         This package contains 8 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>2250 Euros</b>
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Empathic Leadership" target="_blank" class="btn btn-primary">Book now</a></p>
+        <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - Empathic Leadership" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
     </div>
 
     <div class="col-lg-6">
       <div class="panel panel-info">
-        <div class="panel-heading">Well-being & Efficiency</div>
+        <div class="panel-heading"><b>Well-being & Efficiency</b></div>
         <div class="panel-body">
         <p>
         The future of work is about putting people and purpose before process. Employee well-being and experience gain a competitive advantage. But how to ensure teams still being efficient, creating business value and delivering on time? Don't efficiency and well-being contradict each other? As a leader, this may sound like a very difficult balancing act between efficiency, joy, well-being and business value. Following a few simple rules, well-being and performance go together, and well-being creates more efficiency. Read more about how well-being creates productivity, e.g. at <a href="https://www.forbes.com/sites/forbesbooksauthors/2019/05/01/workplace-productivity-promoting-well-being-efficiency-effectiveness" target=_blank>Forbes</a>.<br>
@@ -160,12 +180,40 @@ For the sake of simplicity, only the male role is used here. Women and other gen
         <p>
         This package contains 5 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>1350 Euros</b>
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Efficiency" target="_blank" class="btn btn-primary">Book now</a></p>
+        <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - Efficiency" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
       </div>
     </div>
 
-    <div class="col-lg-6">
+
+     <div class="col-lg-6">
+        <div class="panel panel-info">
+          <div class="panel-heading"><b>Newbie Leadership Supervision</b></div>
+          <div class="panel-body">
+          <p>60% of new managers fail within the first 24 months in their new role, according to research from CEB Global. Main reasons are the wrong focus and missing people
+          leader skills.</p>
+          <p>
+          In this supervision leadership coaching package, we begin to reflect and improve your
+          management skills and guide you within the first 6-24 months:
+          <ul>
+            <li>You business & private goals</li>
+            <li>All about your team</li>
+            <li>Priorities and goal settings</li>
+            <li>Communication and listening</li>
+            <li>Efficiency and well-being</li>
+            <li>Authenticity and empathy</li>
+            <li>Your personal superpower as a manager</li>
+          </ul>
+          </p>
+          <p>
+          This package contains 10 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>2500 Euros</b>
+          </p>
+          <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - For Newbies" target="_blank" class="btn btn-primary">Book now</a></p>
+          </div>
+        </div>
+      </div>
+
+  <!--   <div class="col-lg-6">
       <div class="panel panel-info">
         <div class="panel-heading">Leadership Supervision Coaching - <b>INDIVIDUAL</b></div>
         <div class="panel-body">
@@ -177,6 +225,8 @@ For the sake of simplicity, only the male role is used here. Women and other gen
         </div>
       </div>
     </div>
+
+    -->
 
   </div>
 </div>
