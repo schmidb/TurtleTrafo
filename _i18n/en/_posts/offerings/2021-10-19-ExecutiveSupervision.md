@@ -233,29 +233,26 @@ skills and requires at least 3–5 sessions in a row.
 
 Miriam or Markus are available as coaches on request. All packages can also be designed as workshops for your team or as workshops for your entire management team. Please contact us via email {{site.email}} for your individual offer.
 
-<!--
+
 <br>
 ## FAQ
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
   <div class="panel panel-default">
-
-    <div class="panel-heading" role="tab" id="headingOne">
+  {% for post in site.categories.offeringsFAQen reversed %}
+    {% if post.tags contains "supervision" %}
+    <div class="panel-heading" role="tab" id="{{post.anker}}Head">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-          Treffen wir uns persönlich oder findet die Supervision online statt?
+        <a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#{{post.anker}}Role" aria-expanded="false" aria-controls="{{post.anker}}">
+          {{post.title}}
         </a>
       </h4>
     </div>
-
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="{{post.anker}}Role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="{{post.anker}}Head">
       <div class="panel-body">
-        Aktuell bieten wir coaching nur online an.
+        {{post.content}}
       </div>
     </div>
-
+    {% endif %}
+  {% endfor %}
   </div>
-
-  </div>
-
--->
+</div>
