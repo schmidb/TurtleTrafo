@@ -61,6 +61,25 @@ Our leadership supervision coaching covers topics such as personal life, persona
 * supervision trains your skills for self-reflection and self-responsibility. It aims to make you independent of the supervision coach.
 
 <br>
+<center>
+<div class="container">
+  <div class="row">
+
+  <div class="col-md-6 col-md-offset-3">
+     <div class="panel panel-info center">
+       <div class="panel-heading"><b>Your personal & free Supervision Coaching</b></div>
+       <div class="panel-body">
+        <p>It's about trust and relationship. Book your first personal supervision coaching today. Together we will find out whether our offering will bring advantages for your business and private life.
+        </p>
+        <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - free supervision coaching" target="_blank" class="btn btn-primary">Book a free get to know supervision</a></p>
+       </div>
+      </div>
+  </div>
+  </div>
+</div>
+</center>
+
+<br>
 ## Possible areas of focus:
 * Gain and keep an overview in the work environment and in private
 * Strategic issues for company, life, family
@@ -106,7 +125,7 @@ skills and requires at least 3–5 sessions in a row.
        executive supervision coaching is designed for your needs and your time table as an
        executive: 30 min supervision session every two weeks and 15 min self-reflection every morning.</p>
        <p>
-       This package contains 6 sessions of 30 minutes Zoom call & two weekly check-ins via email or messenger: <b>2000 Euros</b>
+       This package contains 6 sessions of 30 minutes Zoom call & two weekly check-ins via email or messenger: <b>1800 Euros</b>
        </p>
        <p><a href="mailto:{{ site.email }}?subject=Executive Supervision Coaching" target="_blank" class="btn btn-primary">Book now</a></p>
        </div>
@@ -129,7 +148,7 @@ skills and requires at least 3–5 sessions in a row.
         </ul>
         </p>
         <p>
-        This package contains 6 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>1650 Euros</b>
+        This package contains 6 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>1800 Euros</b>
         </p>
         <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - Your Balance" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
@@ -155,7 +174,7 @@ skills and requires at least 3–5 sessions in a row.
           </ul>
         </p>
         <p>
-        This package contains 8 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>2250 Euros</b>
+        This package contains 8 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>2400 Euros</b>
         </p>
         <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - Empathic Leadership" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
@@ -178,7 +197,7 @@ skills and requires at least 3–5 sessions in a row.
         </ul>
         </p>
         <p>
-        This package contains 5 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>1350 Euros</b>
+        This package contains 5 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>1500 Euros</b>
         </p>
         <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - Efficiency" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
@@ -206,7 +225,7 @@ skills and requires at least 3–5 sessions in a row.
           </ul>
           </p>
           <p>
-          This package contains 10 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>2500 Euros</b>
+          This package contains 10 sessions of 45 minutes Zoom call & a weekly check-in via email or messenger: <b>3000 Euros</b>
           </p>
           <p><a href="mailto:{{ site.email }}?subject=Leadership Supervision - For Newbies" target="_blank" class="btn btn-primary">Book now</a></p>
           </div>

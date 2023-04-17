@@ -114,7 +114,7 @@ Der Einfachheit halber wird hier nur die männliche Rolle verwendet. Frauen und 
          </ul>
          </p>
          <p>
-         Dieses Paket enthält 6 Sitzungen mit 45 Minuten Zoom-Call und einen wöchentlichen Check-in per E-Mail oder Messenger: <b>1650 Euro</b>
+         Dieses Paket enthält 6 Sitzungen mit 45 Minuten Zoom-Call und einen wöchentlichen Check-in per E-Mail oder Messenger: <b>1800 Euro</b>
          </p>
         <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Your Balance" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
@@ -140,7 +140,7 @@ Der Einfachheit halber wird hier nur die männliche Rolle verwendet. Frauen und 
              </ul>
            </p>
            <p>
-           Dieses Paket enthält 8 Sitzungen mit 45 Minuten Zoom-Call und einen wöchentlichen Check-in per E-Mail oder Messenger: <b>2250 Euro</b>
+           Dieses Paket enthält 8 Sitzungen mit 45 Minuten Zoom-Call und einen wöchentlichen Check-in per E-Mail oder Messenger: <b>2400 Euro</b>
            </p>
         <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Empathic Leadership" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
@@ -163,7 +163,7 @@ Der Einfachheit halber wird hier nur die männliche Rolle verwendet. Frauen und 
          </ul>
          </p>
          <p>
-         Dieses Paket enthält 5 Sitzungen mit 45 Minuten Zoom-Call und einen wöchentlichen Check-in per E-Mail oder Messenger: <b>1350 Euro</b>
+         Dieses Paket enthält 5 Sitzungen mit 45 Minuten Zoom-Call und einen wöchentlichen Check-in per E-Mail oder Messenger: <b>1500 Euro</b>
          </p>
         <p><a href="mailto:{{ site.email }}?subject=Executive Supervision - Efficiency" target="_blank" class="btn btn-primary">Book now</a></p>
         </div>
