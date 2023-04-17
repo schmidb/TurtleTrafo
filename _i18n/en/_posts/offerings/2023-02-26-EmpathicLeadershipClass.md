@@ -5,8 +5,8 @@ img: space-shuttle.jpg
 title: Kickstart your Empathic Leadership
 title_kurz:
 description: Start with yourself and strengthen your empathetic leadership skills. Start your next step in your leadership skills career and increase efficiency by empathy.
-angebot: 6 weeks course including online community with tips & tricks
-preis: 2400€
+angebot: 6 weeks course including 2 group sessions, 4 personal sessions and online community
+preis: 3000€
 anfrage: "Kickstart your Empathic Leadership"
 permalink: empathicLeaders
 ---
@@ -43,7 +43,36 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
      <i class="fa-solid fa-wand-magic-sparkles fa-2xl"></i>
      <p style="margin-top: 0.25em;">6 weeks transformation guidance and tips & tricks</p>
      </center>
+     </div>   
+
+     <div class="col-sm-3 col-md-3">
+     <center>
+     <i class="fa-solid fa-person-shelter fa-2xl"></i>
+     <p style="margin-top: 0.25em;">2 x 3h onside workshop</p>
+     </center>
      </div>     
+
+     <div class="col-sm-3 col-md-3">
+     <center>
+     <i class="fa-solid fa-person-walking fa-2xl"></i>
+     <p style="margin-top: 0.25em;">4 personal coachings</p>
+     </center>
+     </div>     
+
+     <div class="col-sm-3 col-md-3">
+     <center>
+     <i class="fa-solid fa-handshake fa-2xl"></i>
+     <p style="margin-top: 0.25em;">buddy system for your daily change</p>
+     </center>
+     </div>   
+
+     <div class="col-sm-3 col-md-3">
+     <center>
+     <i class="fa-solid fa-people-group fa-2xl"></i>
+     <p style="margin-top: 0.25em;">only 6 participants</p>
+     </center>
+     </div>  
+
 
         </div>
   </div>
@@ -57,18 +86,25 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 * <b>online</b> - starting in Q1 2024
 * or book <b>your onsite training</b> for your company
 
-#### Price: 2400€ per person
+#### Price: 3000€ per person and limited to 6 participants
 
 <br>
 ## For Whom
-Any person leading a team: C-Level, director, manager, team leader, ...
+Any person leading a team: C-Level, VP, director, manager, team leader
 
 <br>
 ## What we Do
 Empathy is a big new buzzword in leadership. It is the link between managers and employees. Unfortunately, true empathy only comes from connecting with and empathizing with yourself.
-This 6 week empathy kickstart includes 3 weeks of personal development and personal immersion in your values, emotions and behaviors as well as tools to deal with yourself. The other 3 weeks we focus on tools and methods to lead through empathy.
+This 6 week empathy kickstart includes 3 weeks of personal development and personal immersion in your values, emotions and behaviours as well as tools to deal with yourself. The other 3 weeks we focus on tools and methods to lead through empathy.
 
-Alongside the two 3 hour sessions, you will join our online community and receive inspiration once per week to bring empathetic leadership into your daily business. In addition, we are at your disposal for your questions and challenges in the transformation of your leadership style.
+* We start with a 3 hour kickstart workshop.
+* Afterwards, you join our online community and receive inspiration to bring empathetic leadership into your daily business.
+* You build a buddy team with one other participant to support you in your daily change process.
+* Every week, we release an audio message with new directions to increase your empathic leadership skills.
+* For every week between the workshops, you align a personal 30 minutes coaching session with Miriam or Markus. (overall 4 coaching sessions)
+* We finish your transformation with another 3 hour workshop.
+
+In addition, we are at your disposal for your questions and challenges in the transformation of your leadership style.
 
 #### Agenda:
 ##### Day 1 - beginning of course:
@@ -107,9 +143,12 @@ Alongside the two 3 hour sessions, you will join our online community and receiv
 
 <br>
 ## What you Get
-* 6 training sessions
+* 2 x 3h workshop
+* 4 x 30 min personal coaching
+* 4 x audio inspiration for empathic leadership
+* Workbook
 * Personality and leadership development
-* Moderated online community with inspiration twice per week
+* Moderated online community with inspirations
 * More empathy and success for business and private life
 * New tools for your leadership toolbox
 
@@ -125,7 +164,7 @@ Alongside the two 3 hour sessions, you will join our online community and receiv
 * [Markus](https://www.linkedin.com/in/schmidberger) from Turtle Transformation, an expert for leading high performance teams and leadership coach
 
 <br>
-## Request and Book your Seat now
+## Request and Apply four your Seat now
 <div class="container">
   <div class="row">
 
@@ -137,9 +176,12 @@ Alongside the two 3 hour sessions, you will join our online community and receiv
         6 weeks course in Berlin where you start with yourself and strengthen your empathetic leadership skills.
         </p>
         <p>
-        This package contains 6 trainings of 90 minutes & access to the moderated online community in Mighty Networks: <b>2400 Euros per person</b>
+        This package contains 2 x 3h workshop & 4 x 30min coaching & 4 x audio inspiration & access to the moderated online community in Mighty Networks: <b>3000 Euros per person</b>
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Kickstart your Empathic Leadership - BERLIN" target="_blank" class="btn btn-primary">Book now</a></p>
+        <p>
+        There are only 6 places available. Apply now by sending us a short description about your current leadership situation and your motivation to become a human-oriented leader.
+        </p>
+        <p><a href="mailto:{{ site.email }}?subject=Application for Kickstart your Empathic Leadership - BERLIN" target="_blank" class="btn btn-primary">Apply now</a></p>
         </div>
       </div>
     </div>
@@ -153,9 +195,12 @@ Alongside the two 3 hour sessions, you will join our online community and receiv
         6 weeks course in RDI Hub, Ireland where you start with yourself and strengthen your empathetic leadership skills.
         </p>
         <p>
-        This package contains 6 trainings of 90 minutes & access to the moderated online community in Mighty Networks: <b>2400 Euros per person</b>
+        This package contains 2 x 3h workshop & 4 x 30min coaching & 4 x audio inspiration & access to the moderated online community in Mighty Networks: <b>3000 Euros per person</b>
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Kickstart your Empathic Leadership - RDI Hub" target="_blank" class="btn btn-primary">Pre-register now</a></p>
+        <p>
+        There are only 6 places available. Apply now by sending us a short description about your current leadership situation and your motivation to become a human-oriented leader.
+        </p>
+        <p><a href="mailto:{{ site.email }}?subject=Application for Kickstart your Empathic Leadership - RDI Hub" target="_blank" class="btn btn-primary">Apply now</a></p>
         </div>
       </div>
     </div>
@@ -168,7 +213,7 @@ Alongside the two 3 hour sessions, you will join our online community and receiv
         We offer the "Kickstart your Empathic Leadership" training as an onsite training within your company as well. We can run the training for a group (5-10 people) of your leaders within your office or in any nice offsite location.
         </p>
         <p>
-        We offer this package with an agenda optimized for your setup. Usually, we start the training with two full days course and a one full day course after 4 weeks. We guide and support the group over 6 weeks via a moderated online community (in best case as part of one of your internal communication tools, e.g. Slack)
+        We offer this package with an agenda optimized for your setup. We guide and support your group over 6 weeks via a moderated online community (in best case as part of one of your internal communication tools, e.g. Slack)
         </p>
         <p><a href="mailto:{{ site.email }}?subject=Kickstart your Empathic Leadership - Your Onsite Training" target="_blank" class="btn btn-primary">Please contact us for your individual offer</a></p>
         </div>
