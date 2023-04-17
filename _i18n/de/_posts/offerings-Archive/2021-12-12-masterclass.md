@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: building_box.jpg
-category: Services-Firma
+category: Dont-Show-Frontpage
 title: TurtleTrafo Work Excellence Masterclass
 permalink: masterclass
 description: "Wir bieten eine Masterclass an, die Dich als Führungskraft ausbildet, um jederzeit qualitativ hochwertige Ergebnisse zu liefern, ohne Deine Freude zu verlieren."
