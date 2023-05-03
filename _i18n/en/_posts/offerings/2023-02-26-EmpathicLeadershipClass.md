@@ -1,12 +1,12 @@
 ---
 layout: offerings
 category: Services-Firma
-img: space-shuttle.jpg
+img: space-shuttle-box.jpg
 title: Kickstart your Empathic Leadership
 title_kurz:
 description: Start with yourself and strengthen your empathetic leadership skills. Start your next step in your leadership skills career and increase efficiency by empathy.
 angebot: 6 weeks course including 2 group sessions, 4 personal sessions and online community
-preis: 3000€
+preis: for 3000€ in group and 6000€ in 1:1
 anfrage: "Kickstart your Empathic Leadership"
 permalink: empathicLeaders
 ---
@@ -83,16 +83,26 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 * <b>Berlin</b>, [Sinnergie-Berlin](https://sinnergie-berlin.de/kontaktieren-sie-uns9830119b), Pankow, Germany - <b>June + July 2023</b>
   <br>Tuesday: 13.6 and 18.7. , 8:30-11:30am
 * <b>RDI Hub</b>, Killorglin, Ireland - <b>October + November 2023</b>
-* <b>online</b> - starting in Q1 2024
 * or book <b>your onsite training</b> for your company
 
-#### Price: 3000€ per person and limited to 6 participants
+#### Price:
+* 3000€ per person and limited to 6 participants
+* 6000€ the whole course as a 1:1 with Miriam & Markus (online)
 
 <br>
 ## For Whom
 Any person leading a team: C-Level, VP, director, manager, team leader
 
-<br>
+<br><br>
+<center>
+<!-- MeetFox static button start -->
+<link href="https://app.meetfox.com/assets/styles/popup.css" rel="stylesheet" />
+<script src="https://app.meetfox.com/assets/libs/popup.min.js" type="text/javascript"></script>
+<a href="" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" onclick="MeetFox.initStaticButton({ url: 'https://meetfox.com/de/e/turtletrafo/borderless' });return false;">Start your empathic leadership journey</a>
+<!-- MeetFox static button end -->
+</center>
+
+<br><br>
 ## What we Do
 Empathy is a big new buzzword in leadership. It is the link between managers and employees. Unfortunately, true empathy only comes from connecting with and empathizing with yourself.
 This 6 week empathy kickstart includes 3 weeks of personal development and personal immersion in your values, emotions and behaviours as well as tools to deal with yourself. The other 3 weeks we focus on tools and methods to lead through empathy.
@@ -158,7 +168,16 @@ In addition, we are at your disposal for your questions and challenges in the tr
 * Examples from your everyday business
 * A yoga mat and friendly clothing for some movements
 
-<br>
+<br><br>
+<center>
+<!-- MeetFox static button start -->
+<link href="https://app.meetfox.com/assets/styles/popup.css" rel="stylesheet" />
+<script src="https://app.meetfox.com/assets/libs/popup.min.js" type="text/javascript"></script>
+<a href="" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" onclick="MeetFox.initStaticButton({ url: 'https://meetfox.com/de/e/turtletrafo/borderless' });return false;">Start your empathic leadership journey</a>
+<!-- MeetFox static button end -->
+</center>
+
+<br><br>
 ## Your Trainers
 * [Miriam](https://www.linkedin.com/in/miriamschmidberger) from Turtle Transformation, an expert in agile leadership and personal development
 * [Markus](https://www.linkedin.com/in/schmidberger) from Turtle Transformation, an expert for leading high performance teams and leadership coach
@@ -219,6 +238,22 @@ In addition, we are at your disposal for your questions and challenges in the tr
         </div>
       </div>
     </div>
+
+
+      <div class="col-lg-6">
+         <div class="panel panel-info">
+           <div class="panel-heading"><b>Package deal - fear + empathic leadership</b></div>
+           <div class="panel-body">
+    <p>Accelerate your personal and leadership journey by combining the "Who are you, fear" training with the "Kickstart your Empathic Leadership" training. Two courses that go very well together and by using your fear as a teacher and guide your empathic leadership skills will grow exponentially.</p>
+    <p>
+    This package contains both courses which take place in June & July 2023 in Berlin: <b>4500 Euros</b>
+    <br>or the whole course as a 1:1 with Miriam & Markus (online): <b>8500 Euros</b>
+    </p>
+            <p><a href="mailto:{{ site.email }}?subject=Application for Package fear and empathic leadership" target="_blank" class="btn btn-primary">Apply now</a></p>
+           </div>
+         </div>
+       </div>
+
 
 </div>
 </div>

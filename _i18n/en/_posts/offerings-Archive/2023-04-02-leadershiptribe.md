@@ -1,6 +1,6 @@
 ---
 layout: offerings
-category: Services-Firma
+category: Dont-Show-Frontpage
 img: MiB_box.jpg
 title: Turtle Transformation Leadership Tribe
 title_kurz:
