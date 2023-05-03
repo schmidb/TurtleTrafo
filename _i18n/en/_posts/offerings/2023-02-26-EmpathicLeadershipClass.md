@@ -1,7 +1,7 @@
 ---
 layout: offerings
 category: Services-Firma
-img: space-shuttle-box.jpg
+img: EmpathicLeadership_box.png
 title: Kickstart your Empathic Leadership
 title_kurz:
 description: Start with yourself and strengthen your empathetic leadership skills. Start your next step in your leadership skills career and increase efficiency by empathy.

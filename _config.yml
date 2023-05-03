@@ -8,7 +8,7 @@ title: Turtle Transformation
 email: info@turtletrafo.de
 author: Miriam & Markus Schmidberger
 description: 'Wir teilen mit Dir unseren Weg und begleiten Dich auf Deiner Transformation als Individuum, als Familie oder als Firma.'
-copyright: 'Copyright &copy; 2020 Miriam & Markus Schmidberger. All Rights Reserved.'
+copyright: 'Copyright &copy; 2023 Miriam & Markus Schmidberger. All Rights Reserved.'
 credits: ''
 keep_files: [CNAME]
 
@@ -57,5 +57,7 @@ social:
     url: https://www.facebook.com/turtletrafo
   - title: instagram
     url: https://www.instagram.com/turtletrafo
+  - title: twitter
+    url: https://www.twitter.com/turtletrafo
   - title: youtube
     url: https://www.youtube.com/@turtletrafo
