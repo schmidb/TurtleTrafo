@@ -78,6 +78,13 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
   </div>
 <br>
 
+<center>
+<p><i>76% of people who experienced empathy from their leaders reported they were <b>engaged</b>.</i></p>
+<p><i>When people felt their leaders were more empathetic, 86% reported they are able to navigate the <b>demands of their work and life</b>.</i></p>
+<p><small>all numbers following research by Forbes<br>https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research</small></p>
+</center>
+
+<br><br>
 ## Hard facts
 #### Next Dates & Location:
 * <b>Berlin</b>, [Sinnergie-Berlin](https://sinnergie-berlin.de/kontaktieren-sie-uns9830119b), Pankow, Germany - <b>June + July 2023</b>
@@ -92,6 +99,13 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 <br>
 ## For Whom
 Any person leading a team: C-Level, VP, director, manager, team leader
+
+<br>
+<center>
+<p><i> When people reported their leaders were empathetic, they were more likely to report they were able to be <b>innovative</b> — 61% of employees.</i></p>
+<p><i>57% of white women and 62% of women of color said they were <b>unlikely to think of leaving</b> their companies when they felt their life circumstances were respected and valued by their companies.</i></p>
+<p><small>all numbers following research by Forbes<br>https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research</small></p>
+</center>
 
 <br><br>
 <center>
@@ -179,10 +193,13 @@ In addition, we are at your disposal for your questions and challenges in the tr
 
 <br><br>
 ## Your Trainers
-* [Miriam](https://www.linkedin.com/in/miriamschmidberger) from Turtle Transformation, an expert in agile leadership and personal development
-* [Markus](https://www.linkedin.com/in/schmidberger) from Turtle Transformation, an expert for leading high performance teams and leadership coach
+![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="150"}{:style="float:left;margin-right:10px;"}[Miriam](https://www.linkedin.com/in/miriamschmidberger) is a Change Angle and Performance Coach. Miriam combines inner work and personality development with scientific down-to-earthness. With a variety of intuitive tools, it can be your fast track to a powerful relationship with your fear.
+<br><br>
+![Markus](/img/markus_empathic_2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}[Markus](https://www.linkedin.com/in/schmidberger) is a Transformation and Leadership coach. He is an expert in leading high-performance teams and combines the power of human centricity, technology, strategy and processes.
 
-<br>
+
+
+<br><br><br>
 ## Request and Apply four your Seat now
 <div class="container">
   <div class="row">
