@@ -84,17 +84,6 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 <p><small>all numbers following research by Forbes<br>https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research</small></p>
 </center>
 
-<br><br>
-## Hard facts
-#### Next Dates & Location:
-* <b>Berlin</b>, [Sinnergie-Berlin](https://sinnergie-berlin.de/kontaktieren-sie-uns9830119b), Pankow, Germany - <b>June + July 2023</b>
-  <br>Tuesday: 13.6 and 18.7. , 8:30-11:30am
-* <b>RDI Hub</b>, Killorglin, Ireland - <b>October + November 2023</b>
-* or book <b>your onsite training</b> for your company
-
-#### Price:
-* 3000€ per person and limited to 6 participants
-* 6000€ the whole course as a 1:1 with Miriam & Markus (online)
 
 <br>
 ## For Whom
@@ -206,40 +195,45 @@ In addition, we are at your disposal for your questions and challenges in the tr
 
     <div class="col-lg-6">
       <div class="panel panel-info">
-        <div class="panel-heading">Kickstart your Empathic Leadership - BERLIN</div>
+        <div class="panel-heading">Online - Kickstart your Empathic Leadership</div>
         <div class="panel-body">
         <p>
-        6 weeks course in Berlin where you start with yourself and strengthen your empathetic leadership skills.
+        6 weeks online course where you start with yourself and strengthen your empathetic leadership skills.
         </p>
-        <p>
-        This package contains 2 x 3h workshop & 4 x 30min coaching & 4 x audio inspiration & access to the moderated online community in Mighty Networks: <b>3000 Euros per person</b>
-        </p>
+        <ul>
+        <li> This package contains 2 x 3h workshop & 4 x 30min coaching & 4 x audio inspiration & access to the moderated online community in Mighty Networks</li>
+        <li>Next group course starts at Friday, November 3, 2023, 9-12am CET. Course is ending at December 8, 9-12am CET.</li>
+        <li>Price: 3000 Euros per person</li>
+        </ul>
         <p>
         There are only 6 places available. Apply now by sending us a short description about your current leadership situation and your motivation to become a human-oriented leader.
         </p>
-        <p><a href="mailto:{{ site.email }}?subject=Application for Kickstart your Empathic Leadership - BERLIN" target="_blank" class="btn btn-primary">Apply now</a></p>
+        <p><a href="mailto:{{ site.email }}?subject=Application for Kickstart your Empathic Leadership" target="_blank" class="btn btn-primary">Apply now</a></p>
         </div>
       </div>
     </div>
-
 
     <div class="col-lg-6">
       <div class="panel panel-info">
-        <div class="panel-heading">Kickstart your Empathic Leadership - RDI Hub</div>
+        <div class="panel-heading">Private - Kickstart your Empathic Leadership</div>
         <div class="panel-body">
         <p>
-        6 weeks course in RDI Hub, Ireland where you start with yourself and strengthen your empathetic leadership skills.
+        6 weeks online course where you start with yourself and strengthen your empathetic leadership skills.
         </p>
+        <ul>
+        <li>This package contains 2 x 3h workshop & 4 x 30min coaching & 4 x audio inspiration</li>
+        <li>Price: 6000 Euros four your personal training</li>
+        </ul>
         <p>
-        This package contains 2 x 3h workshop & 4 x 30min coaching & 4 x audio inspiration & access to the moderated online community in Mighty Networks: <b>3000 Euros per person</b>
+         Apply now by sending us a short description about your current leadership situation and your motivation to become a human-oriented leader.
         </p>
-        <p>
-        There are only 6 places available. Apply now by sending us a short description about your current leadership situation and your motivation to become a human-oriented leader.
-        </p>
-        <p><a href="mailto:{{ site.email }}?subject=Application for Kickstart your Empathic Leadership - RDI Hub" target="_blank" class="btn btn-primary">Apply now</a></p>
+        <p><a href="mailto:{{ site.email }}?subject=Application for Kickstart your Empathic Leadership" target="_blank" class="btn btn-primary">Apply now</a></p>
         </div>
       </div>
     </div>
+
+    </div>
+    <div class="row">
 
     <div class="col-lg-6">
       <div class="panel panel-info">
@@ -263,8 +257,8 @@ In addition, we are at your disposal for your questions and challenges in the tr
            <div class="panel-body">
     <p>Accelerate your personal and leadership journey by combining the "Who are you, fear" training with the "Kickstart your Empathic Leadership" training. Two courses that go very well together and by using your fear as a teacher and guide your empathic leadership skills will grow exponentially.</p>
     <p>
-    This package contains both courses which take place in June & July 2023 in Berlin: <b>4500 Euros</b>
-    <br>or the whole course as a 1:1 with Miriam & Markus (online): <b>8500 Euros</b>
+    This package contains both courses which take place in 2023: <b>3500 Euros in online group</b>
+    <br>or personal online for <b>7250 Euros</b>
     </p>
             <p><a href="mailto:{{ site.email }}?subject=Application for Package fear and empathic leadership" target="_blank" class="btn btn-primary">Apply now</a></p>
            </div>
