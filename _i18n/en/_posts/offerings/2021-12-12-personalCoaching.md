@@ -8,6 +8,7 @@ description: We look forward to walking part of your way with you. Dare to go fr
 angebot: 45 - 60 minutes individual coaching
 preis: from 150€ for 45 min coaching
 anfrage: Personal-Coaching
+permalink: personal-coaching
 ---
 
 After years of intensive life in relationships as a couple, as parents, as a manager and as part of this world, our companion backpack is well filled. We look forward to walking part of your way with you and sharing inspiration and support with you. Each person has their own way. We cannot go your way for you. But we can accompany you and walk a piece of your life together and holistically with you.
@@ -15,6 +16,17 @@ After years of intensive life in relationships as a couple, as parents, as a man
 In our experience, the most important ingredient to achieve a goal is a clear vision and the absolute will to achieve it. We can support you in finding your goals and your authentic path in life. Only you can really want it. You have to want it so badly that you're willing to feel the pain that lies beneath the surface. You must be willing to face any truth about yourself and be brave enough to see & acknowledge that truth when needed and give yourself understanding and acceptance.
 
 Dare to go from 'inside to outside'.
+
+<br>
+<div class="container">
+  <div class="row">
+        <div class="embed-responsive embed-responsive-16by9">
+                    <center>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EENYeSs-vYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </center>
+          </div>
+  </div>
+</div>
 
 <br>
 ## Prices & Booking
