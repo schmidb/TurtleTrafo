@@ -6,7 +6,7 @@ permalink: auswandernFAQ
 description: "Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben in Irland."
 ---
 
-Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben (in Irland). Wir sind Anfang 2019 aus dem deutschen System ausgestiegen und haben mit 4 Kindern die Welt erkundet. 2021 sind wir in Irland angekommen und haben in County Kerry eine neue Familienbase gefunden.
+Wir teilen unsere Erfahrungen und Wissen rund um Auswandern aus Deutschland und Schule & freies Familienleben (in Irland). Wir sind Anfang 2019 aus dem deutschen System ausgestiegen und haben mit 4 Kindern die Welt erkundet. ece3a1d82f18b60bcce0211725c476aa sind wir in Irland angekommen und haben in County Kerry eine neue Familienbase gefunden.
 
 Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freilerner Irland"](https://t.me/freilernenirland). Alle unsere Antworten basieren auf unserem aktuellen Wissensstand (siehe Erstelldatum) bzw. beschreiben die für uns umsetzbare Lösung. Die FAQ Liste ersetzt keine rechtliche oder steuerliche Beratung. Solltet ihr aktuellere oder genauere Informationen zu einem Thema haben dann schickt uns bitte eine [Email](mailto:{{site.email}}) und wir ergänzen die Antwort.
 
