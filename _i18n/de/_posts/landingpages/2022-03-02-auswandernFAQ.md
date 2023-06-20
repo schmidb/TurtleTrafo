@@ -122,22 +122,15 @@ Viele Fragen sind motiviert aus den Diskussionen in der [Telegram Gruppe "Freile
 Wir empfehlen euch sehr zuerst einmal in Irland - oder eurem bevorzugten Land - Urlaub zu machen und das Land und die Menschen kennen zu lernen.
 
 ## Webinar: 'Auswandern - Frei leben und lernen in Irland'
-Katharina Walter ([von Celebrate Being](https://celebrate-being.de)) und Markus bieten in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern - Frei leben und lernen in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 25 Euro.
+Markus bietet in unregelmäßigen Abständen ein 90 minütiges Webinar zum Thema 'Auswandern - Frei leben und lernen in Irland' an. Wir teilen unsere persönliche Erfahrung mit Irland und beantworten eure persönlichen Fragen zum Auswandern und Ankommen in Irland. Der Energieausgleich pro Teilnehmer beträgt 25 Euro.
 
-<b>Nächster Termin: tbd <b><br>
-<a href="https://celebrate-being.de/irland" target=_blank>Anmeldung</a>
+<b>Nächster Termin: Donnerstag, den 28. Juni 2023 um 20:00 Uhr <b><br>
+<a href="https://turtletrafo.de/webinar-irland-2023" target=_blank>Anmeldung</a>
 
 Solltet Ihr Interesse an den Aufnahmen der letzten Webinare habt, dann meldet euch bitte per [Email](mailto:{{site.email}}) bei uns.
 
 <br>
 ## Turtle Trafo - Familien Transformations Coaching
-Dein Weg ins Ausland und hin zu einem neuen Lebensmodell ist eine große Entscheidung und ist - basierend auf unserer Erfarung - nicht immer einfach. Bei Interesse teilen wir Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und genussreich miteinander zu sein. Wir begleiten Dich, wenn Du magst, zu Deinen Familienträumen und zeigen Dir mögliche Wege, wie Entspannung bei Dir und in Deiner Familie ankommen kann.
+Dein Weg ins Ausland und hin zu einem neuen Lebensmodell ist eine große Entscheidung und ist - basierend auf unserer Erfahrung - nicht immer einfach. Bei Interesse teilen wir Wege, die sich für uns bewährt haben, um als Familie friedvoll, entspannt und genussreich miteinander zu sein. Wir begleiten Dich, wenn Du magst, zu Deinen Familienträumen und zeigen Dir mögliche Wege, wie Entspannung bei Dir und in Deiner Familie ankommen kann.
 
 [Turtle Trafo Familien Coaching](services-familie/2021/12/12/FamilenCoaching/)
-
-
-<br>
-## Celebrate Being - Human Design
-Dein Weg ins Ausland wird dich vor Herausforderungen stellen. Je besser Du dich selber kennst, umso bewusster kannst du deine Entscheidungen treffen. Human Design ist ein Ansatz dich tiefer und besser kennen zu lernen. Basierend auf Deinem Human Design Chart und dem Reading dazu, erfährst Du wie einzigartig Du bist. Wir alle haben ein individuelles Design, in dem wir in diesem Körper auf der Erde unsere Erfahrungen machen. Jede Entscheidung, die wir treffen, wird leichter, freudvoller und stimmiger für uns, wenn wir unser Design kennen und erfahren, wie wir „ticken“. Leben wir in Anerkennung unseres einzigartigen Designs, können wir in Liebe vollends in unserem Menschen ankommen.
-
-[Human Design](https://celebrate-being.de/)
