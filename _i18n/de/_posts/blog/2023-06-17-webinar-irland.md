@@ -22,7 +22,13 @@ Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezü
 ## Was Dich erwartet:
 * Unser Weg nach Irland
 * Leben & Arbeiten in Irland
+  * Lenbenskosten
+  * Wohnung oder Haus finden
+  * Melden, PPS, Steuern
+  * Firma und Selbständigkeit in Irland
 * Home-Schooling in Irland
+  * TUSLA und Registrierung
+  * Kindergeld
 * Deine Fragen
 
 <br>
@@ -252,3 +258,9 @@ Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezü
 
 </div>
 </div>
+
+<br><br>
+## Wie geht es nach dem Webinar weiter?
+* Im Idealfall packst du deine Koffer und es geht los nach Irland.
+* Angst ist die größte Blockade im Auswanderungsprozess - hier können wir dich mit einem tollen Training unterstützen: [https://turtletrafo.de/en/fear](https://turtletrafo.de/en/fear)
+* Solltest du noch mehr Klarheit über deinen Weg nach Irland bzw. raus aus Deutschland benötigen, dann können wir dich gerne mit einem persönlichen Familien- / Auswandercoaching begleiten: [https://turtletrafo.de/familienCoaching](https://turtletrafo.de/familienCoaching)
