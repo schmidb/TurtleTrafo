@@ -1,17 +1,17 @@
 ---
 layout: offerings
 category: Services-Firma
-img: fear_box.png
+img: EveryoneIsALeader_Thumbnail.png
 title: Everybody is a Leader
 title_kurz:
-description: "In this 90 minutes workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated training which takes body, mind and soul into account. It is aligning consciousness with the unconsciousness."
-angebot: ""
+description: "In this 90 minutes workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated workshop which takes body, mind and soul into account."
+angebot: "It is time to take back the ownership of your life."
 preis: for 20€ in a small group
 anfrage: "Everybody is a Leader"
 permalink: everybody-leader
 ---
 
-In this 90 minutes mind opening and integrated workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated training which takes body, mind and soul into account. It is aligning consciousness with the unconsciousness.
+In this 90 minutes mind opening and integrated workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated workshop which takes body, mind and soul into account. It is aligning consciousness with the unconsciousness.
 
 <br><center>
 <i>“Everyone is deciding about your life except of you? - it is time to take the ownership back"</i>
