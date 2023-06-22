@@ -9,8 +9,15 @@ tag: [Familie, Inspiration]
 permalink: webinar-irland-2023
 ---
 
-Viele Menschen sind daran interessiert, welche Möglichkeiten es in Irland für Familien zum Leben und Lernen gibt. Wir sind mit unserer Familie den Schritt gegangen und haben uns bewusst für ein neues und freies Leben - ohne Schule - auf der Insel entschieden.
+Viele Menschen sind daran interessiert, welche Möglichkeiten es in **Irland** für Familien zum Leben und Lernen gibt. Wir sind mit unserer Familie den Schritt gegangen und haben uns bewusst für ein neues und freies Leben - ohne Schule - auf der Insel entschieden.
 
+* Du willst aus Deutschland auswandern und suchst nach einem neuen, zu Dir passenden Land?
+* Du überlegst, nach Irland auszuwandern?
+* Du willst Auswandern und bist auf der Suche nach den nötigen Schritten, um den Plan umzusetzen?
+* Klassische deutsch Schule passt nicht zu Deinen Kindern und Du suchst nach legalen Optionen einen freieren Bildungsweg zu gehen?
+* Du bist seit einigen Jahre reisend und möchtest in Europa eine neue (temporäre) Base finden?
+
+<br>
 Um Dir bei der Klarheitsfindung für Deinen Weg zu helfen, veranstalten wir ein **90-minütiges Webinar "Frei leben & lernen in Irland"**. Wir geben allen Fragen rund ums das Leben und Lernen in Irland Raum. Ein Gegenüber, das den Schritt bereits gegangen und für alle Fragen – wie *belanglos* sie auch scheinen mögen – offen ist, ist aus unserer Erfahrung sehr hilfreich.
 
 ### Donnerstag, den 28. Juni 2023 um 20:00 Uhr (UTC+2 / Deutschland)
@@ -26,7 +33,7 @@ Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezü
   * Wohnung oder Haus finden
   * Melden, PPS, Steuern
   * Firma und Selbständigkeit in Irland
-* Home-Schooling in Irland
+* Mit Kindern und Home-Schooling in Irland
   * TUSLA und Registrierung
   * Kindergeld
 * Deine Fragen
