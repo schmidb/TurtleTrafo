@@ -34,9 +34,9 @@ In this 90 minutes mind opening and integrated workshop, Miriam is introducing y
 
 <br>
 ## Dates:
-* Tuesday, 4. July 2023; 9 - 10:30 am - [Sinnergie](https://www.sinnergie-berlin.de/), Berlin Pankow
-* Tuesday, 18. July 2023;  3 - 4:30 pm - [Sinnergie](https://www.sinnergie-berlin.de/), Berlin Pankow
-* Sunday, 23. July 8 2023; - 9:30 pm - online via Google Meet
+* Tuesday, 4. July 2023; 9:00 - 10:30 am - [Sinnergie](https://www.sinnergie-berlin.de/), Berlin Pankow
+* Tuesday, 18. July 2023; 3:00 - 4:30 pm - [Sinnergie](https://www.sinnergie-berlin.de/), Berlin Pankow
+* Sunday, 23. July 2023; 8:00 - 9:30 pm - online via Google Meet
 
 
 <br>
