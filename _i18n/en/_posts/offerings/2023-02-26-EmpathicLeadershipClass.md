@@ -48,7 +48,7 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
      <div class="col-sm-3 col-md-3">
      <center>
      <i class="fa-solid fa-person-shelter fa-2xl"></i>
-     <p style="margin-top: 0.25em;">2 x 3h onside workshop</p>
+     <p style="margin-top: 0.25em;">2 x 3h workshop</p>
      </center>
      </div>     
 
@@ -79,8 +79,8 @@ A 6 weeks course where you start with yourself and strengthen your empathetic le
 <br>
 
 <center>
-<p><i>76% of people who experienced empathy from their leaders reported they were <b>engaged</b>.</i></p>
-<p><i>When people felt their leaders were more empathetic, 86% reported they are able to navigate the <b>demands of their work and life</b>.</i></p>
+<p><i>76% of people who experienced empathy from their leaders reported they <b>feel engaged</b>.</i></p>
+<p><i>When people felt their leaders were more empathetic, 86% reported they feel able to navigate the <b>demands of their work and life</b>.</i></p>
 <p><small>all numbers following research by Forbes<br>https://www.forbes.com/sites/tracybrower/2021/09/19/empathy-is-the-most-important-leadership-skill-according-to-research</small></p>
 </center>
 
@@ -117,7 +117,6 @@ This 6 week empathy kickstart includes 3 weeks of personal development and perso
 * For every week between the workshops, you align a personal 30 minutes coaching session with Miriam or Markus. (overall 4 coaching sessions)
 * We finish your transformation with another 3 hour workshop.
 
-In addition, we are at your disposal for your questions and challenges in the transformation of your leadership style.
 
 #### Agenda:
 ##### Day 1 - beginning of course:
@@ -133,7 +132,10 @@ In addition, we are at your disposal for your questions and challenges in the tr
 * Active listening and authentic communication<br>
 *We will use all your new skills to make connections, manage your emotions, and listen to other people with an open and empathetic mind. It will create a new experience in communicating with your employees.*
 * Observation and empathy in meetings
-*Having many people in a room brings many different emotions and energies into action. As an empathetic leader, you are able to identify everyone's needs and lead your meeting to efficient outcomes.*
+*Having many people in a room brings many different emotions and energies into action. As an empathetic leader, you are able to identify most of them and lead your meeting to efficient outcomes.*
+
+##### Personal coaching: 
+* customized training and toolkit for your specific leadership situation
 
 ##### Day 2 - end of course
 * Projecting stories onto others<br>
