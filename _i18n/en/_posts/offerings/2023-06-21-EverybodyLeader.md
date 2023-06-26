@@ -1,7 +1,7 @@
 ---
 layout: offerings
 category: Services-Firma
-img: EveryoneIsALeader_Thumbnail.png
+img: EverybodyIsALeader_Thumbnail.jpg
 title: Everybody is a Leader
 title_kurz:
 description: "In this 90 minutes workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated workshop which takes body, mind and soul into account."
@@ -264,13 +264,16 @@ In this 90 minutes mind opening and integrated workshop, Miriam is introducing y
 
 <br>
 ## What to bring:
+![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 * Yoga mat (small amount of yoga mats available at Sinnergie), comfortable clothes, notebook, bottle of water
 
 <br>
-![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 ## Your trainer: Miriam Schmidberger
 Miriam is Change Angle and Performance Coach. Miriam combines inner work and personality development with scientific down-to-earthness. With a variety of intuitive tools, she can be your fast track guide to a powerful leader role within your life and business.
 
-<br><center>
+<br>
+<br>
+<center>
 <i>"At the end of the workshop, you are the captain of your life ship and have taken control of the sailing direction"</i>
 </center>
+<img class="img-thumbnail" align="center" alt="Post" src="/img/services/EverybodyIsLeaderPost.jpg" width="50%">
