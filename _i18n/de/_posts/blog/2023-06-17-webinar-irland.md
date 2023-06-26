@@ -20,7 +20,7 @@ Viele Menschen sind daran interessiert, welche Möglichkeiten es in **Irland** f
 <br>
 Um Dir bei der Klarheitsfindung für Deinen Weg zu helfen, veranstalten wir ein **90-minütiges Webinar "Frei leben & lernen in Irland"**. Wir geben allen Fragen rund ums das Leben und Lernen in Irland Raum. Ein Gegenüber, das den Schritt bereits gegangen und für alle Fragen – wie *belanglos* sie auch scheinen mögen – offen ist, ist aus unserer Erfahrung sehr hilfreich.
 
-### Donnerstag, den 28. Juni 2023 um 20:00 Uhr (UTC+2 / Deutschland)
+### MITTWOCH, den 28. Juni 2023 um 20:00 Uhr (UTC+2 / Deutschland)
 
 <br>
 Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezüglich *Irland* beschäftigt, mit in diesen geschützten Raum. Wir nehmen uns die Zeit und teilen mit Dir unsere Erfahrungen und alles, was wir auf dem Weg ins Land und im Land an hilfreichem Wissen angesammelt haben.
@@ -81,7 +81,7 @@ Bring Deine Ängste, Gedanken, Fragen, Impulse und alles, was Dich aktuell bezü
 <div class="panel panel-info">
 <div class="panel-heading">Webinar - Frei leben & lernen in Irland - 28. Juni 2023 um 20 Uhr</div>
 <div class="panel-body">
-  <p>Wenn Du Lust hast, am <b>Donnerstag, den 28. Juni 2023 um 20:00 Uhr (UTC+2 / Deutschland)</b> teilzunehmen und Klarheit über deinen zukünftigen Lebensort möchtest, melde Dich gerne für nur 25€ Energieausgleich an (inkl. Aufzeichnung des Live Webinars):</p>
+  <p>Wenn Du Lust hast, am <b>Mittwoch, den 28. Juni 2023 um 20:00 Uhr (UTC+2 / Deutschland)</b> teilzunehmen und Klarheit über deinen zukünftigen Lebensort möchtest, melde Dich gerne für nur 25€ Energieausgleich an (inkl. Aufzeichnung des Live Webinars):</p>
 
 
 
