@@ -1,7 +1,7 @@
 ---
 layout: offerings
 img: financial.jpg
-category: Services-Firma
+category: Dont-Show-Frontpage
 title: Holistic Data & Cloud Strategy Advisory
 description: "A data and cloud strategy is an essential part of the digital transformation.
 We offer you a holistic advisory and support you in the successful implementation of the strategy within your organization."
