@@ -3,6 +3,7 @@ layout: offerings
 category: Services-Firma
 img: miriam_duenen.jpg
 title: "Turtle Transformation DISTILLED - be your own leader"
+title_kurz: "Turtle Transformation DISTILLED"
 description: "A 12 month long highly efficient program that empowers you to take the reins of your life into your hands with just a small but continuous amount of time necessary."
 angebot:
 preis: starting at 6000€
@@ -59,8 +60,9 @@ VIDEO - coming soon
 
 ![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 <br>
-## Cost:
-6000 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location
+## Hard facts:
+* 6000 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location.
+* Next group is starting in **October 2023**.
 
 <br>
 ## Your trainer: Miriam Schmidberger
