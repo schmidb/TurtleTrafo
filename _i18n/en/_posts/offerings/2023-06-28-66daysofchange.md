@@ -13,17 +13,17 @@ permalink: 66DaysOfChange
 
 Nearly three months of high intensity training aiming for real change inside you.
 
-## These 66 days of training:
-* Offer the opportunity to change fast and deep
-* Gain clarity of what you really want in life
-* Offer a broad range of tools and techniques to work with yourself
+## These 66 days of training ...
+* offer the opportunity to change fast and deep.
+* gain clarity of what you really want in life.
+* offer a broad range of tools and techniques to work with yourself.
 
 <br>
-## This is for you if:
-* Are craving change
-* Willing to really change yourself
-* Wanting this change now
-* Taking on the complete responsibility for yourself
+## This is for you if you are ...
+* craving change.
+* willing to really change yourself.
+* wanting this change NOW.
+* taking on the complete responsibility for yourself.
 
 <br>
 VIDEO - coming soon
@@ -52,8 +52,7 @@ VIDEO - coming soon
 ## What you get:
 
 #### Kick off Workshop:
-* define your goals
-* Including scaling questions to make it measurable
+* Define your goals, including scaling questions to make it measurable
 * (min 1,5 h to max 2 x 1,5 h)
 
 #### Per week:
@@ -61,8 +60,7 @@ VIDEO - coming soon
 * 1 x 60 min Deep Dive
 
 #### Half way through Workshop:
-* refine or change your goals
-* Including scaling questions to make it measurable
+* Refine or change your goals, including scaling questions to make it measurable
 * (min 1,5 h to max 2 x 1,5 h)
 
 #### Finisher celebration and recapitulation
