@@ -3,7 +3,7 @@ layout: offerings
 category: Services-Firma
 img: eagle_1280_box.jpg
 title: "Your personal 66 Days of Change"
-description: "Nearly 3 months of high intensity training aiming for real change inside you."
+description: "Nearly 3 months of high intensity 1:1 training aiming for real change inside you."
 angebot: "Your opportunity to change fast and deep."
 preis: starting at 19.800€
 anfrage: "66DaysOfChange"
@@ -11,11 +11,11 @@ permalink: 66DaysOfChange
 ---
 
 
-Nearly three months of high intensity training aiming for real change inside you.
+Nearly three months of high intensity 1:1 training aiming for real change inside you.
 
 ## These 66 days of training ...
-* offer the opportunity to change fast and deep.
 * gain clarity of what you really want in life.
+* offer the opportunity to change fast and deep.
 * offer a broad range of tools and techniques to work with yourself.
 
 <br>
@@ -51,25 +51,25 @@ VIDEO - coming soon
 <br>
 ## What you get:
 
-#### Kick off Workshop:
+#### Your personal Kick-off Workshop:
 * Define your goals, including scaling questions to make it measurable
 * (min 1,5 h to max 2 x 1,5 h)
 
 #### Per week:
-* 4 x 30 min Check In with technique training
-* 1 x 60 min Deep Dive
+* 4 x 30 min Check-In with technique training
+* 1 x 60 min personal 1:1 Deep Dive
 
-#### Half way through Workshop:
+#### Your personal Half-Way-Through Workshop:
 * Refine or change your goals, including scaling questions to make it measurable
 * (min 1,5 h to max 2 x 1,5 h)
 
-#### Finisher celebration and recapitulation
+#### Your personal Finisher Celebration and Recapitulation
 
 
 <br>
 ## Hard facts:
-* Costs: 19.800 Euro
-* start as soon as the next slot is available. Apply today.
+* Costs: 19.800 Euro for your personal 1:1 training
+* Start as soon as the next slot is available. Apply today.
 
 
 
@@ -89,6 +89,9 @@ The members of the 66 Days of Change Team are PEACEFUL WARRIORS.
 They seek peace within themselves and with the world and repeatedly choose peace-making words and deeds for their path.
 They have a clear vision and are flexible in the course of their journey.
 For this time(and beyond), that person is you.
+</i>
+
+<i>
 As part of the 66 Days of Change Team,
 I stand for seeing my life as my responsibility.
 </i>

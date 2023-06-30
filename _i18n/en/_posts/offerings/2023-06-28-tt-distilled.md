@@ -58,11 +58,12 @@ VIDEO - coming soon
 * Access to the Mighty Network group with all the materials (mediations, worksheets, videos)
 * 1 joint training weekend (probably in Bavaria)
 
-![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 <br>
 ## Hard facts:
 * 6000 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location.
 * Next group is starting in **October 2023**.
+
+![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
 <br>
 ## Your trainer: Miriam Schmidberger
