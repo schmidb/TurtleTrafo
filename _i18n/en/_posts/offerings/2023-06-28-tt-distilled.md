@@ -56,12 +56,17 @@ VIDEO - coming soon
 * 12 monthly topic impulses with in-depth practical part (90 min online)
 * 6  joint online training sessions in the group (30 min online)
 * Access to the Mighty Network group with all the materials (mediations, worksheets, videos)
-* 1 joint training weekend (probably in Bavaria)
+* 1 joint training weekend (probably in Ireland)
 
 <br>
 ## Hard facts:
 * 6000 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location.
 * Next group is starting in **October 2023**.
+  - Kick-Off 30.10.2023: 8:30 pm - 10 pm (CET)
+  - 13.11.2023 - monthly topic - 8:30 pm - 10 pm (CET)
+  - 27.11.2023 - training session - 8:30 pm - 9 pm (CET)
+  - 11.12.2023 - monthly topic - 8:30 pm - 10 pm (CET)
+  - more coming soon
 
 ![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 
