@@ -1,7 +1,7 @@
 ---
 layout: offerings
 category: Services-Firma
-img: eagle_1280_box.jpg
+img: Thumbnail_Website_66DaysOfChange.png
 title: "Your personal 66 Days of Change"
 description: "Nearly 3 months of high intensity 1:1 training aiming for real change inside you."
 angebot: "Your opportunity to change fast and deep."

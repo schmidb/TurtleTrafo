@@ -1,6 +1,6 @@
 ---
 layout: offerings
-img: businessman.jpg
+img: Thumbnail_Website_ClarityAndJoy.png
 category: Services-Firma
 title: Clarity and Joy for Leaders - Leadership Supervision Coaching
 description: "As a leader you have to make many decisions every day. We offer you holistic supervision coaching and consider the interaction of all your topics."

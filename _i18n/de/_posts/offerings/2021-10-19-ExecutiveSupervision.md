@@ -1,6 +1,6 @@
 ---
 layout: offerings
-img: businessman_box.jpg
+img: Thumbnail_Website_ClarityAndJoy.png
 category: Services-Firma
 title: Klarheit und Freude für Manager - Führungskräfte Supervision
 description: "Als Manager musst Du täglich viele Entscheidungen treffen. Wir bieten

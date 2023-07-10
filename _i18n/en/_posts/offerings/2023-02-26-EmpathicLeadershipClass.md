@@ -1,7 +1,7 @@
 ---
 layout: offerings
 category: Services-Firma
-img: EmpathicLeadership_box.png
+img: Thumbnail_Website_EmpathicLeadership.png
 title: Kickstart your Empathic Leadership
 title_kurz:
 description: Start with yourself and strengthen your empathetic leadership skills. Start your next step in your leadership skills career and increase efficiency by empathy.
@@ -134,7 +134,7 @@ This 6 week empathy kickstart includes 3 weeks of personal development and perso
 * Observation and empathy in meetings
 *Having many people in a room brings many different emotions and energies into action. As an empathetic leader, you are able to identify most of them and lead your meeting to efficient outcomes.*
 
-##### Personal coaching: 
+##### Personal coaching:
 * customized training and toolkit for your specific leadership situation
 
 ##### Day 2 - end of course

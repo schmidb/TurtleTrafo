@@ -1,7 +1,7 @@
 ---
 layout: offerings
 category: Services-Firma
-img: EverybodyIsALeader_Thumbnail.jpg
+img: Thumbnail_Website_EverybodyIsALeader.png
 title: Everybody is a Leader
 title_kurz:
 description: "In this 90 minutes workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated workshop which takes body, mind and soul into account."
