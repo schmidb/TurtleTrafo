@@ -1,7 +1,7 @@
 ---
 layout: offerings
 category: Services-Firma
-img: Thumbnail_Website_Destilled.png
+img: Thumbnail_Website_Distilled.png
 title: "Turtle Transformation DISTILLED - be your own leader"
 title_kurz: "Turtle Transformation DISTILLED"
 description: "A 12 month long highly efficient program that empowers you to take the reins of your life into your hands with just a small but continuous amount of time necessary."
