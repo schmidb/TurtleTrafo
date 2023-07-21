@@ -8,6 +8,8 @@ angebot: 1 x family zoom call, 2 x individual coaching and telegram group
 preis: from 700€ per month or from 3500€ for 6 months
 anfrage: Family Transformation Coaching - Monthly Package
 permalink: familienCoaching
+redirect_from:
+  - /en/familienCoaching
 ---
 
 Dare to go from 'inside to outside'.

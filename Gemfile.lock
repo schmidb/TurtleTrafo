@@ -266,6 +266,7 @@ DEPENDENCIES
   github-pages
   jekyll-github-metadata
   jekyll-multiple-languages-plugin (< 1.8.0)
+  jekyll-redirect-from
   jekyll-sitemap
   webrick
 

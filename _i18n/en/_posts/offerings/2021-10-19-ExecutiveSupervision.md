@@ -8,6 +8,8 @@ angebot: packages for individual supervision with Miriam or Markus
 preis: from 1350€ for 3 months supervision
 anfrage: Your manager supervision coaching
 permalink: executive-supervision
+redirect_from:
+  - /en/executive-supervision
 ---
 
 Leaders have a complex task that includes making many decisions every day. In addition to professional skills there are expectations for communication skills, sovereignty, integrity, decision-making power, effectiveness, sense of responsibility, orientation, assertiveness, ability to cooperate, empathy, authenticity, flexibility, an "eye for the essential" and much more. So it is a lot about your individual personality. The conscious design of the leadership role and the ability to self-reflect - with the aim of examining one's own individual perception, thinking and feeling, and the personal communication behavior - are important for your successful leadership.

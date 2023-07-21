@@ -9,6 +9,8 @@ angebot: 6 weeks course including 2 group sessions, 4 personal sessions and onli
 preis: for 3000€ in group and 6000€ in 1:1
 anfrage: "Kickstart your Empathic Leadership"
 permalink: empathicLeaders
+redirect_from:
+  - /en/empathicLeaders
 ---
 
 A 6 weeks course where you start with yourself and strengthen your empathetic leadership skills. Start your next step in your leadership skills career and increase efficiency by empathy. At this course you will get ...

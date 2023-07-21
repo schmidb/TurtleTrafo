@@ -1,6 +1,6 @@
 ---
 layout: offerings
-img: lq_box.jpg
+img: Thumbnail_Website_leadershipquickies.png
 category: Services-Firma
 title: "#leadershipquickies"
 description: "Jeden Montagmorgen veröffentlichen wir einen Leadership-Quickie. Dies ist eine kurze Inspiration für deine tägliche Führungsarbeit, regt an zum Nachdenken und erinnert dich an grundlegende Führungsinstrumente und -prinzipien."

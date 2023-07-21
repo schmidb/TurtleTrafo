@@ -8,6 +8,8 @@ angebot: "Your opportunity to change fast and deep."
 preis: starting at 19.800€
 anfrage: "66DaysOfChange"
 permalink: 66DaysOfChange
+redirect_from:
+  - /en/66DaysOfChange
 ---
 
 

@@ -9,6 +9,8 @@ angebot:
 preis: starting at 6000€
 anfrage: "TT Distilled"
 permalink: tt-distilled
+redirect_from:
+  - /en/tt-distilled
 ---
 
 A 12 month long highly efficient program that empowers you to take the reins of your life into your hands with just a small but continuous amount of time necessary. At the same time you can use it to dive really deep whenever you feel like it.

@@ -9,6 +9,8 @@ angebot: "It is time to take back the ownership of your life."
 preis: for 20€ in a small group
 anfrage: "Everybody is a Leader"
 permalink: everybody-leader
+redirect_from:
+  - /en/everybody-leader
 ---
 
 In this 90 minutes mind opening and integrated workshop, Miriam is introducing you to methods to take the ownership and leadership of your own life. This is an integrated workshop which takes body, mind and soul into account. It is aligning consciousness with the unconsciousness.

@@ -28,11 +28,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-github-metadata #Jekyll plugin to propagate the site.github namespace and set default values for use with GitHub Pages.
   - jekyll-multiple-languages-plugin
+  - jekyll-redirect-from
 
 github: [metadata]
 
 # languages
-languages: ["de", "en"]
+languages: ["en", "de"]
 exclude_from_localizations: ["assets", "css", "fonts", "img", "js", "CNAME", favicon.ico, docs, apple-touch-icon.png, robots.txt]
 exclude:
   - README.md
