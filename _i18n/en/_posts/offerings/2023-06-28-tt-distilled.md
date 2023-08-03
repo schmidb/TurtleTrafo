@@ -53,6 +53,20 @@ VIDEO - coming soon
 * Wisdom
 * Fast learners
 
+
+<br>
+## What our clients saying about the program:
+Florian: <i>"... she guided me through all this with loving kindness, attention, a room of safety and trust. It was easy for me to go deep and everything was already inside of me. She has a wonderful way of getting this outside of you ..."</i>
+<div class="container">
+  <div class="row">
+        <div class="embed-responsive embed-responsive-16by9">
+                    <center>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cu2TnvjpiFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </center>
+          </div>
+  </div>
+</div>
+
 <br>
 ## What you get:
 * 12 monthly topic impulses with in-depth practical part (90 min online)
