@@ -10,4 +10,4 @@ Absolute silence is maintained about all private and personal statements or occu
 # Data protection
 The customer data mentioned in connection with the conclusion of the contract are stored for internal processing and billing purposes. The storage and processing of customer data takes place in strict compliance with the Federal Data Protection Act.
 
-We use Sendinblue as our marketing platform. By completing and submitting forms, you confirm that the information you provide will be sent to Sendinblue for processing in accordance with <a target="_blank" class="clickable_link" href="https://us.sendinblue.com/legal/termsofuse /">Terms of Use</a> are transferred.
+We use Go High Level as our marketing platform. By completing and submitting forms, you confirm that the information you provide will be sent to Go High Level for processing in accordance with <a target="_blank" class="clickable_link" href="https://www.gohighlevel.com/gdpr">Terms of Use</a> are transferred.
