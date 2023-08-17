@@ -55,8 +55,8 @@ VIDEO - coming soon
 
 
 <br>
-## What our clients saying about the program:
-Florian: <i>"... she guided me through all this with loving kindness, attention, a room of safety and trust. It was easy for me to go deep and everything was already inside of me. She has a wonderful way of getting this outside of you ..."</i>
+## What our client Florian is saying about the program:
+<i>"... she guided me through all this with loving kindness, attention, a room of safety and trust. It was easy for me to go deep and everything was already inside of me. She has a wonderful way of getting this outside of you ..."</i>
 <div class="container">
   <div class="row">
         <div class="embed-responsive embed-responsive-16by9">
@@ -84,10 +84,24 @@ Florian: <i>"... she guided me through all this with loving kindness, attention,
   - 11.12.2023 - monthly topic - 8:30 pm - 10 pm (CET)
   - more coming soon
 
-![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
+<br>
+## What our client Ali is saying about the program:
+<i>
+"... I felt lost, I tried therapy, it didn't help. ... I can see clearly now the rain is gone, I feel like I can focus on what is important in life now. ... Miriam reacts to everybody, and it's not a one fits all program ..."</i>
+<div class="container">
+  <div class="row">
+        <div class="embed-responsive embed-responsive-16by9">
+                    <center>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Kcp4eAiiAhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </center>
+          </div>
+  </div>
+</div>
+
 
 <br>
 ## Your trainer: Miriam Schmidberger
+![Miriam](/img/miriam2023.jpg){:class="materialboxed"}{:width="250"}{:style="float:right;margin-left:10px;"}
 Miriam is Change Angle and Performance Coach. Miriam combines inner work and personality development with scientific down-to-earthness. With a variety of intuitive tools, she can be your fast track guide to a powerful leader role within your life and business.
 
 <br>
