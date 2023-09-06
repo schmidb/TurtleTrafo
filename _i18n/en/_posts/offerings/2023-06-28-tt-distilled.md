@@ -6,7 +6,7 @@ title: "Turtle Transformation DISTILLED - be your own leader"
 title_kurz: "Turtle Transformation DISTILLED"
 description: "A 12 month long highly efficient program that empowers you to take the reins of your life into your hands with just a small but continuous amount of time necessary."
 angebot:
-preis: starting at 6000€
+preis: starting at 9900€
 anfrage: "TT Distilled"
 permalink: tt-distilled
 redirect_from:
@@ -69,19 +69,26 @@ VIDEO - coming soon
 
 <br>
 ## What you get:
-* 12 monthly topic impulses with in-depth practical part (90 min online)
-* 6  joint online training sessions in the group (30 min online)
-* Access to the Mighty Network group with all the materials (mediations, worksheets, videos)
-* 1 joint training weekend (probably in Ireland)
+* 12 monthly topic impulses with in-depth practical part (90 min online & recorded)
+* 6 joint online training sessions in the group (30 min online)
+* Access to Whats App group with all the materials (mediations, worksheets, videos)
+* 1 joint training weekend
+  - in Germany, 15. - 17.11.2024: Hotel Seinz (https://www.seinz.de/en/)
+  - in Ireland, early December 2024: Slieve Aughty (https://slieveaughtycentre.com/)
 
 <br>
 ## Hard facts:
-* 6000 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location.
-* Next group is starting in **October 2023**.
+* 9900 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location.
+* Next group in GERMAN is starting in **October 2023**.
+  - All Meetings on Monday evening!
   - Kick-Off 30.10.2023: 8:30 pm - 10 pm (CET)
   - 13.11.2023 - monthly topic - 8:30 pm - 10 pm (CET)
   - 27.11.2023 - training session - 8:30 pm - 9 pm (CET)
   - 11.12.2023 - monthly topic - 8:30 pm - 10 pm (CET)
+  - more coming soon
+* Next group in ENGLISH is starting in **Januar 2024**
+  - All Meetings on Saturday morning!
+  - Kick-Off Tuesday 16.1.2024: 8:30 pm - 10 pm (CET)
   - more coming soon
 
 <br>
