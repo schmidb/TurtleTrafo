@@ -53,6 +53,12 @@ VIDEO - coming soon
 * Wisdom
 * Fast learners
 
+At Turtle Transformation we believe that it is possible to find a solution for all your problems inside of you. To arrive there we as Turtle Transformation Coaches train daily to deeply connect with ourselves and by this deepen the connection between us and everything. This training is part of our life. We enjoy doing this work. As with all training there are days where it is hard and a lot more days where it is great and after every training we feel better.
+
+The techniques we use come from a broad variety of methods since everyone of us is a unique human being and as this needs different approaches. Some of the methods might be known to you and some new like Life Trust Coaching, Unbeatable Mind, Internal Family Systems, The Keys to the Heart Method, Energy Medicine Yoga.
+
+As Turtle Transformation Coaches we also never stop learning since we believe that the way of living an authentic life from the inside out is a lifelong journey.
+
 
 <br>
 ## What our client Florian is saying about the program:
