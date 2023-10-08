@@ -85,16 +85,11 @@ As Turtle Transformation Coaches we also never stop learning since we believe th
 <br>
 ## Hard facts:
 * 9900 Euro including cost for overnight stay and food for the seminar weekend, excluding travel cost to the location.
-* Next group in GERMAN is starting in **October 2023**.
+* Next group in GERMAN is starting in **December 2023**.
   - All Meetings on Monday evening!
-  - Kick-Off 30.10.2023: 8:30 pm - 10 pm (CET)
-  - 13.11.2023 - monthly topic - 8:30 pm - 10 pm (CET)
-  - 27.11.2023 - training session - 8:30 pm - 9 pm (CET)
-  - 11.12.2023 - monthly topic - 8:30 pm - 10 pm (CET)
   - more coming soon
-* Next group in ENGLISH is starting in **Januar 2024**
+* Next group in ENGLISH is starting in **January 2024**
   - All Meetings on Saturday morning!
-  - Kick-Off Tuesday 16.1.2024: 8:30 pm - 10 pm (CET)
   - more coming soon
 
 <br>
